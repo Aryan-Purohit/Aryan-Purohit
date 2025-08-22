@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/49d37b37-024f-42de-a8be-3f3437fcd5e2/d1heyzp-c0b2588a-43ef-43f7-948a-2104bb629fe8.jpg/v1/fill/w_1024,h_724,q_75,strp/a_different_matrix_code_by_markisios_d1heyzp-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzI0IiwicGF0aCI6IlwvZlwvNDlkMzdiMzctMDI0Zi00MmRlLWE4YmUtM2YzNDM3ZmNkNWUyXC9kMWhleXpwLWMwYjI1ODhhLTQzZWYtNDNmNy05NDhhLTIxMDRiYjYyOWZlOC5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.qLX5BqPWHlj9vDaZ-T3yJAl0LBAsc1iW1xz-lzUiAdA" alt="A cool banner showing my name or skills" />
+  <img src="https://blenderartists.org/uploads/default/original/3X/b/b/bb42379498e748d44e75d70fa578a9579faa738d.png" />
 </p>
 
 <h1 align="center">Hey there, I'm Aryan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
