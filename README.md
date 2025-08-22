@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://blenderartists.org/uploads/default/original/3X/b/b/bb42379498e748d44e75d70fa578a9579faa738d.png" />
-</p>
-
 <h1 align="center">Hey there, I'm Aryan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">
