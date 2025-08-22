@@ -1,0 +1,20 @@
+name: Update README with new joke
+
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch: # Allows you to run this workflow manually from the Actions tab
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update README with a joke
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "JOKE_START"
+          feed_list: "https://v2.jokeapi.dev/joke/Any?format=json&blacklistFlags=nsfw,racist,sexist,explicit&type=single"
+          template: "> *$joke*"
