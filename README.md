@@ -15,12 +15,12 @@
 
 ---
 
-### 🚀 What I Do
+🚀 **What I Do**
 
--   👨‍💻 I build responsive and scalable web applications.
--   🌱 I’m currently learning about **WebAssembly** and **Rust**.
--   👯 I’m looking to collaborate on open-source projects related to **[Your Interest]**.
--   💬 Ask me about **React, Node.js, and Developer Productivity**.
+* [cite_start]🛠️ I build full-stack web and desktop applications with a focus on user experience and efficient data management[cite: 27, 34].
+* [cite_start]🌱 I am passionate about using technology to preserve culture and streamline professional workflows[cite: 27, 32].
+* [cite_start]멘 I enjoy mentoring and helping others succeed, drawing from my experience as a Section Leader and Undergraduate Teaching Assistant at ASU[cite: 13, 20].
+* [cite_start]✨ I'm open to collaborating on open-source projects, especially those involving C/C++, Java, or Python[cite: 11, 27, 32].
 
 ---
 
