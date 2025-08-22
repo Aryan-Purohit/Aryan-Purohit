@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="[URL_TO_YOUR_BANNER_IMAGE_OR_GIF]" alt="A cool banner showing my name or skills" />
+  <img src="https://as1.ftcdn.net/v2/jpg/01/85/57/96/1000_F_185579665_NMf32rs2DHwV8PXipMIyAiwhvib9iGgv.jpg" alt="A cool banner showing my name or skills" />
 </p>
 
-<h1 align="center">Hey there, I'm [Your Name] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="center">Hey there, I'm Aryan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">
   <em>A passionate [Your Role] from [Your Location] who loves turning ideas into reality with code.</em>
