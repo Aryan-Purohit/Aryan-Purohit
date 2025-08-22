@@ -5,17 +5,14 @@
 <h1 align="center">Hey there, I'm Aryan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">
-  <em>A passionate [Your Role] from [Your Location] who loves turning ideas into reality with code.</em>
+  <em>A passionate Software Developer from ASU who loves turning ideas into reality with code.</em>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-username">
+  <a href="https://www.linkedin.com/in/aryan-purohit-024b04234/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/your-username">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://your-website.com">
+  <a href="https://aryan-purohit.github.io">
     <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"/>
   </a>
 </p>
