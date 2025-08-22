@@ -1,4 +1,5 @@
-## Hi there 👋 I am Aryan Purohit
+## Hi there 👋 
+I am Aryan Purohit
 
 <!--
 **Aryan-Purohit/Aryan-Purohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
