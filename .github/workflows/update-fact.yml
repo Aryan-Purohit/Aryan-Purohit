@@ -49,23 +49,21 @@ jobs:
                           
                           # Find the position of correct answer after shuffling
                           correct_position = all_answers.index(correct_answer)
-                          options = ['A', 'B', 'C', 'D']
+                          options = ['🅰️', '🅱️', '🅲️', '🅳️']
                           
-                          # Format the trivia with enhanced styling
-                          trivia_text = f"**❓ {question}**\n\n"
-                          trivia_text += "Choose your answer:\n\n"
+                          # Format as poll-style with visual elements
+                          trivia_text = f"### 🧠 Programming Trivia Challenge\n\n"
+                          trivia_text += f"**{question}**\n\n"
                           
                           for i, answer in enumerate(all_answers):
-                              if i == correct_position:
-                                  # Mark correct answer for the reveal section
-                                  trivia_text += f"- [ ] **{options[i]}.** {answer}\n"
-                              else:
-                                  trivia_text += f"- [ ] **{options[i]}.** {answer}\n"
+                              trivia_text += f"> {options[i]} {answer}\n\n"
                           
-                          trivia_text += f"\n<details>\n<summary>🎯 Click to reveal the correct answer!</summary>\n\n"
-                          trivia_text += f"### ✅ Correct Answer: **{options[correct_position]}**\n"
+                          trivia_text += "<details>\n"
+                          trivia_text += "<summary>🎯 <strong>Click to reveal answer & explanation</strong></summary>\n\n"
+                          trivia_text += f"## ✅ Correct Answer: {options[correct_position]}\n\n"
                           trivia_text += f"**{correct_answer}**\n\n"
-                          trivia_text += "---\n*Challenge yourself daily with programming trivia!* 🚀\n"
+                          trivia_text += "---\n"
+                          trivia_text += "*💡 Test your programming knowledge daily!*\n"
                           trivia_text += "</details>"
                           
           except Exception as e:
@@ -95,4 +93,4 @@ jobs:
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "BOT: Update daily coding fact"
+          commit_message: "BOT: Update daily coding trivia"
