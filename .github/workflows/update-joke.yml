@@ -14,13 +14,30 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v4
 
-      # Step 2: Fetch a joke using curl and update the README
+      # Step 2: Fetch joke and update README using a Python script
       - name: Update README with a joke
-        # This command fetches the joke, extracts the 'joke' text,
-        # and replaces the content between the JOKE_START/JOKE_END tags in the README.
         run: |
-          JOKE_TEXT=$(curl -s 'https://v2.jokeapi.dev/joke/Any?blacklistFlags=nsfw,racist,sexist,explicit&type=single' | jq -r '.joke')
-          sed -i '//,//c\\n> '"$JOKE_TEXT"'\n' README.md
+          # Fetch the joke and store it in a GitHub environment variable
+          echo "JOKE_TEXT=$(curl -s 'https://v2.jokeapi.dev/joke/Any?blacklistFlags=nsfw,racist,sexist,explicit&type=single' | jq -r '.joke')" >> $GITHUB_ENV
+          
+          # Run the Python script to safely replace the text in the README
+          python - <<EOF
+          import re
+          import os
+
+          readme_path = "README.md"
+          joke_text = os.getenv("JOKE_TEXT")
+          
+          with open(readme_path, "r") as file:
+              content = file.read()
+          
+          # Use a robust regex to find and replace the block
+          replacement_text = f"\n> {joke_text}\n"
+          new_content = re.sub(r".*", replacement_text, content, flags=re.DOTALL)
+          
+          with open(readme_path, "w") as file:
+              file.write(new_content)
+          EOF
 
       # Step 3: Commit the changes back to your repository
       - name: Commit and push if changed
