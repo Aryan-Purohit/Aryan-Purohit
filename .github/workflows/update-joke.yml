@@ -16,5 +16,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "JOKE_START"
-          feed_list: "https://v2.jokeapi.dev/joke/Any?format=json&blacklistFlags=nsfw,racist,sexist,explicit&type=single"
+          feed_list: 'https://v2.jokeapi.dev/joke/Any?format=json&blacklistFlags=nsfw,racist,sexist,explicit&type=single'
           template: "> *$joke*"
