@@ -34,17 +34,16 @@
 
 ## 🧠 Daily Programming Trivia
 
-**All of the following programs are classified as raster graphics editors EXCEPT:**
+**What does CPU stand for?**
 
-A. Adobe Photoshop
-B. Inkscape
-C. Paint.NET
-D. GIMP
+A. Computer Personal Unit
+B. Central Processing Unit
+C. Central Process Unit
+D. Central Processor Unit
 
 <details>
 <summary>🔍 Click to reveal answer</summary>
 
-**Answer: B** - Inkscape
+**Answer: B** - Central Processing Unit
 
 </details>
-
