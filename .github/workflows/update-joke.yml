@@ -10,11 +10,23 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      # Step 1: Check out your repository code
+      - name: Check out repo
+        uses: actions/checkout@v4
 
+      # Step 2: Fetch a joke using curl and update the README
       - name: Update README with a joke
-        uses: gautamkrishnar/blog-post-workflow@v1
+        # This command fetches the joke, extracts the 'joke' text,
+        # and replaces the content between the JOKE_START/JOKE_END tags in the README.
+        run: |
+          JOKE_TEXT=$(curl -s 'https://v2.jokeapi.dev/joke/Any?blacklistFlags=nsfw,racist,sexist,explicit&type=single' | jq -r '.joke')
+          sed -i '//,//c\\n> '"$JOKE_TEXT"'\n' README.md
+
+      # Step 3: Commit the changes back to your repository
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          comment_tag_name: "JOKE_START"
-          feed_list: 'https://v2.jokeapi.dev/joke/Any?format=json&blacklistFlags=nsfw,racist,sexist,explicit&type=single'
-          template: "> *$joke*"
+          commit_message: "BOT: Update random joke"
+          commit_user_name: "GitHub Actions Bot"
+          commit_user_email: "actions@github.com"
+          commit_author: "GitHub Actions Bot <actions@github.com>"
