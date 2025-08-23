@@ -1,9 +1,9 @@
-name: Update README with new joke
+name: Update README with daily fact
 
 on:
   schedule:
-    # Runs every hour
-    - cron: '0 * * * *'
+    # Runs once a day at midnight UTC
+    - cron: '0 0 * * *'
   workflow_dispatch: # Allows you to run this workflow manually from the Actions tab
 
 jobs:
@@ -17,8 +17,8 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v4
 
-      # Step 2: Fetch joke and update README using a single Python script
-      - name: Update README with a joke
+      # Step 2: Fetch fact and update README using a single Python script
+      - name: Update README with a fact
         run: |
           python - <<EOF
           import re
@@ -26,24 +26,26 @@ jobs:
           from urllib import request
 
           readme_path = "README.md"
-          url = "https://v2.jokeapi.dev/joke/Any?blacklistFlags=nsfw,racist,sexist,explicit&type=single"
-          joke_text = "Could not fetch a joke right now. Please try again later."
+          # New API URL for programming facts
+          url = "https://uselessfacts.jsph.pl/api/v2/facts/random?language=en&tag=programming"
+          fact_text = "Could not fetch a fact right now. Please try again later."
 
           try:
-              # Fetch the joke from the API
+              # Fetch the fact from the API
               with request.urlopen(url) as response:
                   if response.status == 200:
                       data = json.loads(response.read().decode())
-                      joke_text = data.get("joke")
+                      # The fact is stored in the 'text' key
+                      fact_text = data.get("text")
           except Exception as e:
-              print(f"Failed to fetch joke: {e}")
+              print(f"Failed to fetch fact: {e}")
 
           # Read the current README content
           with open(readme_path, "r", encoding="utf-8") as file:
               content = file.read()
           
-          # Use regex to find and replace the joke block
-          replacement_text = f"\n> {joke_text}\n"
+          # Use regex to find and replace the fact block
+          replacement_text = f"\n> {fact_text}\n"
           new_content = re.sub(r".*", replacement_text, content, flags=re.DOTALL)
           
           # Write the new content back to the README
@@ -55,7 +57,7 @@ jobs:
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "BOT: Update random joke"
+          commit_message: "BOT: Update daily coding fact"
           commit_user_name: "GitHub Actions Bot"
           commit_user_email: "actions@github.com"
           commit_author: "GitHub Actions Bot <actions@github.com>"
