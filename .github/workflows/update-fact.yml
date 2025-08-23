@@ -23,33 +23,60 @@ jobs:
           from urllib import request
           
           readme_path = "README.md"
-          url = "https://uselessfacts.jsph.pl/api/v2/facts/random?language=en&tag=programming"
-          fact_text = "Could not fetch a fact right now. Please try again later."
+          
+          # Open Trivia Database - Computer Science category (multiple choice)
+          url = "https://opentdb.com/api.php?amount=1&category=18&type=multiple"
+          
+          trivia_text = "Could not fetch a programming trivia right now. Please try again later."
           
           try:
               with request.urlopen(url) as response:
                   if response.status == 200:
                       data = json.loads(response.read().decode())
-                      fact_text = data.get("text", fact_text)
+                      if data.get("results") and len(data["results"]) > 0:
+                          result = data["results"][0]
+                          
+                          # Decode HTML entities if present
+                          import html
+                          question = html.unescape(result["question"])
+                          correct_answer = html.unescape(result["correct_answer"])
+                          incorrect_answers = [html.unescape(ans) for ans in result["incorrect_answers"]]
+                          
+                          # Combine and shuffle answers
+                          all_answers = incorrect_answers + [correct_answer]
+                          import random
+                          random.shuffle(all_answers)
+                          
+                          # Find the position of correct answer after shuffling
+                          correct_position = all_answers.index(correct_answer)
+                          options = ['A', 'B', 'C', 'D']
+                          
+                          # Format the trivia
+                          trivia_text = f"**{question}**\n\n"
+                          for i, answer in enumerate(all_answers):
+                              trivia_text += f"{options[i]}. {answer}\n"
+                          
+                          trivia_text += f"\n<details>\n<summary>🔍 Click to reveal answer</summary>\n\n**Answer: {options[correct_position]}** - {correct_answer}\n\n</details>"
+                          
           except Exception as e:
-              print(f"Failed to fetch fact: {e}")
+              print(f"Failed to fetch trivia: {e}")
           
           with open(readme_path, "r", encoding="utf-8") as file:
               content = file.read()
           
-          # Create the daily fact section
-          fact_section = f"## 📚 Daily Programming Fact\n\n> {fact_text}\n\n"
+          # Create the daily trivia section
+          trivia_section = f"## 🧠 Daily Programming Trivia\n\n{trivia_text}\n\n"
           
-          # Look for existing daily fact section and replace it
-          # This pattern matches the daily fact section until the next ## heading or end of file
-          pattern = r"## 📚 Daily Programming Fact.*?(?=\n## |\Z)"
+          # Look for existing daily trivia section and replace it
+          # This pattern matches the daily trivia section until the next ## heading or end of file
+          pattern = r"## 🧠 Daily Programming Trivia.*?(?=\n## |\Z)"
           
           if re.search(pattern, content, re.DOTALL):
               # Replace existing section
-              new_content = re.sub(pattern, fact_section.rstrip(), content, flags=re.DOTALL)
+              new_content = re.sub(pattern, trivia_section.rstrip(), content, flags=re.DOTALL)
           else:
               # Add new section at the end if it doesn't exist
-              new_content = content.rstrip() + "\n\n" + fact_section
+              new_content = content.rstrip() + "\n\n" + trivia_section
           
           with open(readme_path, "w", encoding="utf-8") as file:
               file.write(new_content)
