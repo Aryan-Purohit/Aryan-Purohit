@@ -34,25 +34,24 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is known as "the brain" of the Computer?**
+**❓ According to DeMorgan's Theorem, the Boolean expression (AB)' is equivalent to:**
 
 Choose your answer:
 
-**A.** Motherboard
+**A.** AB' + AB
 
-**B.** Central Processing Unit
+**B.** A'B'
 
-**C.** Keyboard
+**C.** A' + B'
 
-**D.** Graphics Processing Unit
+**D.** A'B + B'A
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Central Processing Unit**
+### ✅ Correct Answer: **C**
+**A' + B'**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
 </details>
-
