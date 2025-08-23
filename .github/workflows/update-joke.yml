@@ -9,36 +9,45 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-
     permissions:
       contents: write
+      
     steps:
       # Step 1: Check out your repository code
       - name: Check out repo
         uses: actions/checkout@v4
 
-      # Step 2: Fetch joke and update README using a Python script
+      # Step 2: Fetch joke and update README using a single Python script
       - name: Update README with a joke
         run: |
-          # Fetch the joke and store it in a GitHub environment variable
-          echo "JOKE_TEXT=$(curl -s 'https://v2.jokeapi.dev/joke/Any?blacklistFlags=nsfw,racist,sexist,explicit&type=single' | jq -r '.joke')" >> $GITHUB_ENV
-          
-          # Run the Python script to safely replace the text in the README
           python - <<EOF
           import re
-          import os
+          import json
+          from urllib import request
 
           readme_path = "README.md"
-          joke_text = os.getenv("JOKE_TEXT")
-          
-          with open(readme_path, "r") as file:
+          url = "https://v2.jokeapi.dev/joke/Any?blacklistFlags=nsfw,racist,sexist,explicit&type=single"
+          joke_text = "Could not fetch a joke right now. Please try again later."
+
+          try:
+              # Fetch the joke from the API
+              with request.urlopen(url) as response:
+                  if response.status == 200:
+                      data = json.loads(response.read().decode())
+                      joke_text = data.get("joke")
+          except Exception as e:
+              print(f"Failed to fetch joke: {e}")
+
+          # Read the current README content
+          with open(readme_path, "r", encoding="utf-8") as file:
               content = file.read()
           
-          # Use a robust regex to find and replace the block
+          # Use regex to find and replace the joke block
           replacement_text = f"\n> {joke_text}\n"
           new_content = re.sub(r".*", replacement_text, content, flags=re.DOTALL)
           
-          with open(readme_path, "w") as file:
+          # Write the new content back to the README
+          with open(readme_path, "w", encoding="utf-8") as file:
               file.write(new_content)
           EOF
 
