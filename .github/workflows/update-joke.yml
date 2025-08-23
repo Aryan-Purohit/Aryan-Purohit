@@ -4,7 +4,7 @@ on:
   schedule:
     # Runs once a day at midnight UTC
     - cron: '0 0 * * *'
-  workflow_dispatch: # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch: # Allows you to run this workflow manually
 
 jobs:
   update-readme:
@@ -13,11 +13,9 @@ jobs:
       contents: write
       
     steps:
-      # Step 1: Check out your repository code
       - name: Check out repo
         uses: actions/checkout@v4
 
-      # Step 2: Fetch fact and update README using a single Python script
       - name: Update README with a fact
         run: |
           python - <<EOF
@@ -26,38 +24,28 @@ jobs:
           from urllib import request
 
           readme_path = "README.md"
-          # New API URL for programming facts
           url = "https://uselessfacts.jsph.pl/api/v2/facts/random?language=en&tag=programming"
           fact_text = "Could not fetch a fact right now. Please try again later."
 
           try:
-              # Fetch the fact from the API
               with request.urlopen(url) as response:
                   if response.status == 200:
                       data = json.loads(response.read().decode())
-                      # The fact is stored in the 'text' key
                       fact_text = data.get("text")
           except Exception as e:
               print(f"Failed to fetch fact: {e}")
 
-          # Read the current README content
           with open(readme_path, "r", encoding="utf-8") as file:
               content = file.read()
           
-          # Use regex to find and replace the fact block
           replacement_text = f"\n> {fact_text}\n"
           new_content = re.sub(r".*", replacement_text, content, flags=re.DOTALL)
           
-          # Write the new content back to the README
           with open(readme_path, "w", encoding="utf-8") as file:
               file.write(new_content)
           EOF
 
-      # Step 3: Commit the changes back to your repository
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "BOT: Update daily coding fact"
-          commit_user_name: "GitHub Actions Bot"
-          commit_user_email: "actions@github.com"
-          commit_author: "GitHub Actions Bot <actions@github.com>"
