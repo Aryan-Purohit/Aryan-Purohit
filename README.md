@@ -32,6 +32,18 @@
 
 ---
 
-## 📚 Daily Programming Fact
+## 🧠 Daily Programming Trivia
 
-> Your stomach has to produce a new layer of mucus every 2 weeks otherwise it will digest itself.
+**What does CPU stand for?**
+
+A. Computer Personal Unit
+B. Central Processing Unit
+C. Central Process Unit
+D. Central Processor Unit
+
+<details>
+<summary>🔍 Click to reveal answer</summary>
+
+**Answer: B** - Central Processing Unit
+
+</details>
