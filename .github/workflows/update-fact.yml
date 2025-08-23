@@ -51,12 +51,22 @@ jobs:
                           correct_position = all_answers.index(correct_answer)
                           options = ['A', 'B', 'C', 'D']
                           
-                          # Format the trivia
-                          trivia_text = f"**{question}**\n\n"
-                          for i, answer in enumerate(all_answers):
-                              trivia_text += f"{options[i]}. {answer}\n"
+                          # Format the trivia with enhanced styling
+                          trivia_text = f"**❓ {question}**\n\n"
+                          trivia_text += "Choose your answer:\n\n"
                           
-                          trivia_text += f"\n<details>\n<summary>🔍 Click to reveal answer</summary>\n\n**Answer: {options[correct_position]}** - {correct_answer}\n\n</details>"
+                          for i, answer in enumerate(all_answers):
+                              if i == correct_position:
+                                  # Mark correct answer for the reveal section
+                                  trivia_text += f"- [ ] **{options[i]}.** {answer}\n"
+                              else:
+                                  trivia_text += f"- [ ] **{options[i]}.** {answer}\n"
+                          
+                          trivia_text += f"\n<details>\n<summary>🎯 Click to reveal the correct answer!</summary>\n\n"
+                          trivia_text += f"### ✅ Correct Answer: **{options[correct_position]}**\n"
+                          trivia_text += f"**{correct_answer}**\n\n"
+                          trivia_text += "---\n*Challenge yourself daily with programming trivia!* 🚀\n"
+                          trivia_text += "</details>"
                           
           except Exception as e:
               print(f"Failed to fetch trivia: {e}")
