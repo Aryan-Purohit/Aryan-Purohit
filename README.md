@@ -6,10 +6,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-purohit-024b04234/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Profile" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Profile" width="30" height="30"/>
   </a>
   &nbsp;&nbsp; <a href="https://aryan-purohit.github.io" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="Portfolio Website" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=react" alt="Portfolio Website" width="30" height="30"/>
   </a>
 </p>
 
