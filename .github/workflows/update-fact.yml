@@ -1,5 +1,4 @@
 name: Update README with daily fact
-
 on:
   schedule:
     # Runs once a day at midnight UTC
@@ -15,37 +14,49 @@ jobs:
     steps:
       - name: Check out repo
         uses: actions/checkout@v4
-
+        
       - name: Update README with a fact
         run: |
           python - <<EOF
           import re
           import json
           from urllib import request
-
+          from datetime import datetime
+          
           readme_path = "README.md"
           url = "https://uselessfacts.jsph.pl/api/v2/facts/random?language=en&tag=programming"
           fact_text = "Could not fetch a fact right now. Please try again later."
-
+          
           try:
               with request.urlopen(url) as response:
                   if response.status == 200:
                       data = json.loads(response.read().decode())
-                      fact_text = data.get("text")
+                      fact_text = data.get("text", fact_text)
           except Exception as e:
               print(f"Failed to fetch fact: {e}")
-
+          
           with open(readme_path, "r", encoding="utf-8") as file:
               content = file.read()
           
-          # This is the corrected replacement logic
-          replacement_text = f"\n> {fact_text}\n"
-          new_content = re.sub(r".*", replacement_text, content, flags=re.DOTALL)
+          # Create the daily fact section with timestamp
+          today = datetime.now().strftime("%Y-%m-%d")
+          fact_section = f"## 📚 Daily Programming Fact ({today})\n\n> {fact_text}\n\n"
+          
+          # Look for existing daily fact section and replace it
+          # This pattern matches the daily fact section until the next ## heading or end of file
+          pattern = r"## 📚 Daily Programming Fact.*?(?=\n## |\Z)"
+          
+          if re.search(pattern, content, re.DOTALL):
+              # Replace existing section
+              new_content = re.sub(pattern, fact_section.rstrip(), content, flags=re.DOTALL)
+          else:
+              # Add new section at the end if it doesn't exist
+              new_content = content.rstrip() + "\n\n" + fact_section
           
           with open(readme_path, "w", encoding="utf-8") as file:
               file.write(new_content)
           EOF
-
+          
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
