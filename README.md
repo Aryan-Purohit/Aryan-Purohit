@@ -34,21 +34,25 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ How many values can a single byte represent?**
+### 🧠 Programming Trivia Challenge
 
-Choose your answer:
+**Which SQL keyword is used to fetch data from a database?**
 
-- [ ] **A.** 1024
-- [ ] **B.** 8
-- [ ] **C.** 256
-- [ ] **D.** 1
+> 🅰️ VALUES
+
+> 🅱️ SELECT
+
+> 🅲️ EXEC
+
+> 🅳️ INDEX
 
 <details>
-<summary>🎯 Click to reveal the correct answer!</summary>
+<summary>🎯 <strong>Click to reveal answer & explanation</strong></summary>
 
-### ✅ Correct Answer: **C**
-**256**
+## ✅ Correct Answer: 🅱️
+
+**SELECT**
 
 ---
-*Challenge yourself daily with programming trivia!* 🚀
+*💡 Test your programming knowledge daily!*
 </details>
