@@ -32,8 +32,6 @@
 
 ---
 
-### 💻 Daily Coding Fact
-
 ## 📚 Daily Programming Fact (2025-08-23)
 
 > Camels have three eyelids to protect themselves from blowing sand!
