@@ -21,7 +21,6 @@ jobs:
           import re
           import json
           from urllib import request
-          from datetime import datetime
           
           readme_path = "README.md"
           url = "https://uselessfacts.jsph.pl/api/v2/facts/random?language=en&tag=programming"
@@ -38,9 +37,8 @@ jobs:
           with open(readme_path, "r", encoding="utf-8") as file:
               content = file.read()
           
-          # Create the daily fact section with timestamp
-          today = datetime.now().strftime("%Y-%m-%d")
-          fact_section = f"## 📚 Daily Programming Fact ({today})\n\n> {fact_text}\n\n"
+          # Create the daily fact section
+          fact_section = f"## 📚 Daily Programming Fact\n\n> {fact_text}\n\n"
           
           # Look for existing daily fact section and replace it
           # This pattern matches the daily fact section until the next ## heading or end of file
