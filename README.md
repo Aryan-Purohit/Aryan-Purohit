@@ -34,16 +34,21 @@
 
 ## 🧠 Daily Programming Trivia
 
-**What does CPU stand for?**
+**❓ How many values can a single byte represent?**
 
-A. Computer Personal Unit
-B. Central Processing Unit
-C. Central Process Unit
-D. Central Processor Unit
+Choose your answer:
+
+- [ ] **A.** 1024
+- [ ] **B.** 8
+- [ ] **C.** 256
+- [ ] **D.** 1
 
 <details>
-<summary>🔍 Click to reveal answer</summary>
+<summary>🎯 Click to reveal the correct answer!</summary>
 
-**Answer: B** - Central Processing Unit
+### ✅ Correct Answer: **C**
+**256**
 
+---
+*Challenge yourself daily with programming trivia!* 🚀
 </details>
