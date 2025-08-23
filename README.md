@@ -31,3 +31,28 @@
 </p>
 
 ---
+
+## 🧠 Daily Programming Trivia
+
+**❓ What is known as "the brain" of the Computer?**
+
+Choose your answer:
+
+**A.** Motherboard
+
+**B.** Central Processing Unit
+
+**C.** Keyboard
+
+**D.** Graphics Processing Unit
+
+<details>
+<summary>🎯 Click to reveal the correct answer!</summary>
+
+### ✅ Correct Answer: **B**
+**Central Processing Unit**
+
+---
+*Challenge yourself daily with programming trivia!* 🚀
+</details>
+
