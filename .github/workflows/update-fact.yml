@@ -1,6 +1,9 @@
-name: DEBUG - Update README with daily fact
+name: Update README with daily fact
 
 on:
+  schedule:
+    # Runs once a day at midnight UTC
+    - cron: '0 0 * * *'
   workflow_dispatch: # Allows you to run this workflow manually
 
 jobs:
@@ -13,61 +16,37 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v4
 
-      - name: 1. DEBUG - List all files in the repository
-        run: ls -R
-
-      - name: 2. DEBUG - Show the exact workflow file being run
-        # IMPORTANT: If your file is not named 'update-fact.yml', change the filename below
-        run: cat .github/workflows/update-fact.yml
-
-      - name: 3. DEBUG - Show README content BEFORE the script runs
-        run: cat README.md
-
-      - name: 4. Run the Python script with internal debugging
+      - name: Update README with a fact
         run: |
           python - <<EOF
           import re
           import json
           from urllib import request
 
-          print("--- PYTHON SCRIPT STARTED ---")
           readme_path = "README.md"
           url = "https://uselessfacts.jsph.pl/api/v2/facts/random?language=en&tag=programming"
-          fact_text = "ERROR: Default fact text was used."
+          fact_text = "Could not fetch a fact right now. Please try again later."
 
           try:
               with request.urlopen(url) as response:
                   if response.status == 200:
                       data = json.loads(response.read().decode())
                       fact_text = data.get("text")
-                      print("--- PYTHON: Successfully fetched fact ---")
           except Exception as e:
-              print(f"--- PYTHON: Failed to fetch fact: {e} ---")
+              print(f"Failed to fetch fact: {e}")
 
           with open(readme_path, "r", encoding="utf-8") as file:
               content = file.read()
-              print("--- PYTHON: Successfully read README.md ---")
           
-          print("--- PYTHON: Content of README before replacement ---")
-          print(content)
-          print("--------------------------------------------------")
-
+          # This is the corrected replacement logic
           replacement_text = f"\n> {fact_text}\n"
           new_content = re.sub(r".*", replacement_text, content, flags=re.DOTALL)
           
-          print("--- PYTHON: Content of README AFTER replacement ---")
-          print(new_content)
-          print("-------------------------------------------------")
-
           with open(readme_path, "w", encoding="utf-8") as file:
               file.write(new_content)
-              print("--- PYTHON: Successfully wrote new content to README.md ---")
           EOF
-
-      - name: 5. DEBUG - Show README content AFTER the script runs
-        run: cat README.md
 
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "DEBUG: Update daily coding fact"
+          commit_message: "BOT: Update daily coding fact"
