@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ According to DeMorgan's Theorem, the Boolean expression (AB)' is equivalent to:**
+**❓ In the server hosting industry IaaS stands for...**
 
 Choose your answer:
 
-**A.** AB' + AB
+**A.** Internet as a Service
 
-**B.** A'B'
+**B.** Infrastructure as a Server
 
-**C.** A' + B'
+**C.** Internet and a Server
 
-**D.** A'B + B'A
+**D.** Infrastructure as a Service
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**A' + B'**
+### ✅ Correct Answer: **D**
+**Infrastructure as a Service**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
