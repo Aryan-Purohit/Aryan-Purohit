@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In the server hosting industry IaaS stands for...**
+**❓ What is the most preferred image format used for logos in the Wikimedia database?**
 
 Choose your answer:
 
-**A.** Internet as a Service
+**A.** .jpeg
 
-**B.** Infrastructure as a Server
+**B.** .gif
 
-**C.** Internet and a Server
+**C.** .png
 
-**D.** Infrastructure as a Service
+**D.** .svg
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**Infrastructure as a Service**
+**.svg**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
