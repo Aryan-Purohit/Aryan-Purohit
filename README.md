@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the most preferred image format used for logos in the Wikimedia database?**
+**❓ If you were to code software in this language you'd only be able to type 0's and 1's.**
 
 Choose your answer:
 
-**A.** .jpeg
+**A.** C++
 
-**B.** .gif
+**B.** Python
 
-**C.** .png
+**C.** JavaScript
 
-**D.** .svg
+**D.** Binary
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**.svg**
+**Binary**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
