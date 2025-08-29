@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which of these people was NOT a founder of Apple Inc?**
+**❓ The numbering system with a radix of 16 is more commonly referred to as **
 
 Choose your answer:
 
-**A.** Steve Wozniak
+**A.** Octal
 
-**B.** Ronald Wayne
+**B.** Duodecimal
 
-**C.** Steve Jobs
+**C.** Hexidecimal
 
-**D.** Jonathan Ive
+**D.** Binary
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Jonathan Ive**
+### ✅ Correct Answer: **C**
+**Hexidecimal**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
