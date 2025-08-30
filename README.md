@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ The numbering system with a radix of 16 is more commonly referred to as **
+**❓ What does the acronym CDN stand for in terms of networking?**
 
 Choose your answer:
 
-**A.** Octal
+**A.** Compressed Data Network
 
-**B.** Duodecimal
+**B.** Computational Data Network
 
-**C.** Hexidecimal
+**C.** Content Delivery Network
 
-**D.** Binary
+**D.** Content Distribution Network
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **C**
-**Hexidecimal**
+**Content Delivery Network**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
