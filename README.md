@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does the acronym CDN stand for in terms of networking?**
+**❓ Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?**
 
 Choose your answer:
 
-**A.** Compressed Data Network
+**A.** Microsoft
 
-**B.** Computational Data Network
+**B.** Apple
 
-**C.** Content Delivery Network
+**C.** Commodore
 
-**D.** Content Distribution Network
+**D.** Atari
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Content Delivery Network**
+### ✅ Correct Answer: **B**
+**Apple**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
