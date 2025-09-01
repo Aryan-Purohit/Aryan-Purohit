@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?**
+**❓ Australia, Japan, and Southeast Asia are in which ITU Region?**
 
 Choose your answer:
 
-**A.** Microsoft
+**A.** Region 3
 
-**B.** Apple
+**B.** Region 2
 
-**C.** Commodore
+**C.** Region 4
 
-**D.** Atari
+**D.** Region 1
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Apple**
+### ✅ Correct Answer: **A**
+**Region 3**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
