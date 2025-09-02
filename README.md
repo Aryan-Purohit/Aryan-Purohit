@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Australia, Japan, and Southeast Asia are in which ITU Region?**
+**❓ The Electron computer was released in Britain during 1983 for the home computing market, by which company? **
 
 Choose your answer:
 
-**A.** Region 3
+**A.** Acorn Computers
 
-**B.** Region 2
+**B.** Amstrad PLC
 
-**C.** Region 4
+**C.** Commodore Business Machines
 
-**D.** Region 1
+**D.** Sinclair Research
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **A**
-**Region 3**
+**Acorn Computers**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
