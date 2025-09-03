@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ The Electron computer was released in Britain during 1983 for the home computing market, by which company? **
+**❓ Which of the following languages is used as a scripting language in the Unity 3D game engine?**
 
 Choose your answer:
 
-**A.** Acorn Computers
+**A.** C++
 
-**B.** Amstrad PLC
+**B.** Java
 
-**C.** Commodore Business Machines
+**C.** C#
 
-**D.** Sinclair Research
+**D.** Objective-C
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Acorn Computers**
+### ✅ Correct Answer: **C**
+**C#**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
