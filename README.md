@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which of the following languages is used as a scripting language in the Unity 3D game engine?**
+**❓ What is the name of the default theme that is installed with Windows XP?**
 
 Choose your answer:
 
-**A.** C++
+**A.** Neptune
 
-**B.** Java
+**B.** Luna
 
-**C.** C#
+**C.** Bliss
 
-**D.** Objective-C
+**D.** Whistler
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**C#**
+### ✅ Correct Answer: **B**
+**Luna**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
