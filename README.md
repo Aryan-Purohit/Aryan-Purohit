@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the name of the default theme that is installed with Windows XP?**
+**❓ While Apple was formed in California, in which western state was Microsoft founded?**
 
 Choose your answer:
 
-**A.** Neptune
+**A.** New Mexico
 
-**B.** Luna
+**B.** Arizona
 
-**C.** Bliss
+**C.** Washington
 
-**D.** Whistler
+**D.** Colorado
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Luna**
+### ✅ Correct Answer: **A**
+**New Mexico**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
