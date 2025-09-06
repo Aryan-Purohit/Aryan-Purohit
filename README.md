@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ While Apple was formed in California, in which western state was Microsoft founded?**
+**❓ In computing, what does MIDI stand for?**
 
 Choose your answer:
 
-**A.** New Mexico
+**A.** Musical Instrument Digital Interface
 
-**B.** Arizona
+**B.** Musical Interface of Digital Instruments
 
-**C.** Washington
+**C.** Modular Interface of Digital Instruments
 
-**D.** Colorado
+**D.** Musical Instrument Data Interface
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **A**
-**New Mexico**
+**Musical Instrument Digital Interface**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
