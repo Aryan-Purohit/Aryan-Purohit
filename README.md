@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In computing, what does MIDI stand for?**
+**❓ Which of the following is the oldest of these computers by release date?**
 
 Choose your answer:
 
-**A.** Musical Instrument Digital Interface
+**A.** Commodore 64
 
-**B.** Musical Interface of Digital Instruments
+**B.** Apple 3
 
-**C.** Modular Interface of Digital Instruments
+**C.** TRS-80
 
-**D.** Musical Instrument Data Interface
+**D.** ZX Spectrum
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Musical Instrument Digital Interface**
+### ✅ Correct Answer: **C**
+**TRS-80**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
