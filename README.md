@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which kind of algorithm is Ron Rivest not famous for creating?**
+**❓ What does the International System of Quantities refer 1024 bytes as?**
 
 Choose your answer:
 
-**A.** Asymmetric encryption
+**A.** Kelobyte
 
-**B.** Hashing algorithm
+**B.** Kylobyte
 
-**C.** Stream cipher
+**C.** Kilobyte
 
-**D.** Secret sharing scheme
+**D.** Kibibyte
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**Secret sharing scheme**
+**Kibibyte**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
