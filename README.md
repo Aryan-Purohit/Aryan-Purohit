@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does the International System of Quantities refer 1024 bytes as?**
+**❓ The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?**
 
 Choose your answer:
 
-**A.** Kelobyte
+**A.** Germany
 
-**B.** Kylobyte
+**B.** China (People's Republic of)
 
-**C.** Kilobyte
+**C.** United States
 
-**D.** Kibibyte
+**D.** Taiwan
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**Kibibyte**
+**Taiwan**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
