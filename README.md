@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?**
+**❓ What does GHz stand for?**
 
 Choose your answer:
 
-**A.** Germany
+**A.** Gigahertz
 
-**B.** China (People's Republic of)
+**B.** Gigahatz
 
-**C.** United States
+**C.** Gigahetz
 
-**D.** Taiwan
+**D.** Gigahotz
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Taiwan**
+### ✅ Correct Answer: **A**
+**Gigahertz**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
