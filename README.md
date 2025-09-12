@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does GHz stand for?**
+**❓ Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?**
 
 Choose your answer:
 
-**A.** Gigahertz
+**A.** Corrupted Blood
 
-**B.** Gigahatz
+**B.** Shellshock
 
-**C.** Gigahetz
+**C.** Heartbleed
 
-**D.** Gigahotz
+**D.** Shellscript
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Gigahertz**
+### ✅ Correct Answer: **C**
+**Heartbleed**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
