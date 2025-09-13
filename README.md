@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?**
+**❓ Australia, Japan, and Southeast Asia are in which ITU Region?**
 
 Choose your answer:
 
-**A.** Corrupted Blood
+**A.** Region 3
 
-**B.** Shellshock
+**B.** Region 1
 
-**C.** Heartbleed
+**C.** Region 4
 
-**D.** Shellscript
+**D.** Region 2
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Heartbleed**
+### ✅ Correct Answer: **A**
+**Region 3**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
