@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Australia, Japan, and Southeast Asia are in which ITU Region?**
+**❓ Which computer hardware device provides an interface for all other connected devices to communicate?**
 
 Choose your answer:
 
-**A.** Region 3
+**A.** Central Processing Unit
 
-**B.** Region 1
+**B.** Motherboard
 
-**C.** Region 4
+**C.** Hard Disk Drive
 
-**D.** Region 2
+**D.** Random Access Memory
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Region 3**
+### ✅ Correct Answer: **B**
+**Motherboard**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
