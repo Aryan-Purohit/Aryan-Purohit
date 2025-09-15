@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which computer hardware device provides an interface for all other connected devices to communicate?**
+**❓ Lenovo acquired IBM's personal computer division, including the ThinkPad line of laptops and tablets, in what year?**
 
 Choose your answer:
 
-**A.** Central Processing Unit
+**A.** 2008
 
-**B.** Motherboard
+**B.** 2005
 
-**C.** Hard Disk Drive
+**C.** 1999
 
-**D.** Random Access Memory
+**D.** 2002
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **B**
-**Motherboard**
+**2005**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
