@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Lenovo acquired IBM's personal computer division, including the ThinkPad line of laptops and tablets, in what year?**
+**❓ What was Bitcoin's block size limit in 2010?**
 
 Choose your answer:
 
-**A.** 2008
+**A.** 1 TB
 
-**B.** 2005
+**B.** 1 KB
 
-**C.** 1999
+**C.** 1GB
 
-**D.** 2002
+**D.** 1 MB
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**2005**
+### ✅ Correct Answer: **D**
+**1 MB**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
