@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What was Bitcoin's block size limit in 2010?**
+**❓ In computing, what does LAN stand for?**
 
 Choose your answer:
 
-**A.** 1 TB
+**A.** Local Area Network
 
-**B.** 1 KB
+**B.** Land Address Navigation
 
-**C.** 1GB
+**C.** Long Antenna Node
 
-**D.** 1 MB
+**D.** Light Access Node
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**1 MB**
+### ✅ Correct Answer: **A**
+**Local Area Network**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
