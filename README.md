@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In computing, what does LAN stand for?**
+**❓ Which of the following is the oldest of these computers by release date?**
 
 Choose your answer:
 
-**A.** Local Area Network
+**A.** TRS-80
 
-**B.** Land Address Navigation
+**B.** Commodore 64
 
-**C.** Long Antenna Node
+**C.** ZX Spectrum
 
-**D.** Light Access Node
+**D.** Apple 3
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **A**
-**Local Area Network**
+**TRS-80**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
