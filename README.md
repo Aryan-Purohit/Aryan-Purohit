@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which of the following is the oldest of these computers by release date?**
+**❓ Which programming language was developed by Sun Microsystems in 1995?**
 
 Choose your answer:
 
-**A.** TRS-80
+**A.** C++
 
-**B.** Commodore 64
+**B.** Python
 
-**C.** ZX Spectrum
+**C.** Java
 
-**D.** Apple 3
+**D.** Solaris OS
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**TRS-80**
+### ✅ Correct Answer: **C**
+**Java**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
