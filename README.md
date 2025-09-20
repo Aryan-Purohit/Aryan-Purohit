@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which programming language was developed by Sun Microsystems in 1995?**
+**❓ Which of the following is a personal computer made by the Japanese company Fujitsu?**
 
 Choose your answer:
 
-**A.** C++
+**A.** FM-7
 
-**B.** Python
+**B.** MSX
 
-**C.** Java
+**C.** Xmillennium 
 
-**D.** Solaris OS
+**D.** PC-9801
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Java**
+### ✅ Correct Answer: **A**
+**FM-7**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
