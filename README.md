@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which of the following is a personal computer made by the Japanese company Fujitsu?**
+**❓ Which internet company began life as an online bookstore called 'Cadabra'?**
 
 Choose your answer:
 
-**A.** FM-7
+**A.** Overstock
 
-**B.** MSX
+**B.** eBay
 
-**C.** Xmillennium 
+**C.** Amazon
 
-**D.** PC-9801
+**D.** Shopify
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**FM-7**
+### ✅ Correct Answer: **C**
+**Amazon**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
