@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which internet company began life as an online bookstore called 'Cadabra'?**
+**❓ Which computer hardware device provides an interface for all other connected devices to communicate?**
 
 Choose your answer:
 
-**A.** Overstock
+**A.** Central Processing Unit
 
-**B.** eBay
+**B.** Random Access Memory
 
-**C.** Amazon
+**C.** Hard Disk Drive
 
-**D.** Shopify
+**D.** Motherboard
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Amazon**
+### ✅ Correct Answer: **D**
+**Motherboard**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
