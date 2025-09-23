@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which computer hardware device provides an interface for all other connected devices to communicate?**
+**❓ The teapot often seen in many 3D modeling applications is called what?**
 
 Choose your answer:
 
-**A.** Central Processing Unit
+**A.** Tennessee Teapot
 
-**B.** Random Access Memory
+**B.** 3D Teapot
 
-**C.** Hard Disk Drive
+**C.** Utah Teapot
 
-**D.** Motherboard
+**D.** Pixar Teapot
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Motherboard**
+### ✅ Correct Answer: **C**
+**Utah Teapot**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
