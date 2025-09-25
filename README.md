@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ On Twitter, what was the original character limit for a Tweet?**
+**❓ Which operating system was released first?**
 
 Choose your answer:
 
-**A.** 160
+**A.** Linux
 
-**B.** 100
+**B.** Windows
 
-**C.** 140
+**C.** OS/2
 
-**D.** 120
+**D.** Mac OS
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**140**
+### ✅ Correct Answer: **D**
+**Mac OS**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
