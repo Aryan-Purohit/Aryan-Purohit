@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which operating system was released first?**
+**❓ .at is the top-level domain for what country?**
 
 Choose your answer:
 
-**A.** Linux
+**A.** Angola
 
-**B.** Windows
+**B.** Argentina
 
-**C.** OS/2
+**C.** Austria
 
-**D.** Mac OS
+**D.** Australia
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Mac OS**
+### ✅ Correct Answer: **C**
+**Austria**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
