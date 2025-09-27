@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ .at is the top-level domain for what country?**
+**❓ What was the first Android version specifically optimized for tablets?**
 
 Choose your answer:
 
-**A.** Angola
+**A.** Marshmellow
 
-**B.** Argentina
+**B.** Froyo
 
-**C.** Austria
+**C.** Honeycomb
 
-**D.** Australia
+**D.** Eclair
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **C**
-**Austria**
+**Honeycomb**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
