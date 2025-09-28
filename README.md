@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What was the first Android version specifically optimized for tablets?**
+**❓ In programming, what do you call functions with the same name but different implementations?**
 
 Choose your answer:
 
-**A.** Marshmellow
+**A.** Overriding
 
-**B.** Froyo
+**B.** Inheriting
 
-**C.** Honeycomb
+**C.** Abstracting
 
-**D.** Eclair
+**D.** Overloading
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Honeycomb**
+### ✅ Correct Answer: **D**
+**Overloading**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
