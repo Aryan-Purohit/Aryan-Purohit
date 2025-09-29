@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In programming, what do you call functions with the same name but different implementations?**
+**❓ What is known as "the brain" of the Computer?**
 
 Choose your answer:
 
-**A.** Overriding
+**A.** Central Processing Unit
 
-**B.** Inheriting
+**B.** Graphics Processing Unit
 
-**C.** Abstracting
+**C.** Keyboard
 
-**D.** Overloading
+**D.** Motherboard
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Overloading**
+### ✅ Correct Answer: **A**
+**Central Processing Unit**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
