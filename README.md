@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is known as "the brain" of the Computer?**
+**❓ What is the name of the process that sends one qubit of information using two bits of classical information?**
 
 Choose your answer:
 
-**A.** Central Processing Unit
+**A.** Quantum Entanglement
 
-**B.** Graphics Processing Unit
+**B.** Quantum Teleportation
 
-**C.** Keyboard
+**C.** Super Dense Coding
 
-**D.** Motherboard
+**D.** Quantum Programming
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Central Processing Unit**
+### ✅ Correct Answer: **B**
+**Quantum Teleportation**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
