@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the name of the process that sends one qubit of information using two bits of classical information?**
+**❓ Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?**
 
 Choose your answer:
 
-**A.** Quantum Entanglement
+**A.** Nautilus
 
-**B.** Quantum Teleportation
+**B.** Clipper Chip
 
-**C.** Super Dense Coding
+**C.** Skipjack
 
-**D.** Quantum Programming
+**D.** Enigma Machine
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **B**
-**Quantum Teleportation**
+**Clipper Chip**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
