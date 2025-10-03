@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What major programming language does Unreal Engine 4 use?**
+**❓ On which day did the World Wide Web go online?**
 
 Choose your answer:
 
-**A.** C++
+**A.** November 24, 1995
 
-**B.** C#
+**B.** December 20, 1990
 
-**C.** Assembly
+**C.** November 12, 1990
 
-**D.** ECMAScript
+**D.** December 17, 1996
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**C++**
+### ✅ Correct Answer: **B**
+**December 20, 1990**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
