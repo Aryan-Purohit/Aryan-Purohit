@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ On which day did the World Wide Web go online?**
+**❓ Which of the following is NOT a computer science algorithm?**
 
 Choose your answer:
 
-**A.** November 24, 1995
+**A.** Quick Sort
 
-**B.** December 20, 1990
+**B.** Float Sort
 
-**C.** November 12, 1990
+**C.** Merge Sort
 
-**D.** December 17, 1996
+**D.** Bubble Sort
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **B**
-**December 20, 1990**
+**Float Sort**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
