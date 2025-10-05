@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which of the following is NOT a computer science algorithm?**
+**❓ The acronym "RIP" stands for which of these?**
 
 Choose your answer:
 
-**A.** Quick Sort
+**A.** Routine Inspection Protocol
 
-**B.** Float Sort
+**B.** Runtime Instance Processes
 
-**C.** Merge Sort
+**C.** Routing Information Protocol
 
-**D.** Bubble Sort
+**D.** Regular Interval Processes
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Float Sort**
+### ✅ Correct Answer: **C**
+**Routing Information Protocol**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
