@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ The acronym "RIP" stands for which of these?**
+**❓ What is the name of the default theme that is installed with Windows XP?**
 
 Choose your answer:
 
-**A.** Routine Inspection Protocol
+**A.** Neptune
 
-**B.** Runtime Instance Processes
+**B.** Whistler
 
-**C.** Routing Information Protocol
+**C.** Luna
 
-**D.** Regular Interval Processes
+**D.** Bliss
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **C**
-**Routing Information Protocol**
+**Luna**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
