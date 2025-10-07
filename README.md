@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the name of the default theme that is installed with Windows XP?**
+**❓ In any programming language, what is the most common way to iterate through an array?**
 
 Choose your answer:
 
-**A.** Neptune
+**A.** 'If' Statements
 
-**B.** Whistler
+**B.** 'For' loops
 
-**C.** Luna
+**C.** 'Do-while' loops
 
-**D.** Bliss
+**D.** 'While' loops
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Luna**
+### ✅ Correct Answer: **B**
+**'For' loops**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
