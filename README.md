@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In any programming language, what is the most common way to iterate through an array?**
+**❓ While Apple was formed in California, in which western state was Microsoft founded?**
 
 Choose your answer:
 
-**A.** 'If' Statements
+**A.** New Mexico
 
-**B.** 'For' loops
+**B.** Colorado
 
-**C.** 'Do-while' loops
+**C.** Washington
 
-**D.** 'While' loops
+**D.** Arizona
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**'For' loops**
+### ✅ Correct Answer: **A**
+**New Mexico**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
