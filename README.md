@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ While Apple was formed in California, in which western state was Microsoft founded?**
+**❓ The Harvard architecture for micro-controllers added which additional bus?**
 
 Choose your answer:
 
-**A.** New Mexico
+**A.** Instruction
 
-**B.** Colorado
+**B.** Control
 
-**C.** Washington
+**C.** Data
 
-**D.** Arizona
+**D.** Address
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **A**
-**New Mexico**
+**Instruction**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
