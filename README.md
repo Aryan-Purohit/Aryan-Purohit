@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ The Harvard architecture for micro-controllers added which additional bus?**
+**❓ What major programming language does Unreal Engine 4 use?**
 
 Choose your answer:
 
-**A.** Instruction
+**A.** Assembly
 
-**B.** Control
+**B.** C++
 
-**C.** Data
+**C.** C#
 
-**D.** Address
+**D.** ECMAScript
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Instruction**
+### ✅ Correct Answer: **B**
+**C++**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
