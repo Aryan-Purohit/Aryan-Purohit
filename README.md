@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What major programming language does Unreal Engine 4 use?**
+**❓ How many bytes are in a single Kibibyte?**
 
 Choose your answer:
 
-**A.** Assembly
+**A.** 1024
 
-**B.** C++
+**B.** 2400
 
-**C.** C#
+**C.** 1240
 
-**D.** ECMAScript
+**D.** 1000
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**C++**
+### ✅ Correct Answer: **A**
+**1024**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
