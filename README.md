@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ How many bytes are in a single Kibibyte?**
+**❓ Which of these programming languages is a low-level language?**
 
 Choose your answer:
 
-**A.** 1024
+**A.** C#
 
-**B.** 2400
+**B.** Python
 
-**C.** 1240
+**C.** Pascal
 
-**D.** 1000
+**D.** Assembly
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**1024**
+### ✅ Correct Answer: **D**
+**Assembly**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
