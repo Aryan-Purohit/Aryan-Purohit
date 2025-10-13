@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which of these programming languages is a low-level language?**
+**❓ What language does Node.js use?**
 
 Choose your answer:
 
-**A.** C#
+**A.** Java
 
-**B.** Python
+**B.** JavaScript
 
-**C.** Pascal
+**C.** Joomla Source Code
 
-**D.** Assembly
+**D.** Java Source
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Assembly**
+### ✅ Correct Answer: **B**
+**JavaScript**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
