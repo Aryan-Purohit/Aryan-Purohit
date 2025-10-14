@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What language does Node.js use?**
+**❓ Laserjet and inkjet printers are both examples of what type of printer?**
 
 Choose your answer:
 
-**A.** Java
+**A.** Dot matrix printer
 
-**B.** JavaScript
+**B.** Impact printer
 
-**C.** Joomla Source Code
+**C.** Non-impact printer
 
-**D.** Java Source
+**D.** Daisywheel printer
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**JavaScript**
+### ✅ Correct Answer: **C**
+**Non-impact printer**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
