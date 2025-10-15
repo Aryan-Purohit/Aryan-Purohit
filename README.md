@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Laserjet and inkjet printers are both examples of what type of printer?**
+**❓ How many values can a single byte represent?**
 
 Choose your answer:
 
-**A.** Dot matrix printer
+**A.** 8
 
-**B.** Impact printer
+**B.** 256
 
-**C.** Non-impact printer
+**C.** 1024
 
-**D.** Daisywheel printer
+**D.** 1
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Non-impact printer**
+### ✅ Correct Answer: **B**
+**256**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
