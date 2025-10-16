@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ How many values can a single byte represent?**
+**❓ What language does Node.js use?**
 
 Choose your answer:
 
-**A.** 8
+**A.** JavaScript
 
-**B.** 256
+**B.** Java Source
 
-**C.** 1024
+**C.** Java
 
-**D.** 1
+**D.** Joomla Source Code
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**256**
+### ✅ Correct Answer: **A**
+**JavaScript**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
