@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What language does Node.js use?**
+**❓ What was Bitcoin's block size limit in 2010?**
 
 Choose your answer:
 
-**A.** JavaScript
+**A.** 1 KB
 
-**B.** Java Source
+**B.** 1 MB
 
-**C.** Java
+**C.** 1GB
 
-**D.** Joomla Source Code
+**D.** 1 TB
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**JavaScript**
+### ✅ Correct Answer: **B**
+**1 MB**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
