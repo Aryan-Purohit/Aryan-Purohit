@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What was Bitcoin's block size limit in 2010?**
+**❓ When Gmail first launched, how much storage did it provide for your email?**
 
 Choose your answer:
 
-**A.** 1 KB
+**A.** 1GB
 
-**B.** 1 MB
+**B.** 512MB
 
-**C.** 1GB
+**C.** 5GB
 
-**D.** 1 TB
+**D.** Unlimited
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**1 MB**
+### ✅ Correct Answer: **A**
+**1GB**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
