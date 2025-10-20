@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does "LCD" stand for?**
+**❓ The Electron computer was released in Britain during 1983 for the home computing market, by which company? **
 
 Choose your answer:
 
-**A.** Last Common Difference
+**A.** Commodore Business Machines
 
-**B.** Liquid Crystal Display
+**B.** Sinclair Research
 
-**C.** Language Control Design
+**C.** Amstrad PLC
 
-**D.** Long Continuous Design
+**D.** Acorn Computers
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Liquid Crystal Display**
+### ✅ Correct Answer: **D**
+**Acorn Computers**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
