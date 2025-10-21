@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ The Electron computer was released in Britain during 1983 for the home computing market, by which company? **
+**❓ Which of these programming languages is a low-level language?**
 
 Choose your answer:
 
-**A.** Commodore Business Machines
+**A.** Pascal
 
-**B.** Sinclair Research
+**B.** Assembly
 
-**C.** Amstrad PLC
+**C.** Python
 
-**D.** Acorn Computers
+**D.** C#
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Acorn Computers**
+### ✅ Correct Answer: **B**
+**Assembly**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
