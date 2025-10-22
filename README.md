@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which of these programming languages is a low-level language?**
+**❓ The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?**
 
 Choose your answer:
 
-**A.** Pascal
+**A.** United States
 
-**B.** Assembly
+**B.** Germany
 
-**C.** Python
+**C.** Taiwan
 
-**D.** C#
+**D.** China (People's Republic of)
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Assembly**
+### ✅ Correct Answer: **C**
+**Taiwan**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
