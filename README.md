@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?**
+**❓ Which of these people was NOT a founder of Apple Inc?**
 
 Choose your answer:
 
-**A.** United States
+**A.** Steve Wozniak
 
-**B.** Germany
+**B.** Steve Jobs
 
-**C.** Taiwan
+**C.** Ronald Wayne
 
-**D.** China (People's Republic of)
+**D.** Jonathan Ive
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Taiwan**
+### ✅ Correct Answer: **D**
+**Jonathan Ive**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
