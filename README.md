@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which of these people was NOT a founder of Apple Inc?**
+**❓ What programming language was GitHub written in?**
 
 Choose your answer:
 
-**A.** Steve Wozniak
+**A.** JavaScript
 
-**B.** Steve Jobs
+**B.** Python
 
-**C.** Ronald Wayne
+**C.** Ruby
 
-**D.** Jonathan Ive
+**D.** Lua
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Jonathan Ive**
+### ✅ Correct Answer: **C**
+**Ruby**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
