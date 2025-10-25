@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What programming language was GitHub written in?**
+**❓ Released in 2001, the first edition of Apple's Mac OS X operating system (version 10.0) was given what animal code name?**
 
 Choose your answer:
 
-**A.** JavaScript
+**A.** Cheetah
 
-**B.** Python
+**B.** Tiger
 
-**C.** Ruby
+**C.** Puma
 
-**D.** Lua
+**D.** Leopard
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Ruby**
+### ✅ Correct Answer: **A**
+**Cheetah**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
