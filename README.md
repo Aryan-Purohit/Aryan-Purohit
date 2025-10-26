@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Released in 2001, the first edition of Apple's Mac OS X operating system (version 10.0) was given what animal code name?**
+**❓ In programming, what do you call functions with the same name but different implementations?**
 
 Choose your answer:
 
-**A.** Cheetah
+**A.** Inheriting
 
-**B.** Tiger
+**B.** Overriding
 
-**C.** Puma
+**C.** Abstracting
 
-**D.** Leopard
+**D.** Overloading
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Cheetah**
+### ✅ Correct Answer: **D**
+**Overloading**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
