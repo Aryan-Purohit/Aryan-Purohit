@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In programming, what do you call functions with the same name but different implementations?**
+**❓ What does AD stand for in relation to Windows Operating Systems? **
 
 Choose your answer:
 
-**A.** Inheriting
+**A.** Automated Database
 
-**B.** Overriding
+**B.** Alternative Drive
 
-**C.** Abstracting
+**C.** Active Department
 
-**D.** Overloading
+**D.** Active Directory
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**Overloading**
+**Active Directory**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
