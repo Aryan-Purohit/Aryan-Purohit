@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does AD stand for in relation to Windows Operating Systems? **
+**❓ In "Hexadecimal", what color would be displayed from the color code? "#00FF00"?**
 
 Choose your answer:
 
-**A.** Automated Database
+**A.** Blue
 
-**B.** Alternative Drive
+**B.** Green
 
-**C.** Active Department
+**C.** Red
 
-**D.** Active Directory
+**D.** Yellow
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Active Directory**
+### ✅ Correct Answer: **B**
+**Green**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
