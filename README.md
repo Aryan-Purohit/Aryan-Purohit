@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In "Hexadecimal", what color would be displayed from the color code? "#00FF00"?**
+**❓ According to DeMorgan's Theorem, the Boolean expression (AB)' is equivalent to:**
 
 Choose your answer:
 
-**A.** Blue
+**A.** AB' + AB
 
-**B.** Green
+**B.** A'B + B'A
 
-**C.** Red
+**C.** A'B'
 
-**D.** Yellow
+**D.** A' + B'
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Green**
+### ✅ Correct Answer: **D**
+**A' + B'**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
