@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ According to DeMorgan's Theorem, the Boolean expression (AB)' is equivalent to:**
+**❓ Which operating system was released first?**
 
 Choose your answer:
 
-**A.** AB' + AB
+**A.** OS/2
 
-**B.** A'B + B'A
+**B.** Linux
 
-**C.** A'B'
+**C.** Windows
 
-**D.** A' + B'
+**D.** Mac OS
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**A' + B'**
+**Mac OS**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
