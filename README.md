@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which operating system was released first?**
+**❓ What does LTS stand for in the software market?**
 
 Choose your answer:
 
-**A.** OS/2
+**A.** Ludicrous Transfer Speed
 
-**B.** Linux
+**B.** Long Taco Service
 
-**C.** Windows
+**C.** Long Term Support
 
-**D.** Mac OS
+**D.** Ludicrous Turbo Speed
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Mac OS**
+### ✅ Correct Answer: **C**
+**Long Term Support**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
