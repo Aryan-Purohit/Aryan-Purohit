@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does LTS stand for in the software market?**
+**❓ On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?**
 
 Choose your answer:
 
-**A.** Ludicrous Transfer Speed
+**A.** Dollar Sign
 
-**B.** Long Taco Service
+**B.** Percent Sign
 
-**C.** Long Term Support
+**C.** Asterisk
 
-**D.** Ludicrous Turbo Speed
+**D.** Exclamation Mark
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Long Term Support**
+### ✅ Correct Answer: **D**
+**Exclamation Mark**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
