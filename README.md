@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?**
+**❓ Who is the founder of Palantir?**
 
 Choose your answer:
 
-**A.** Dollar Sign
+**A.** Peter Thiel
 
-**B.** Percent Sign
+**B.** Mark Zuckerberg
 
-**C.** Asterisk
+**C.** Marc Benioff
 
-**D.** Exclamation Mark
+**D.** Jack Dorsey
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Exclamation Mark**
+### ✅ Correct Answer: **A**
+**Peter Thiel**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
