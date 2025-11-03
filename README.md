@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Who is the founder of Palantir?**
+**❓ In computing, what does MIDI stand for?**
 
 Choose your answer:
 
-**A.** Peter Thiel
+**A.** Musical Instrument Data Interface
 
-**B.** Mark Zuckerberg
+**B.** Musical Interface of Digital Instruments
 
-**C.** Marc Benioff
+**C.** Musical Instrument Digital Interface
 
-**D.** Jack Dorsey
+**D.** Modular Interface of Digital Instruments
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Peter Thiel**
+### ✅ Correct Answer: **C**
+**Musical Instrument Digital Interface**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
