@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In computing, what does MIDI stand for?**
+**❓ Which operating system was released first?**
 
 Choose your answer:
 
-**A.** Musical Instrument Data Interface
+**A.** Mac OS
 
-**B.** Musical Interface of Digital Instruments
+**B.** Windows
 
-**C.** Musical Instrument Digital Interface
+**C.** Linux
 
-**D.** Modular Interface of Digital Instruments
+**D.** OS/2
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Musical Instrument Digital Interface**
+### ✅ Correct Answer: **A**
+**Mac OS**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
