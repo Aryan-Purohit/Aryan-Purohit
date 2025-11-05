@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which operating system was released first?**
+**❓ When did the online streaming service "Mixer" launch?**
 
 Choose your answer:
 
-**A.** Mac OS
+**A.** 2011
 
-**B.** Windows
+**B.** 2013
 
-**C.** Linux
+**C.** 2009
 
-**D.** OS/2
+**D.** 2016
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Mac OS**
+### ✅ Correct Answer: **D**
+**2016**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
