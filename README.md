@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ When did the online streaming service "Mixer" launch?**
+**❓ What amount of bits commonly equals one byte?**
 
 Choose your answer:
 
-**A.** 2011
+**A.** 2
 
-**B.** 2013
+**B.** 8
 
-**C.** 2009
+**C.** 1
 
-**D.** 2016
+**D.** 64
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**2016**
+### ✅ Correct Answer: **B**
+**8**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
