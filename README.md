@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What amount of bits commonly equals one byte?**
+**❓ How many cores does the Intel i7-6950X have?**
 
 Choose your answer:
 
-**A.** 2
+**A.** 4
 
 **B.** 8
 
-**C.** 1
+**C.** 10
 
-**D.** 64
+**D.** 12
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**8**
+### ✅ Correct Answer: **C**
+**10**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
