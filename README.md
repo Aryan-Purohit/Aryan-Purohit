@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What amount of bits commonly equals one byte?**
+**❓ Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?**
 
 Choose your answer:
 
-**A.** 2
+**A.** Microsoft
 
-**B.** 8
+**B.** Atari
 
-**C.** 64
+**C.** Commodore
 
-**D.** 1
+**D.** Apple
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**8**
+### ✅ Correct Answer: **D**
+**Apple**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
