@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?**
+**❓ .rs is the top-level domain for what country?**
 
 Choose your answer:
 
-**A.** Microsoft
+**A.** Russia
 
-**B.** Atari
+**B.** Rwanda
 
-**C.** Commodore
+**C.** Serbia
 
-**D.** Apple
+**D.** Romania
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Apple**
+### ✅ Correct Answer: **C**
+**Serbia**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
