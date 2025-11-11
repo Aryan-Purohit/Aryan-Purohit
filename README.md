@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ .rs is the top-level domain for what country?**
+**❓ Which of the following physical typologies are used with Ethernet Networks?**
 
 Choose your answer:
 
-**A.** Russia
+**A.** Hex
 
-**B.** Rwanda
+**B.** Mesh
 
-**C.** Serbia
+**C.** Ring
 
-**D.** Romania
+**D.** Star
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Serbia**
+### ✅ Correct Answer: **D**
+**Star**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
