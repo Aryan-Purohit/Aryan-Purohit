@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the domain name for the country Tuvalu?**
+**❓ What was the name of the security vulnerability found in Bash in 2014?**
 
 Choose your answer:
 
-**A.** .tv
+**A.** Bashbug
 
-**B.** .tt
+**B.** Heartbleed
 
-**C.** .tu
+**C.** Stagefright
 
-**D.** .tl
+**D.** Shellshock
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**.tv**
+### ✅ Correct Answer: **D**
+**Shellshock**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
