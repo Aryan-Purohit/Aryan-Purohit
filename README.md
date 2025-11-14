@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What was the name of the security vulnerability found in Bash in 2014?**
+**❓ Which of the following is NOT a computer science algorithm?**
 
 Choose your answer:
 
-**A.** Bashbug
+**A.** Quick Sort
 
-**B.** Heartbleed
+**B.** Bubble Sort
 
-**C.** Stagefright
+**C.** Merge Sort
 
-**D.** Shellshock
+**D.** Float Sort
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**Shellshock**
+**Float Sort**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
