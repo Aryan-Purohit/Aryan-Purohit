@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which of the following is NOT a computer science algorithm?**
+**❓ What does LTS stand for in the software market?**
 
 Choose your answer:
 
-**A.** Quick Sort
+**A.** Ludicrous Transfer Speed
 
-**B.** Bubble Sort
+**B.** Ludicrous Turbo Speed
 
-**C.** Merge Sort
+**C.** Long Taco Service
 
-**D.** Float Sort
+**D.** Long Term Support
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**Float Sort**
+**Long Term Support**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
