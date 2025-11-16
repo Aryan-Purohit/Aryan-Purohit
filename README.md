@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does LTS stand for in the software market?**
+**❓ Who is the original author of the realtime physics engine called PhysX?**
 
 Choose your answer:
 
-**A.** Ludicrous Transfer Speed
+**A.** AMD
 
-**B.** Ludicrous Turbo Speed
+**B.** Nvidia
 
-**C.** Long Taco Service
+**C.** NovodeX
 
-**D.** Long Term Support
+**D.** Ageia
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Long Term Support**
+### ✅ Correct Answer: **C**
+**NovodeX**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
