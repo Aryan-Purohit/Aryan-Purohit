@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Who is the original author of the realtime physics engine called PhysX?**
+**❓ In networking, what does OSPF stand for?**
 
 Choose your answer:
 
-**A.** AMD
+**A.** Open Signal Path Finder
 
-**B.** Nvidia
+**B.** Order Sense Ping Find
 
-**C.** NovodeX
+**C.** Open Shortest Path First
 
-**D.** Ageia
+**D.** Order State Part First
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **C**
-**NovodeX**
+**Open Shortest Path First**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
