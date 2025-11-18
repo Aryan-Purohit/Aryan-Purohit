@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In networking, what does OSPF stand for?**
+**❓ Which of the following physical typologies are used with Ethernet Networks?**
 
 Choose your answer:
 
-**A.** Open Signal Path Finder
+**A.** Hex
 
-**B.** Order Sense Ping Find
+**B.** Mesh
 
-**C.** Open Shortest Path First
+**C.** Ring
 
-**D.** Order State Part First
+**D.** Star
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Open Shortest Path First**
+### ✅ Correct Answer: **D**
+**Star**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
