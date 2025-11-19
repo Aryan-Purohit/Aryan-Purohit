@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which of the following physical typologies are used with Ethernet Networks?**
+**❓ The numbering system with a radix of 16 is more commonly referred to as **
 
 Choose your answer:
 
-**A.** Hex
+**A.** Duodecimal
 
-**B.** Mesh
+**B.** Octal
 
-**C.** Ring
+**C.** Hexidecimal
 
-**D.** Star
+**D.** Binary
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Star**
+### ✅ Correct Answer: **C**
+**Hexidecimal**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
