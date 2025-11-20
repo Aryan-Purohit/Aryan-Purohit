@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ The numbering system with a radix of 16 is more commonly referred to as **
+**❓ Which of these is not a layer in the OSI model for data communications?**
 
 Choose your answer:
 
-**A.** Duodecimal
+**A.** Application Layer
 
-**B.** Octal
+**B.** Transport Layer
 
-**C.** Hexidecimal
+**C.** Physical Layer
 
-**D.** Binary
+**D.** Connection Layer
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Hexidecimal**
+### ✅ Correct Answer: **D**
+**Connection Layer**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
