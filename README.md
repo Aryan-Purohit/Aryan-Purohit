@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does RAID stand for?**
+**❓ What is the name of the process that sends one qubit of information using two bits of classical information?**
 
 Choose your answer:
 
-**A.** Redundant Array of Independent Disks
+**A.** Super Dense Coding
 
-**B.** Rapid Access for Indexed Devices
+**B.** Quantum Teleportation
 
-**C.** Range of Applications with Identical Designs
+**C.** Quantum Entanglement
 
-**D.** Randomized Abstract Identification Description
+**D.** Quantum Programming
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Redundant Array of Independent Disks**
+### ✅ Correct Answer: **B**
+**Quantum Teleportation**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
