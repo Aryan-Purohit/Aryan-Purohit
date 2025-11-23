@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the name of the process that sends one qubit of information using two bits of classical information?**
+**❓ Which programming language shares its name with an island in Indonesia?**
 
 Choose your answer:
 
-**A.** Super Dense Coding
+**A.** C
 
-**B.** Quantum Teleportation
+**B.** Java
 
-**C.** Quantum Entanglement
+**C.** Jakarta
 
-**D.** Quantum Programming
+**D.** Python
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **B**
-**Quantum Teleportation**
+**Java**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
