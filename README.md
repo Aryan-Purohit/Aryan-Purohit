@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which programming language shares its name with an island in Indonesia?**
+**❓ What five letter word is the motto of the IBM Computer company?**
 
 Choose your answer:
 
-**A.** C
+**A.** Think
 
-**B.** Java
+**B.** Pixel
 
-**C.** Jakarta
+**C.** Click
 
-**D.** Python
+**D.** Logic
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Java**
+### ✅ Correct Answer: **A**
+**Think**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
