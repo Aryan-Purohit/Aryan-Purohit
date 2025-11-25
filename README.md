@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What five letter word is the motto of the IBM Computer company?**
+**❓ What major programming language does Unreal Engine 4 use?**
 
 Choose your answer:
 
-**A.** Think
+**A.** ECMAScript
 
-**B.** Pixel
+**B.** Assembly
 
-**C.** Click
+**C.** C#
 
-**D.** Logic
+**D.** C++
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Think**
+### ✅ Correct Answer: **D**
+**C++**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
