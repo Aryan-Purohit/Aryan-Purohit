@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What major programming language does Unreal Engine 4 use?**
+**❓ What is the name of the process that sends one qubit of information using two bits of classical information?**
 
 Choose your answer:
 
-**A.** ECMAScript
+**A.** Quantum Teleportation
 
-**B.** Assembly
+**B.** Super Dense Coding
 
-**C.** C#
+**C.** Quantum Programming
 
-**D.** C++
+**D.** Quantum Entanglement
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**C++**
+### ✅ Correct Answer: **A**
+**Quantum Teleportation**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
