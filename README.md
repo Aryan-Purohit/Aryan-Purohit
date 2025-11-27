@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the name of the process that sends one qubit of information using two bits of classical information?**
+**❓ Which of these names was an actual codename for a cancelled Microsoft project?**
 
 Choose your answer:
 
-**A.** Quantum Teleportation
+**A.** Neptune
 
-**B.** Super Dense Coding
+**B.** Pollux
 
-**C.** Quantum Programming
+**C.** Enceladus
 
-**D.** Quantum Entanglement
+**D.** Saturn
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **A**
-**Quantum Teleportation**
+**Neptune**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
