@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which of these names was an actual codename for a cancelled Microsoft project?**
+**❓ In web design, what does CSS stand for?**
 
 Choose your answer:
 
-**A.** Neptune
+**A.** Corrective Style Sheet
 
-**B.** Pollux
+**B.** Counter Strike: Source
 
-**C.** Enceladus
+**C.** Cascading Style Sheet
 
-**D.** Saturn
+**D.** Computer Style Sheet
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Neptune**
+### ✅ Correct Answer: **C**
+**Cascading Style Sheet**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
