@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In web design, what does CSS stand for?**
+**❓ What is the main CPU is the Sega Mega Drive / Sega Genesis?**
 
 Choose your answer:
 
-**A.** Corrective Style Sheet
+**A.** Yamaha YM2612
 
-**B.** Counter Strike: Source
+**B.** Motorola 68000
 
-**C.** Cascading Style Sheet
+**C.** Intel 8088
 
-**D.** Computer Style Sheet
+**D.** Zilog Z80
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Cascading Style Sheet**
+### ✅ Correct Answer: **B**
+**Motorola 68000**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
