@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the main CPU is the Sega Mega Drive / Sega Genesis?**
+**❓ The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?**
 
 Choose your answer:
 
-**A.** Yamaha YM2612
+**A.** Germany
 
-**B.** Motorola 68000
+**B.** United States
 
-**C.** Intel 8088
+**C.** China (People's Republic of)
 
-**D.** Zilog Z80
+**D.** Taiwan
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Motorola 68000**
+### ✅ Correct Answer: **D**
+**Taiwan**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
