@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?**
+**❓ What type of sound chip does the Super Nintendo Entertainment System (SNES) have?**
 
 Choose your answer:
 
-**A.** Germany
+**A.** PCM Sampler
 
-**B.** United States
+**B.** Programmable Sound Generator (PSG)
 
-**C.** China (People's Republic of)
+**C.** ADPCM Sampler
 
-**D.** Taiwan
+**D.** FM Synthesizer
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Taiwan**
+### ✅ Correct Answer: **C**
+**ADPCM Sampler**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
