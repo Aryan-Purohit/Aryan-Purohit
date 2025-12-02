@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What type of sound chip does the Super Nintendo Entertainment System (SNES) have?**
+**❓ Which data structure does FILO apply to?**
 
 Choose your answer:
 
-**A.** PCM Sampler
+**A.** Queue
 
-**B.** Programmable Sound Generator (PSG)
+**B.** Tree
 
-**C.** ADPCM Sampler
+**C.** Stack
 
-**D.** FM Synthesizer
+**D.** Heap
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **C**
-**ADPCM Sampler**
+**Stack**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
