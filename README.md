@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which data structure does FILO apply to?**
+**❓ What was the name given to Android 4.3?**
 
 Choose your answer:
 
-**A.** Queue
+**A.** Nutella
 
-**B.** Tree
+**B.** Jelly Bean
 
-**C.** Stack
+**C.** Lollipop
 
-**D.** Heap
+**D.** Froyo
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Stack**
+### ✅ Correct Answer: **B**
+**Jelly Bean**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
