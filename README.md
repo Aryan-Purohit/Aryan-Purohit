@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What was the name given to Android 4.3?**
+**❓ Which of these people was NOT a founder of Apple Inc?**
 
 Choose your answer:
 
-**A.** Nutella
+**A.** Jonathan Ive
 
-**B.** Jelly Bean
+**B.** Steve Jobs
 
-**C.** Lollipop
+**C.** Steve Wozniak
 
-**D.** Froyo
+**D.** Ronald Wayne
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Jelly Bean**
+### ✅ Correct Answer: **A**
+**Jonathan Ive**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
