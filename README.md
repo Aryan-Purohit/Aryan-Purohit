@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which of these people was NOT a founder of Apple Inc?**
+**❓ Laserjet and inkjet printers are both examples of what type of printer?**
 
 Choose your answer:
 
-**A.** Jonathan Ive
+**A.** Impact printer
 
-**B.** Steve Jobs
+**B.** Non-impact printer
 
-**C.** Steve Wozniak
+**C.** Dot matrix printer
 
-**D.** Ronald Wayne
+**D.** Daisywheel printer
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Jonathan Ive**
+### ✅ Correct Answer: **B**
+**Non-impact printer**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
