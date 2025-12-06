@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Laserjet and inkjet printers are both examples of what type of printer?**
+**❓ What does RAID stand for?**
 
 Choose your answer:
 
-**A.** Impact printer
+**A.** Rapid Access for Indexed Devices
 
-**B.** Non-impact printer
+**B.** Redundant Array of Independent Disks
 
-**C.** Dot matrix printer
+**C.** Randomized Abstract Identification Description
 
-**D.** Daisywheel printer
+**D.** Range of Applications with Identical Designs
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **B**
-**Non-impact printer**
+**Redundant Array of Independent Disks**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
