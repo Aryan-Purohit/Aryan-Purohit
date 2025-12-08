@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What type of sound chip does the Super Nintendo Entertainment System (SNES) have?**
+**❓ What was Bitcoin's block size limit in 2010?**
 
 Choose your answer:
 
-**A.** FM Synthesizer
+**A.** 1 KB
 
-**B.** ADPCM Sampler
+**B.** 1GB
 
-**C.** Programmable Sound Generator (PSG)
+**C.** 1 MB
 
-**D.** PCM Sampler
+**D.** 1 TB
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**ADPCM Sampler**
+### ✅ Correct Answer: **C**
+**1 MB**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
