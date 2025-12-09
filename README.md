@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What was Bitcoin's block size limit in 2010?**
+**❓ What does RAID stand for?**
 
 Choose your answer:
 
-**A.** 1 KB
+**A.** Randomized Abstract Identification Description
 
-**B.** 1GB
+**B.** Range of Applications with Identical Designs
 
-**C.** 1 MB
+**C.** Redundant Array of Independent Disks
 
-**D.** 1 TB
+**D.** Rapid Access for Indexed Devices
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **C**
-**1 MB**
+**Redundant Array of Independent Disks**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
