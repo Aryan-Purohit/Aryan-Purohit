@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does RAID stand for?**
+**❓ What type of sound chip does the Super Nintendo Entertainment System (SNES) have?**
 
 Choose your answer:
 
-**A.** Randomized Abstract Identification Description
+**A.** Programmable Sound Generator (PSG)
 
-**B.** Range of Applications with Identical Designs
+**B.** FM Synthesizer
 
-**C.** Redundant Array of Independent Disks
+**C.** PCM Sampler
 
-**D.** Rapid Access for Indexed Devices
+**D.** ADPCM Sampler
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Redundant Array of Independent Disks**
+### ✅ Correct Answer: **D**
+**ADPCM Sampler**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
