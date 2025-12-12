@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which programming language shares its name with an island in Indonesia?**
+**❓ Which of these programming languages is a low-level language?**
 
 Choose your answer:
 
-**A.** Java
+**A.** Python
 
-**B.** Python
+**B.** Pascal
 
-**C.** C
+**C.** C#
 
-**D.** Jakarta
+**D.** Assembly
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Java**
+### ✅ Correct Answer: **D**
+**Assembly**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
