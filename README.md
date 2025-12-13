@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which of these programming languages is a low-level language?**
+**❓ When did the online streaming service "Mixer" launch?**
 
 Choose your answer:
 
-**A.** Python
+**A.** 2011
 
-**B.** Pascal
+**B.** 2009
 
-**C.** C#
+**C.** 2013
 
-**D.** Assembly
+**D.** 2016
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**Assembly**
+**2016**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
