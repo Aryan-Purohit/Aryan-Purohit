@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ When did the online streaming service "Mixer" launch?**
+**❓ The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?**
 
 Choose your answer:
 
-**A.** 2011
+**A.** United States
 
-**B.** 2009
+**B.** Germany
 
-**C.** 2013
+**C.** China (People's Republic of)
 
-**D.** 2016
+**D.** Taiwan
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**2016**
+**Taiwan**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
