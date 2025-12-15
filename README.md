@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?**
+**❓ When Gmail first launched, how much storage did it provide for your email?**
 
 Choose your answer:
 
-**A.** United States
+**A.** Unlimited
 
-**B.** Germany
+**B.** 1GB
 
-**C.** China (People's Republic of)
+**C.** 512MB
 
-**D.** Taiwan
+**D.** 5GB
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Taiwan**
+### ✅ Correct Answer: **B**
+**1GB**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
