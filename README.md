@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ When Gmail first launched, how much storage did it provide for your email?**
+**❓ What does "LCD" stand for?**
 
 Choose your answer:
 
-**A.** Unlimited
+**A.** Liquid Crystal Display
 
-**B.** 1GB
+**B.** Last Common Difference
 
-**C.** 512MB
+**C.** Long Continuous Design
 
-**D.** 5GB
+**D.** Language Control Design
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**1GB**
+### ✅ Correct Answer: **A**
+**Liquid Crystal Display**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
