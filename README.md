@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which kind of algorithm is Ron Rivest not famous for creating?**
+**❓ In computing, what does LAN stand for?**
 
 Choose your answer:
 
-**A.** Hashing algorithm
+**A.** Light Access Node
 
-**B.** Secret sharing scheme
+**B.** Long Antenna Node
 
-**C.** Asymmetric encryption
+**C.** Local Area Network
 
-**D.** Stream cipher
+**D.** Land Address Navigation
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Secret sharing scheme**
+### ✅ Correct Answer: **C**
+**Local Area Network**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
