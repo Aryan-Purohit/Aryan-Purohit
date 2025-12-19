@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In computing, what does LAN stand for?**
+**❓ What was the name given to Android 4.3?**
 
 Choose your answer:
 
-**A.** Light Access Node
+**A.** Lollipop
 
-**B.** Long Antenna Node
+**B.** Jelly Bean
 
-**C.** Local Area Network
+**C.** Froyo
 
-**D.** Land Address Navigation
+**D.** Nutella
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Local Area Network**
+### ✅ Correct Answer: **B**
+**Jelly Bean**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
