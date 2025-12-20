@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What was the name given to Android 4.3?**
+**❓ Which SQL keyword is used to fetch data from a database?**
 
 Choose your answer:
 
-**A.** Lollipop
+**A.** VALUES
 
-**B.** Jelly Bean
+**B.** EXEC
 
-**C.** Froyo
+**C.** SELECT
 
-**D.** Nutella
+**D.** INDEX
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Jelly Bean**
+### ✅ Correct Answer: **C**
+**SELECT**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
