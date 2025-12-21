@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which SQL keyword is used to fetch data from a database?**
+**❓ What programming language was GitHub written in?**
 
 Choose your answer:
 
-**A.** VALUES
+**A.** Python
 
-**B.** EXEC
+**B.** Ruby
 
-**C.** SELECT
+**C.** Lua
 
-**D.** INDEX
+**D.** JavaScript
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**SELECT**
+### ✅ Correct Answer: **B**
+**Ruby**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
