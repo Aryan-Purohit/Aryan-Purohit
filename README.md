@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What programming language was GitHub written in?**
+**❓ What was the name given to Android 4.3?**
 
 Choose your answer:
 
-**A.** Python
+**A.** Lollipop
 
-**B.** Ruby
+**B.** Froyo
 
-**C.** Lua
+**C.** Jelly Bean
 
-**D.** JavaScript
+**D.** Nutella
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Ruby**
+### ✅ Correct Answer: **C**
+**Jelly Bean**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
