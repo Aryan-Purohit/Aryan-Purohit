@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What was the name given to Android 4.3?**
+**❓ Which of the following is NOT a computer science algorithm?**
 
 Choose your answer:
 
-**A.** Lollipop
+**A.** Bubble Sort
 
-**B.** Froyo
+**B.** Merge Sort
 
-**C.** Jelly Bean
+**C.** Quick Sort
 
-**D.** Nutella
+**D.** Float Sort
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Jelly Bean**
+### ✅ Correct Answer: **D**
+**Float Sort**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
