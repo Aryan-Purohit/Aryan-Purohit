@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which of the following is NOT a computer science algorithm?**
+**❓ When did the online streaming service "Mixer" launch?**
 
 Choose your answer:
 
-**A.** Bubble Sort
+**A.** 2011
 
-**B.** Merge Sort
+**B.** 2013
 
-**C.** Quick Sort
+**C.** 2009
 
-**D.** Float Sort
+**D.** 2016
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**Float Sort**
+**2016**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
