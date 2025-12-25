@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ When did the online streaming service "Mixer" launch?**
+**❓ What does "LCD" stand for?**
 
 Choose your answer:
 
-**A.** 2011
+**A.** Liquid Crystal Display
 
-**B.** 2013
+**B.** Last Common Difference
 
-**C.** 2009
+**C.** Long Continuous Design
 
-**D.** 2016
+**D.** Language Control Design
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**2016**
+### ✅ Correct Answer: **A**
+**Liquid Crystal Display**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
