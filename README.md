@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does "LCD" stand for?**
+**❓ What is the domain name for the country Tuvalu?**
 
 Choose your answer:
 
-**A.** Liquid Crystal Display
+**A.** .tl
 
-**B.** Last Common Difference
+**B.** .tu
 
-**C.** Long Continuous Design
+**C.** .tv
 
-**D.** Language Control Design
+**D.** .tt
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Liquid Crystal Display**
+### ✅ Correct Answer: **C**
+**.tv**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
