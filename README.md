@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the domain name for the country Tuvalu?**
+**❓ HTML is what type of language?**
 
 Choose your answer:
 
-**A.** .tl
+**A.** Macro Language
 
-**B.** .tu
+**B.** Scripting Language
 
-**C.** .tv
+**C.** Markup Language
 
-**D.** .tt
+**D.** Programming Language
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **C**
-**.tv**
+**Markup Language**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
