@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ HTML is what type of language?**
+**❓ How many bytes are in a single Kibibyte?**
 
 Choose your answer:
 
-**A.** Macro Language
+**A.** 1000
 
-**B.** Scripting Language
+**B.** 2400
 
-**C.** Markup Language
+**C.** 1240
 
-**D.** Programming Language
+**D.** 1024
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Markup Language**
+### ✅ Correct Answer: **D**
+**1024**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
