@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ How many bytes are in a single Kibibyte?**
+**❓ On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?**
 
 Choose your answer:
 
-**A.** 1000
+**A.** Asterisk
 
-**B.** 2400
+**B.** Percent Sign
 
-**C.** 1240
+**C.** Dollar Sign
 
-**D.** 1024
+**D.** Exclamation Mark
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**1024**
+**Exclamation Mark**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
