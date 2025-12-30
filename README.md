@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?**
+**❓ How many Hz does the video standard PAL support?**
 
 Choose your answer:
 
-**A.** Asterisk
+**A.** 60
 
-**B.** Percent Sign
+**B.** 25
 
-**C.** Dollar Sign
+**C.** 59
 
-**D.** Exclamation Mark
+**D.** 50
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**Exclamation Mark**
+**50**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
