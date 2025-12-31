@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ How many Hz does the video standard PAL support?**
+**❓ Approximately how many Apple I personal computers were created?**
 
 Choose your answer:
 
-**A.** 60
+**A.** 200
 
-**B.** 25
+**B.** 100
 
-**C.** 59
+**C.** 500
 
-**D.** 50
+**D.** 1000
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**50**
+### ✅ Correct Answer: **A**
+**200**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
