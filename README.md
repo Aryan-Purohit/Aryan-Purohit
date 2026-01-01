@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Approximately how many Apple I personal computers were created?**
+**❓ How fast is USB 3.1 Gen 2 theoretically?**
 
 Choose your answer:
 
-**A.** 200
+**A.** 8 Gb/s
 
-**B.** 100
+**B.** 10 Gb/s
 
-**C.** 500
+**C.** 5 Gb/s
 
-**D.** 1000
+**D.** 1 Gb/s
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**200**
+### ✅ Correct Answer: **B**
+**10 Gb/s**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
