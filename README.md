@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ How fast is USB 3.1 Gen 2 theoretically?**
+**❓ Which programming language was developed by Sun Microsystems in 1995?**
 
 Choose your answer:
 
-**A.** 8 Gb/s
+**A.** Python
 
-**B.** 10 Gb/s
+**B.** Solaris OS
 
-**C.** 5 Gb/s
+**C.** C++
 
-**D.** 1 Gb/s
+**D.** Java
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**10 Gb/s**
+### ✅ Correct Answer: **D**
+**Java**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
