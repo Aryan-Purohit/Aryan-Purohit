@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which programming language was developed by Sun Microsystems in 1995?**
+**❓ When Gmail first launched, how much storage did it provide for your email?**
 
 Choose your answer:
 
-**A.** Python
+**A.** 1GB
 
-**B.** Solaris OS
+**B.** 512MB
 
-**C.** C++
+**C.** 5GB
 
-**D.** Java
+**D.** Unlimited
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Java**
+### ✅ Correct Answer: **A**
+**1GB**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
