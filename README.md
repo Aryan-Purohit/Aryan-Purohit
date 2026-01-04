@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ When Gmail first launched, how much storage did it provide for your email?**
+**❓ If you were to code software in this language you'd only be able to type 0's and 1's.**
 
 Choose your answer:
 
-**A.** 1GB
+**A.** C++
 
-**B.** 512MB
+**B.** Binary
 
-**C.** 5GB
+**C.** JavaScript
 
-**D.** Unlimited
+**D.** Python
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**1GB**
+### ✅ Correct Answer: **B**
+**Binary**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
