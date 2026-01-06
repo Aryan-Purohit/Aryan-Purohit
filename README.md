@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ When Gmail first launched, how much storage did it provide for your email?**
+**❓ Which of these people was NOT a founder of Apple Inc?**
 
 Choose your answer:
 
-**A.** Unlimited
+**A.** Steve Wozniak
 
-**B.** 5GB
+**B.** Jonathan Ive
 
-**C.** 1GB
+**C.** Steve Jobs
 
-**D.** 512MB
+**D.** Ronald Wayne
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**1GB**
+### ✅ Correct Answer: **B**
+**Jonathan Ive**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
