@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which of these people was NOT a founder of Apple Inc?**
+**❓ What does GHz stand for?**
 
 Choose your answer:
 
-**A.** Steve Wozniak
+**A.** Gigahatz
 
-**B.** Jonathan Ive
+**B.** Gigahotz
 
-**C.** Steve Jobs
+**C.** Gigahetz
 
-**D.** Ronald Wayne
+**D.** Gigahertz
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Jonathan Ive**
+### ✅ Correct Answer: **D**
+**Gigahertz**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
