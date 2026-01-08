@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does GHz stand for?**
+**❓ What amount of bits commonly equals one byte?**
 
 Choose your answer:
 
-**A.** Gigahatz
+**A.** 64
 
-**B.** Gigahotz
+**B.** 2
 
-**C.** Gigahetz
+**C.** 1
 
-**D.** Gigahertz
+**D.** 8
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**Gigahertz**
+**8**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
