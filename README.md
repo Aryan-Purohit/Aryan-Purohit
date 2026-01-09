@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What amount of bits commonly equals one byte?**
+**❓ Who is the founder of Palantir?**
 
 Choose your answer:
 
-**A.** 64
+**A.** Jack Dorsey
 
-**B.** 2
+**B.** Mark Zuckerberg
 
-**C.** 1
+**C.** Marc Benioff
 
-**D.** 8
+**D.** Peter Thiel
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**8**
+**Peter Thiel**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
