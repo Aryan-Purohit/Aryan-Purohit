@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Who is the founder of Palantir?**
+**❓ According to DeMorgan's Theorem, the Boolean expression (AB)' is equivalent to:**
 
 Choose your answer:
 
-**A.** Jack Dorsey
+**A.** A' + B'
 
-**B.** Mark Zuckerberg
+**B.** AB' + AB
 
-**C.** Marc Benioff
+**C.** A'B + B'A
 
-**D.** Peter Thiel
+**D.** A'B'
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Peter Thiel**
+### ✅ Correct Answer: **A**
+**A' + B'**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
