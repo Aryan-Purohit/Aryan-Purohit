@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ According to DeMorgan's Theorem, the Boolean expression (AB)' is equivalent to:**
+**❓ What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?**
 
 Choose your answer:
 
-**A.** A' + B'
+**A.** Heat Vent
 
-**B.** AB' + AB
+**B.** Temperature Decipator
 
-**C.** A'B + B'A
+**C.** Heat Sink
 
-**D.** A'B'
+**D.** CPU Vent
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**A' + B'**
+### ✅ Correct Answer: **C**
+**Heat Sink**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
