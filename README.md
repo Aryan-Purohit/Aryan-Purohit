@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?**
+**❓ What programming language was GitHub written in?**
 
 Choose your answer:
 
-**A.** Heat Vent
+**A.** JavaScript
 
-**B.** Temperature Decipator
+**B.** Python
 
-**C.** Heat Sink
+**C.** Lua
 
-**D.** CPU Vent
+**D.** Ruby
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Heat Sink**
+### ✅ Correct Answer: **D**
+**Ruby**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
