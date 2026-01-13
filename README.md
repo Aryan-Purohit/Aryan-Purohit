@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What programming language was GitHub written in?**
+**❓ How many kilobytes in one gigabyte (in decimal)?**
 
 Choose your answer:
 
-**A.** JavaScript
+**A.** 1024
 
-**B.** Python
+**B.** 1000
 
-**C.** Lua
+**C.** 1000000
 
-**D.** Ruby
+**D.** 1048576
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Ruby**
+### ✅ Correct Answer: **C**
+**1000000**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
