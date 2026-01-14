@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ How many kilobytes in one gigabyte (in decimal)?**
+**❓ What does CPU stand for?**
 
 Choose your answer:
 
-**A.** 1024
+**A.** Central Processing Unit
 
-**B.** 1000
+**B.** Computer Personal Unit
 
-**C.** 1000000
+**C.** Central Process Unit
 
-**D.** 1048576
+**D.** Central Processor Unit
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**1000000**
+### ✅ Correct Answer: **A**
+**Central Processing Unit**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
