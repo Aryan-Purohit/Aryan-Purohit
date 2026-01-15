@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does CPU stand for?**
+**❓ Which SQL keyword is used to fetch data from a database?**
 
 Choose your answer:
 
-**A.** Central Processing Unit
+**A.** VALUES
 
-**B.** Computer Personal Unit
+**B.** SELECT
 
-**C.** Central Process Unit
+**C.** INDEX
 
-**D.** Central Processor Unit
+**D.** EXEC
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Central Processing Unit**
+### ✅ Correct Answer: **B**
+**SELECT**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
