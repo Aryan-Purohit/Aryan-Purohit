@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which SQL keyword is used to fetch data from a database?**
+**❓ In any programming language, what is the most common way to iterate through an array?**
 
 Choose your answer:
 
-**A.** VALUES
+**A.** 'For' loops
 
-**B.** SELECT
+**B.** 'Do-while' loops
 
-**C.** INDEX
+**C.** 'If' Statements
 
-**D.** EXEC
+**D.** 'While' loops
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**SELECT**
+### ✅ Correct Answer: **A**
+**'For' loops**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
