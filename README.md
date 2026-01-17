@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In any programming language, what is the most common way to iterate through an array?**
+**❓ Unix Time is defined as the number of seconds that have elapsed since when?**
 
 Choose your answer:
 
-**A.** 'For' loops
+**A.** Midnight on the creator of Unix's birthday
 
-**B.** 'Do-while' loops
+**B.** Midnight, January 1, 1970
 
-**C.** 'If' Statements
+**C.** Midnight, July 4, 1976
 
-**D.** 'While' loops
+**D.** Midnight, July 4, 1980
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**'For' loops**
+### ✅ Correct Answer: **B**
+**Midnight, January 1, 1970**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
