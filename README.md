@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Unix Time is defined as the number of seconds that have elapsed since when?**
+**❓ What amount of bits commonly equals one byte?**
 
 Choose your answer:
 
-**A.** Midnight on the creator of Unix's birthday
+**A.** 64
 
-**B.** Midnight, January 1, 1970
+**B.** 1
 
-**C.** Midnight, July 4, 1976
+**C.** 8
 
-**D.** Midnight, July 4, 1980
+**D.** 2
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Midnight, January 1, 1970**
+### ✅ Correct Answer: **C**
+**8**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
