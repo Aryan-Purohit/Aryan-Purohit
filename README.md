@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What amount of bits commonly equals one byte?**
+**❓ What is the name of the process that sends one qubit of information using two bits of classical information?**
 
 Choose your answer:
 
-**A.** 64
+**A.** Quantum Teleportation
 
-**B.** 1
+**B.** Quantum Programming
 
-**C.** 8
+**C.** Quantum Entanglement
 
-**D.** 2
+**D.** Super Dense Coding
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**8**
+### ✅ Correct Answer: **A**
+**Quantum Teleportation**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
