@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ According to DeMorgan's Theorem, the Boolean expression (AB)' is equivalent to:**
+**❓ The programming language 'Swift' was created to replace what other programming language?**
 
 Choose your answer:
 
-**A.** AB' + AB
+**A.** C++
 
-**B.** A'B + B'A
+**B.** Objective-C
 
-**C.** A' + B'
+**C.** Ruby
 
-**D.** A'B'
+**D.** C#
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**A' + B'**
+### ✅ Correct Answer: **B**
+**Objective-C**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
