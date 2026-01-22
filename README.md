@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ The programming language 'Swift' was created to replace what other programming language?**
+**❓ Which coding language was the #1 programming language in terms of usage on GitHub in 2015?**
 
 Choose your answer:
 
-**A.** C++
+**A.** JavaScript
 
-**B.** Objective-C
+**B.** C#
 
-**C.** Ruby
+**C.** Python
 
-**D.** C#
+**D.** PHP
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Objective-C**
+### ✅ Correct Answer: **A**
+**JavaScript**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
