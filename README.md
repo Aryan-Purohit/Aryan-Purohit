@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which coding language was the #1 programming language in terms of usage on GitHub in 2015?**
+**❓ What was Bitcoin's block size limit in 2010?**
 
 Choose your answer:
 
-**A.** JavaScript
+**A.** 1 TB
 
-**B.** C#
+**B.** 1 MB
 
-**C.** Python
+**C.** 1 KB
 
-**D.** PHP
+**D.** 1GB
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**JavaScript**
+### ✅ Correct Answer: **B**
+**1 MB**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
