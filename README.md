@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What was Bitcoin's block size limit in 2010?**
+**❓ Which of the following computer components can be built using only NAND gates?**
 
 Choose your answer:
 
-**A.** 1 TB
+**A.** Register
 
-**B.** 1 MB
+**B.** RAM
 
-**C.** 1 KB
+**C.** CPU
 
-**D.** 1GB
+**D.** ALU
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**1 MB**
+### ✅ Correct Answer: **D**
+**ALU**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
