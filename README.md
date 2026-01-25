@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which of the following computer components can be built using only NAND gates?**
+**❓ When was the programming language "C#" released?**
 
 Choose your answer:
 
-**A.** Register
+**A.** 1998
 
-**B.** RAM
+**B.** 1999
 
-**C.** CPU
+**C.** 2001
 
-**D.** ALU
+**D.** 2000
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**ALU**
+**2000**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
