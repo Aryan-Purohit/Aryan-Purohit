@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ When was the programming language "C#" released?**
+**❓ What does the term MIME stand for, in regards to computing?**
 
 Choose your answer:
 
-**A.** 1998
+**A.** Multipurpose Interleave Mail Exchange
 
-**B.** 1999
+**B.** Mail Internet Mail Exchange
 
-**C.** 2001
+**C.** Mail Interleave Method Exchange
 
-**D.** 2000
+**D.** Multipurpose Internet Mail Extensions
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**2000**
+**Multipurpose Internet Mail Extensions**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
