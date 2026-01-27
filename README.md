@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does the term MIME stand for, in regards to computing?**
+**❓ What does the acronym CDN stand for in terms of networking?**
 
 Choose your answer:
 
-**A.** Multipurpose Interleave Mail Exchange
+**A.** Content Delivery Network
 
-**B.** Mail Internet Mail Exchange
+**B.** Computational Data Network
 
-**C.** Mail Interleave Method Exchange
+**C.** Compressed Data Network
 
-**D.** Multipurpose Internet Mail Extensions
+**D.** Content Distribution Network
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Multipurpose Internet Mail Extensions**
+### ✅ Correct Answer: **A**
+**Content Delivery Network**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
