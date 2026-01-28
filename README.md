@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does the acronym CDN stand for in terms of networking?**
+**❓ In the programming language Java, which of these keywords would you put on a variable to make sure it doesn't get modified?**
 
 Choose your answer:
 
-**A.** Content Delivery Network
+**A.** Final
 
-**B.** Computational Data Network
+**B.** Static
 
-**C.** Compressed Data Network
+**C.** Private
 
-**D.** Content Distribution Network
+**D.** Public
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **A**
-**Content Delivery Network**
+**Final**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
