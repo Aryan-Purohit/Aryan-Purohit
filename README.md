@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In the programming language Java, which of these keywords would you put on a variable to make sure it doesn't get modified?**
+**❓ While Apple was formed in California, in which western state was Microsoft founded?**
 
 Choose your answer:
 
-**A.** Final
+**A.** Washington
 
-**B.** Static
+**B.** Arizona
 
-**C.** Private
+**C.** Colorado
 
-**D.** Public
+**D.** New Mexico
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Final**
+### ✅ Correct Answer: **D**
+**New Mexico**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
