@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ While Apple was formed in California, in which western state was Microsoft founded?**
+**❓ If you were to code software in this language you'd only be able to type 0's and 1's.**
 
 Choose your answer:
 
-**A.** Washington
+**A.** Binary
 
-**B.** Arizona
+**B.** C++
 
-**C.** Colorado
+**C.** JavaScript
 
-**D.** New Mexico
+**D.** Python
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**New Mexico**
+### ✅ Correct Answer: **A**
+**Binary**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
