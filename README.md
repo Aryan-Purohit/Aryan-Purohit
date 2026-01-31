@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ If you were to code software in this language you'd only be able to type 0's and 1's.**
+**❓ On which day did the World Wide Web go online?**
 
 Choose your answer:
 
-**A.** Binary
+**A.** November 24, 1995
 
-**B.** C++
+**B.** November 12, 1990
 
-**C.** JavaScript
+**C.** December 20, 1990
 
-**D.** Python
+**D.** December 17, 1996
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Binary**
+### ✅ Correct Answer: **C**
+**December 20, 1990**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
