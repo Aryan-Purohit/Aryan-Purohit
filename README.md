@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ On which day did the World Wide Web go online?**
+**❓ In networking, what does OSPF stand for?**
 
 Choose your answer:
 
-**A.** November 24, 1995
+**A.** Order State Part First
 
-**B.** November 12, 1990
+**B.** Open Shortest Path First
 
-**C.** December 20, 1990
+**C.** Order Sense Ping Find
 
-**D.** December 17, 1996
+**D.** Open Signal Path Finder
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**December 20, 1990**
+### ✅ Correct Answer: **B**
+**Open Shortest Path First**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
