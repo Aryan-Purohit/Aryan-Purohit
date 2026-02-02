@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In networking, what does OSPF stand for?**
+**❓ This mobile OS held the largest market share in 2012.**
 
 Choose your answer:
 
-**A.** Order State Part First
+**A.** iOS
 
-**B.** Open Shortest Path First
+**B.** Symbian
 
-**C.** Order Sense Ping Find
+**C.** Android
 
-**D.** Open Signal Path Finder
+**D.** BlackBerry
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Open Shortest Path First**
+### ✅ Correct Answer: **A**
+**iOS**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
