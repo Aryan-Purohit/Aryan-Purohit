@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ This mobile OS held the largest market share in 2012.**
+**❓ What does AD stand for in relation to Windows Operating Systems? **
 
 Choose your answer:
 
-**A.** iOS
+**A.** Active Directory
 
-**B.** Symbian
+**B.** Automated Database
 
-**C.** Android
+**C.** Alternative Drive
 
-**D.** BlackBerry
+**D.** Active Department
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **A**
-**iOS**
+**Active Directory**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
