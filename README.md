@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does AD stand for in relation to Windows Operating Systems? **
+**❓ Which SQL keyword is used to fetch data from a database?**
 
 Choose your answer:
 
-**A.** Active Directory
+**A.** VALUES
 
-**B.** Automated Database
+**B.** INDEX
 
-**C.** Alternative Drive
+**C.** SELECT
 
-**D.** Active Department
+**D.** EXEC
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Active Directory**
+### ✅ Correct Answer: **C**
+**SELECT**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
