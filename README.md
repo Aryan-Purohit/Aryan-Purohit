@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which SQL keyword is used to fetch data from a database?**
+**❓ When did the online streaming service "Mixer" launch?**
 
 Choose your answer:
 
-**A.** VALUES
+**A.** 2013
 
-**B.** INDEX
+**B.** 2011
 
-**C.** SELECT
+**C.** 2009
 
-**D.** EXEC
+**D.** 2016
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**SELECT**
+### ✅ Correct Answer: **D**
+**2016**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
