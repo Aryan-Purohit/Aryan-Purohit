@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ When did the online streaming service "Mixer" launch?**
+**❓ On which computer hardware device is the BIOS chip located?**
 
 Choose your answer:
 
-**A.** 2013
+**A.** Central Processing Unit
 
-**B.** 2011
+**B.** Graphics Processing Unit
 
-**C.** 2009
+**C.** Hard Disk Drive
 
-**D.** 2016
+**D.** Motherboard
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**2016**
+**Motherboard**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
