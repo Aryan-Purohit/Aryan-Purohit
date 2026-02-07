@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ On which computer hardware device is the BIOS chip located?**
+**❓ Which computer language would you associate Django framework with?**
 
 Choose your answer:
 
-**A.** Central Processing Unit
+**A.** C#
 
-**B.** Graphics Processing Unit
+**B.** C++
 
-**C.** Hard Disk Drive
+**C.** Python
 
-**D.** Motherboard
+**D.** Java
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Motherboard**
+### ✅ Correct Answer: **C**
+**Python**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
