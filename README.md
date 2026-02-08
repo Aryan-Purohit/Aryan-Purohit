@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which computer language would you associate Django framework with?**
+**❓ How many Hz does the video standard PAL support?**
 
 Choose your answer:
 
-**A.** C#
+**A.** 59
 
-**B.** C++
+**B.** 60
 
-**C.** Python
+**C.** 50
 
-**D.** Java
+**D.** 25
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **C**
-**Python**
+**50**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
