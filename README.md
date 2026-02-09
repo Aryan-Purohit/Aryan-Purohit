@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ How many Hz does the video standard PAL support?**
+**❓ Dutch computer scientist Mark Overmars is known for creating which game development engine?**
 
 Choose your answer:
 
-**A.** 59
+**A.** Stencyl
 
-**B.** 60
+**B.** Construct
 
-**C.** 50
+**C.** Game Maker
 
-**D.** 25
+**D.** Torque 2D
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **C**
-**50**
+**Game Maker**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
