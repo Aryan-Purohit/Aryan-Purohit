@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Dutch computer scientist Mark Overmars is known for creating which game development engine?**
+**❓ On which computer hardware device is the BIOS chip located?**
 
 Choose your answer:
 
-**A.** Stencyl
+**A.** Hard Disk Drive
 
-**B.** Construct
+**B.** Motherboard
 
-**C.** Game Maker
+**C.** Graphics Processing Unit
 
-**D.** Torque 2D
+**D.** Central Processing Unit
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Game Maker**
+### ✅ Correct Answer: **B**
+**Motherboard**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
