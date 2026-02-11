@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ On which computer hardware device is the BIOS chip located?**
+**❓ The teapot often seen in many 3D modeling applications is called what?**
 
 Choose your answer:
 
-**A.** Hard Disk Drive
+**A.** 3D Teapot
 
-**B.** Motherboard
+**B.** Utah Teapot
 
-**C.** Graphics Processing Unit
+**C.** Pixar Teapot
 
-**D.** Central Processing Unit
+**D.** Tennessee Teapot
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **B**
-**Motherboard**
+**Utah Teapot**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
