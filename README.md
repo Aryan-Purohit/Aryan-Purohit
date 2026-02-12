@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ The teapot often seen in many 3D modeling applications is called what?**
+**❓ What does CPU stand for?**
 
 Choose your answer:
 
-**A.** 3D Teapot
+**A.** Central Processing Unit
 
-**B.** Utah Teapot
+**B.** Central Processor Unit
 
-**C.** Pixar Teapot
+**C.** Central Process Unit
 
-**D.** Tennessee Teapot
+**D.** Computer Personal Unit
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Utah Teapot**
+### ✅ Correct Answer: **A**
+**Central Processing Unit**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
