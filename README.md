@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does CPU stand for?**
+**❓ Which internet company began life as an online bookstore called 'Cadabra'?**
 
 Choose your answer:
 
-**A.** Central Processing Unit
+**A.** Amazon
 
-**B.** Central Processor Unit
+**B.** Overstock
 
-**C.** Central Process Unit
+**C.** Shopify
 
-**D.** Computer Personal Unit
+**D.** eBay
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **A**
-**Central Processing Unit**
+**Amazon**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
