@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which internet company began life as an online bookstore called 'Cadabra'?**
+**❓ What major programming language does Unreal Engine 4 use?**
 
 Choose your answer:
 
-**A.** Amazon
+**A.** C#
 
-**B.** Overstock
+**B.** C++
 
-**C.** Shopify
+**C.** ECMAScript
 
-**D.** eBay
+**D.** Assembly
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Amazon**
+### ✅ Correct Answer: **B**
+**C++**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
