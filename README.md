@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What major programming language does Unreal Engine 4 use?**
+**❓ What does "LCD" stand for?**
 
 Choose your answer:
 
-**A.** C#
+**A.** Long Continuous Design
 
-**B.** C++
+**B.** Last Common Difference
 
-**C.** ECMAScript
+**C.** Language Control Design
 
-**D.** Assembly
+**D.** Liquid Crystal Display
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**C++**
+### ✅ Correct Answer: **D**
+**Liquid Crystal Display**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
