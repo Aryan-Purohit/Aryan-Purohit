@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does "LCD" stand for?**
+**❓ In programming, the ternary operator is mostly defined with what symbol(s)?**
 
 Choose your answer:
 
-**A.** Long Continuous Design
+**A.** ?
 
-**B.** Last Common Difference
+**B.** ??
 
-**C.** Language Control Design
+**C.** ?:
 
-**D.** Liquid Crystal Display
+**D.** if then
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Liquid Crystal Display**
+### ✅ Correct Answer: **C**
+**?:**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
