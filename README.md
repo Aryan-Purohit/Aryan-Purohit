@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In programming, the ternary operator is mostly defined with what symbol(s)?**
+**❓ In the programming language Java, which of these keywords would you put on a variable to make sure it doesn't get modified?**
 
 Choose your answer:
 
-**A.** ?
+**A.** Static
 
-**B.** ??
+**B.** Final
 
-**C.** ?:
+**C.** Private
 
-**D.** if then
+**D.** Public
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**?:**
+### ✅ Correct Answer: **B**
+**Final**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
