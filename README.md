@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In the programming language Java, which of these keywords would you put on a variable to make sure it doesn't get modified?**
+**❓ Who invented the "Spanning Tree Protocol"?**
 
 Choose your answer:
 
-**A.** Static
+**A.** Paul Vixie
 
-**B.** Final
+**B.** Michael Roberts
 
-**C.** Private
+**C.** Radia Perlman
 
-**D.** Public
+**D.** Vint Cerf
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Final**
+### ✅ Correct Answer: **C**
+**Radia Perlman**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
