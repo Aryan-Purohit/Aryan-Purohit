@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Who invented the "Spanning Tree Protocol"?**
+**❓ Who is the original author of the realtime physics engine called PhysX?**
 
 Choose your answer:
 
-**A.** Paul Vixie
+**A.** NovodeX
 
-**B.** Michael Roberts
+**B.** Nvidia
 
-**C.** Radia Perlman
+**C.** AMD
 
-**D.** Vint Cerf
+**D.** Ageia
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Radia Perlman**
+### ✅ Correct Answer: **A**
+**NovodeX**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
