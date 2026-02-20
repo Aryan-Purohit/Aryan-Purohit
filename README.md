@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Who is the original author of the realtime physics engine called PhysX?**
+**❓ Approximately how many Apple I personal computers were created?**
 
 Choose your answer:
 
-**A.** NovodeX
+**A.** 1000
 
-**B.** Nvidia
+**B.** 500
 
-**C.** AMD
+**C.** 100
 
-**D.** Ageia
+**D.** 200
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**NovodeX**
+### ✅ Correct Answer: **D**
+**200**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
