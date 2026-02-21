@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Approximately how many Apple I personal computers were created?**
+**❓ In the programming language Java, which of these keywords would you put on a variable to make sure it doesn't get modified?**
 
 Choose your answer:
 
-**A.** 1000
+**A.** Static
 
-**B.** 500
+**B.** Private
 
-**C.** 100
+**C.** Final
 
-**D.** 200
+**D.** Public
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**200**
+### ✅ Correct Answer: **C**
+**Final**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
