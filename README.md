@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In the programming language Java, which of these keywords would you put on a variable to make sure it doesn't get modified?**
+**❓ In networking, what does OSPF stand for?**
 
 Choose your answer:
 
-**A.** Static
+**A.** Open Signal Path Finder
 
-**B.** Private
+**B.** Order Sense Ping Find
 
-**C.** Final
+**C.** Order State Part First
 
-**D.** Public
+**D.** Open Shortest Path First
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Final**
+### ✅ Correct Answer: **D**
+**Open Shortest Path First**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
