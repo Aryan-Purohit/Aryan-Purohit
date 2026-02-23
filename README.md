@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In networking, what does OSPF stand for?**
+**❓ Australia, Japan, and Southeast Asia are in which ITU Region?**
 
 Choose your answer:
 
-**A.** Open Signal Path Finder
+**A.** Region 3
 
-**B.** Order Sense Ping Find
+**B.** Region 2
 
-**C.** Order State Part First
+**C.** Region 1
 
-**D.** Open Shortest Path First
+**D.** Region 4
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Open Shortest Path First**
+### ✅ Correct Answer: **A**
+**Region 3**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
