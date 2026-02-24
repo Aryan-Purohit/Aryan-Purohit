@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Australia, Japan, and Southeast Asia are in which ITU Region?**
+**❓ Dutch computer scientist Mark Overmars is known for creating which game development engine?**
 
 Choose your answer:
 
-**A.** Region 3
+**A.** Torque 2D
 
-**B.** Region 2
+**B.** Construct
 
-**C.** Region 1
+**C.** Game Maker
 
-**D.** Region 4
+**D.** Stencyl
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Region 3**
+### ✅ Correct Answer: **C**
+**Game Maker**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
