@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Dutch computer scientist Mark Overmars is known for creating which game development engine?**
+**❓ Which RAID array type is associated with data mirroring?**
 
 Choose your answer:
 
-**A.** Torque 2D
+**A.** RAID 1
 
-**B.** Construct
+**B.** RAID 0
 
-**C.** Game Maker
+**C.** RAID 10
 
-**D.** Stencyl
+**D.** RAID 5
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Game Maker**
+### ✅ Correct Answer: **A**
+**RAID 1**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
