@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which RAID array type is associated with data mirroring?**
+**❓ Laserjet and inkjet printers are both examples of what type of printer?**
 
 Choose your answer:
 
-**A.** RAID 1
+**A.** Dot matrix printer
 
-**B.** RAID 0
+**B.** Impact printer
 
-**C.** RAID 10
+**C.** Daisywheel printer
 
-**D.** RAID 5
+**D.** Non-impact printer
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**RAID 1**
+### ✅ Correct Answer: **D**
+**Non-impact printer**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
