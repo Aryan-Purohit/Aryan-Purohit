@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Laserjet and inkjet printers are both examples of what type of printer?**
+**❓ Who is the original author of the realtime physics engine called PhysX?**
 
 Choose your answer:
 
-**A.** Dot matrix printer
+**A.** AMD
 
-**B.** Impact printer
+**B.** Ageia
 
-**C.** Daisywheel printer
+**C.** NovodeX
 
-**D.** Non-impact printer
+**D.** Nvidia
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Non-impact printer**
+### ✅ Correct Answer: **C**
+**NovodeX**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
