@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Who is the original author of the realtime physics engine called PhysX?**
+**❓ What is the name of the default theme that is installed with Windows XP?**
 
 Choose your answer:
 
-**A.** AMD
+**A.** Neptune
 
-**B.** Ageia
+**B.** Luna
 
-**C.** NovodeX
+**C.** Whistler
 
-**D.** Nvidia
+**D.** Bliss
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**NovodeX**
+### ✅ Correct Answer: **B**
+**Luna**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
