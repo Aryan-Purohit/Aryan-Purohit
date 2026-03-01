@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the name of the default theme that is installed with Windows XP?**
+**❓ CMOS is tech used for constructing integrated circuits. What does CMOS stand for?**
 
 Choose your answer:
 
-**A.** Neptune
+**A.** Computer-made oscillating static
 
-**B.** Luna
+**B.** Complementary metal–oxide–semiconductor
 
-**C.** Whistler
+**C.** Complementary magnetic-ohms-semiconductor
 
-**D.** Bliss
+**D.** Computer-made operating system
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **B**
-**Luna**
+**Complementary metal–oxide–semiconductor**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
