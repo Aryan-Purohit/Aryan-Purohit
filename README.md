@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ CMOS is tech used for constructing integrated circuits. What does CMOS stand for?**
+**❓ In the programming language "Python", which of these statements would display the string "Hello World" correctly?**
 
 Choose your answer:
 
-**A.** Computer-made oscillating static
+**A.** printf("Hello World")
 
-**B.** Complementary metal–oxide–semiconductor
+**B.** echo "Hello World"
 
-**C.** Complementary magnetic-ohms-semiconductor
+**C.** print("Hello World")
 
-**D.** Computer-made operating system
+**D.** console.log("Hello World")
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Complementary metal–oxide–semiconductor**
+### ✅ Correct Answer: **C**
+**print("Hello World")**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
