@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In the programming language "Python", which of these statements would display the string "Hello World" correctly?**
+**❓ Generally, which component of a computer draws the most power?**
 
 Choose your answer:
 
-**A.** printf("Hello World")
+**A.** Hard Drive
 
-**B.** echo "Hello World"
+**B.** Video Card
 
-**C.** print("Hello World")
+**C.** Processor
 
-**D.** console.log("Hello World")
+**D.** Power Supply
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**print("Hello World")**
+### ✅ Correct Answer: **B**
+**Video Card**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
