@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Generally, which component of a computer draws the most power?**
+**❓ HTML is what type of language?**
 
 Choose your answer:
 
-**A.** Hard Drive
+**A.** Scripting Language
 
-**B.** Video Card
+**B.** Macro Language
 
-**C.** Processor
+**C.** Programming Language
 
-**D.** Power Supply
+**D.** Markup Language
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Video Card**
+### ✅ Correct Answer: **D**
+**Markup Language**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
