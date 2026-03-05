@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ HTML is what type of language?**
+**❓ In computing, what does LAN stand for?**
 
 Choose your answer:
 
-**A.** Scripting Language
+**A.** Long Antenna Node
 
-**B.** Macro Language
+**B.** Land Address Navigation
 
-**C.** Programming Language
+**C.** Local Area Network
 
-**D.** Markup Language
+**D.** Light Access Node
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Markup Language**
+### ✅ Correct Answer: **C**
+**Local Area Network**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
