@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ If you were to code software in this language you'd only be able to type 0's and 1's.**
+**❓ What is the code name for the mobile operating system Android 7.0?**
 
 Choose your answer:
 
-**A.** Binary
+**A.** Ice Cream Sandwich
 
-**B.** C++
+**B.** Jelly Bean
 
-**C.** Python
+**C.** Marshmallow
 
-**D.** JavaScript
+**D.** Nougat
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Binary**
+### ✅ Correct Answer: **D**
+**Nougat**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
