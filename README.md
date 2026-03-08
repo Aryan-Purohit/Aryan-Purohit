@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the code name for the mobile operating system Android 7.0?**
+**❓ In the programming language "Python", which of these statements would display the string "Hello World" correctly?**
 
 Choose your answer:
 
-**A.** Ice Cream Sandwich
+**A.** print("Hello World")
 
-**B.** Jelly Bean
+**B.** printf("Hello World")
 
-**C.** Marshmallow
+**C.** echo "Hello World"
 
-**D.** Nougat
+**D.** console.log("Hello World")
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Nougat**
+### ✅ Correct Answer: **A**
+**print("Hello World")**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
