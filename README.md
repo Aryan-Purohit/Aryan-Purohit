@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In the programming language "Python", which of these statements would display the string "Hello World" correctly?**
+**❓ What is largely considered the precursor to the USB format?**
 
 Choose your answer:
 
-**A.** print("Hello World")
+**A.** SVGA
 
-**B.** printf("Hello World")
+**B.** PS/2
 
-**C.** echo "Hello World"
+**C.** FireWire
 
-**D.** console.log("Hello World")
+**D.** PCIe
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**print("Hello World")**
+### ✅ Correct Answer: **B**
+**PS/2**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
