@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is largely considered the precursor to the USB format?**
+**❓ What is the code name for the mobile operating system Android 7.0?**
 
 Choose your answer:
 
-**A.** SVGA
+**A.** Marshmallow
 
-**B.** PS/2
+**B.** Ice Cream Sandwich
 
-**C.** FireWire
+**C.** Jelly Bean
 
-**D.** PCIe
+**D.** Nougat
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**PS/2**
+### ✅ Correct Answer: **D**
+**Nougat**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
