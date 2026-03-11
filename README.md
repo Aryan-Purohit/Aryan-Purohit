@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the code name for the mobile operating system Android 7.0?**
+**❓ When was the programming language "C#" released?**
 
 Choose your answer:
 
-**A.** Marshmallow
+**A.** 1999
 
-**B.** Ice Cream Sandwich
+**B.** 2000
 
-**C.** Jelly Bean
+**C.** 2001
 
-**D.** Nougat
+**D.** 1998
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Nougat**
+### ✅ Correct Answer: **B**
+**2000**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
