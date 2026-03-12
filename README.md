@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ When was the programming language "C#" released?**
+**❓ What programming language was GitHub written in?**
 
 Choose your answer:
 
-**A.** 1999
+**A.** Lua
 
-**B.** 2000
+**B.** Python
 
-**C.** 2001
+**C.** JavaScript
 
-**D.** 1998
+**D.** Ruby
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**2000**
+### ✅ Correct Answer: **D**
+**Ruby**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
