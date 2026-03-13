@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What programming language was GitHub written in?**
+**❓ What does the computer software acronym JVM stand for?**
 
 Choose your answer:
 
-**A.** Lua
+**A.** Java Vendor Machine
 
-**B.** Python
+**B.** Just Virtual Machine
 
-**C.** JavaScript
+**C.** Java Virtual Machine
 
-**D.** Ruby
+**D.** Java Visual Machine
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Ruby**
+### ✅ Correct Answer: **C**
+**Java Virtual Machine**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
