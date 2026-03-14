@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does the computer software acronym JVM stand for?**
+**❓ Which of the following is the oldest of these computers by release date?**
 
 Choose your answer:
 
-**A.** Java Vendor Machine
+**A.** Apple 3
 
-**B.** Just Virtual Machine
+**B.** ZX Spectrum
 
-**C.** Java Virtual Machine
+**C.** TRS-80
 
-**D.** Java Visual Machine
+**D.** Commodore 64
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **C**
-**Java Virtual Machine**
+**TRS-80**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
