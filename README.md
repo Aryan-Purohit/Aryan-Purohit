@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which of the following is the oldest of these computers by release date?**
+**❓ Which kind of algorithm is Ron Rivest not famous for creating?**
 
 Choose your answer:
 
-**A.** Apple 3
+**A.** Stream cipher
 
-**B.** ZX Spectrum
+**B.** Hashing algorithm
 
-**C.** TRS-80
+**C.** Asymmetric encryption
 
-**D.** Commodore 64
+**D.** Secret sharing scheme
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**TRS-80**
+### ✅ Correct Answer: **D**
+**Secret sharing scheme**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
