@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which kind of algorithm is Ron Rivest not famous for creating?**
+**❓ What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?**
 
 Choose your answer:
 
-**A.** Stream cipher
+**A.** Heat Sink
 
-**B.** Hashing algorithm
+**B.** Heat Vent
 
-**C.** Asymmetric encryption
+**C.** Temperature Decipator
 
-**D.** Secret sharing scheme
+**D.** CPU Vent
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Secret sharing scheme**
+### ✅ Correct Answer: **A**
+**Heat Sink**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
