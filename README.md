@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?**
+**❓ Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?**
 
 Choose your answer:
 
-**A.** Heat Sink
+**A.** Shellshock
 
-**B.** Heat Vent
+**B.** Shellscript
 
-**C.** Temperature Decipator
+**C.** Corrupted Blood
 
-**D.** CPU Vent
+**D.** Heartbleed
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Heat Sink**
+### ✅ Correct Answer: **D**
+**Heartbleed**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
