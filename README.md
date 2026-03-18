@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?**
+**❓ What was the first company to use the term "Golden Master"?**
 
 Choose your answer:
 
-**A.** Shellshock
+**A.** IBM
 
-**B.** Shellscript
+**B.** Apple
 
-**C.** Corrupted Blood
+**C.** Microsoft
 
-**D.** Heartbleed
+**D.** Google
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Heartbleed**
+### ✅ Correct Answer: **B**
+**Apple**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
