@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What was the first company to use the term "Golden Master"?**
+**❓ The acronym "RIP" stands for which of these?**
 
 Choose your answer:
 
-**A.** IBM
+**A.** Regular Interval Processes
 
-**B.** Apple
+**B.** Routine Inspection Protocol
 
-**C.** Microsoft
+**C.** Routing Information Protocol
 
-**D.** Google
+**D.** Runtime Instance Processes
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Apple**
+### ✅ Correct Answer: **C**
+**Routing Information Protocol**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
