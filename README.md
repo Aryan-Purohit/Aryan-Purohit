@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ The acronym "RIP" stands for which of these?**
+**❓ Which one of these is not an official development name for a Ubuntu release?**
 
 Choose your answer:
 
-**A.** Regular Interval Processes
+**A.** Mystic Mansion
 
-**B.** Routine Inspection Protocol
+**B.** Trusty Tahr
 
-**C.** Routing Information Protocol
+**C.** Wily Werewolf
 
-**D.** Runtime Instance Processes
+**D.** Utopic Unicorn
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Routing Information Protocol**
+### ✅ Correct Answer: **A**
+**Mystic Mansion**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
