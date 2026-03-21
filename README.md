@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which one of these is not an official development name for a Ubuntu release?**
+**❓ Which SQL keyword is used to fetch data from a database?**
 
 Choose your answer:
 
-**A.** Mystic Mansion
+**A.** VALUES
 
-**B.** Trusty Tahr
+**B.** INDEX
 
-**C.** Wily Werewolf
+**C.** EXEC
 
-**D.** Utopic Unicorn
+**D.** SELECT
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Mystic Mansion**
+### ✅ Correct Answer: **D**
+**SELECT**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
