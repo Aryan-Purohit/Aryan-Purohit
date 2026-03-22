@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which SQL keyword is used to fetch data from a database?**
+**❓ In the programming language Java, which of these keywords would you put on a variable to make sure it doesn't get modified?**
 
 Choose your answer:
 
-**A.** VALUES
+**A.** Final
 
-**B.** INDEX
+**B.** Private
 
-**C.** EXEC
+**C.** Public
 
-**D.** SELECT
+**D.** Static
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**SELECT**
+### ✅ Correct Answer: **A**
+**Final**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
