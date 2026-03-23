@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In the programming language Java, which of these keywords would you put on a variable to make sure it doesn't get modified?**
+**❓ In the server hosting industry IaaS stands for...**
 
 Choose your answer:
 
-**A.** Final
+**A.** Internet as a Service
 
-**B.** Private
+**B.** Infrastructure as a Server
 
-**C.** Public
+**C.** Infrastructure as a Service
 
-**D.** Static
+**D.** Internet and a Server
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Final**
+### ✅ Correct Answer: **C**
+**Infrastructure as a Service**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
