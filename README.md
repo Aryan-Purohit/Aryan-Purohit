@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In the server hosting industry IaaS stands for...**
+**❓ Generally, which component of a computer draws the most power?**
 
 Choose your answer:
 
-**A.** Internet as a Service
+**A.** Video Card
 
-**B.** Infrastructure as a Server
+**B.** Hard Drive
 
-**C.** Infrastructure as a Service
+**C.** Processor
 
-**D.** Internet and a Server
+**D.** Power Supply
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Infrastructure as a Service**
+### ✅ Correct Answer: **A**
+**Video Card**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
