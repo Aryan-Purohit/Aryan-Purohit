@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Generally, which component of a computer draws the most power?**
+**❓ What was the name of the security vulnerability found in Bash in 2014?**
 
 Choose your answer:
 
-**A.** Video Card
+**A.** Shellshock
 
-**B.** Hard Drive
+**B.** Stagefright
 
-**C.** Processor
+**C.** Bashbug
 
-**D.** Power Supply
+**D.** Heartbleed
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **A**
-**Video Card**
+**Shellshock**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
