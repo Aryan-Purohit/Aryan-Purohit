@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What was the name of the security vulnerability found in Bash in 2014?**
+**❓ What was the name of the image that features as the default background wallpaper for Windows XP?**
 
 Choose your answer:
 
-**A.** Shellshock
+**A.** Bliss
 
-**B.** Stagefright
+**B.** Azul
 
-**C.** Bashbug
+**C.** Tulips
 
-**D.** Heartbleed
+**D.** Red moon desert
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **A**
-**Shellshock**
+**Bliss**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
