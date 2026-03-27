@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What was the name of the image that features as the default background wallpaper for Windows XP?**
+**❓ Which computer hardware device provides an interface for all other connected devices to communicate?**
 
 Choose your answer:
 
-**A.** Bliss
+**A.** Random Access Memory
 
-**B.** Azul
+**B.** Hard Disk Drive
 
-**C.** Tulips
+**C.** Motherboard
 
-**D.** Red moon desert
+**D.** Central Processing Unit
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Bliss**
+### ✅ Correct Answer: **C**
+**Motherboard**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
