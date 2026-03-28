@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which computer hardware device provides an interface for all other connected devices to communicate?**
+**❓ What does the term GPU stand for?**
 
 Choose your answer:
 
-**A.** Random Access Memory
+**A.** Gaming Processor Unit
 
-**B.** Hard Disk Drive
+**B.** Graphical Proprietary Unit
 
-**C.** Motherboard
+**C.** Graphite Producing Unit
 
-**D.** Central Processing Unit
+**D.** Graphics Processing Unit
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Motherboard**
+### ✅ Correct Answer: **D**
+**Graphics Processing Unit**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
