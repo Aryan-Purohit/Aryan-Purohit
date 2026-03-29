@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does the term GPU stand for?**
+**❓ How fast is USB 3.1 Gen 2 theoretically?**
 
 Choose your answer:
 
-**A.** Gaming Processor Unit
+**A.** 10 Gb/s
 
-**B.** Graphical Proprietary Unit
+**B.** 5 Gb/s
 
-**C.** Graphite Producing Unit
+**C.** 8 Gb/s
 
-**D.** Graphics Processing Unit
+**D.** 1 Gb/s
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Graphics Processing Unit**
+### ✅ Correct Answer: **A**
+**10 Gb/s**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
