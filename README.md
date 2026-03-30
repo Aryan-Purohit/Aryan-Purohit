@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ How fast is USB 3.1 Gen 2 theoretically?**
+**❓ What does RAID stand for?**
 
 Choose your answer:
 
-**A.** 10 Gb/s
+**A.** Range of Applications with Identical Designs
 
-**B.** 5 Gb/s
+**B.** Redundant Array of Independent Disks
 
-**C.** 8 Gb/s
+**C.** Randomized Abstract Identification Description
 
-**D.** 1 Gb/s
+**D.** Rapid Access for Indexed Devices
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**10 Gb/s**
+### ✅ Correct Answer: **B**
+**Redundant Array of Independent Disks**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
