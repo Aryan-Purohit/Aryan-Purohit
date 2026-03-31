@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does RAID stand for?**
+**❓ In networking, what does OSPF stand for?**
 
 Choose your answer:
 
-**A.** Range of Applications with Identical Designs
+**A.** Order State Part First
 
-**B.** Redundant Array of Independent Disks
+**B.** Open Shortest Path First
 
-**C.** Randomized Abstract Identification Description
+**C.** Open Signal Path Finder
 
-**D.** Rapid Access for Indexed Devices
+**D.** Order Sense Ping Find
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **B**
-**Redundant Array of Independent Disks**
+**Open Shortest Path First**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
