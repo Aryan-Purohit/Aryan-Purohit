@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In networking, what does OSPF stand for?**
+**❓ What does the International System of Quantities refer 1024 bytes as?**
 
 Choose your answer:
 
-**A.** Order State Part First
+**A.** Kilobyte
 
-**B.** Open Shortest Path First
+**B.** Kylobyte
 
-**C.** Open Signal Path Finder
+**C.** Kibibyte
 
-**D.** Order Sense Ping Find
+**D.** Kelobyte
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Open Shortest Path First**
+### ✅ Correct Answer: **C**
+**Kibibyte**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
