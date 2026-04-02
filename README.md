@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does the International System of Quantities refer 1024 bytes as?**
+**❓ What does RAID stand for?**
 
 Choose your answer:
 
-**A.** Kilobyte
+**A.** Range of Applications with Identical Designs
 
-**B.** Kylobyte
+**B.** Redundant Array of Independent Disks
 
-**C.** Kibibyte
+**C.** Rapid Access for Indexed Devices
 
-**D.** Kelobyte
+**D.** Randomized Abstract Identification Description
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Kibibyte**
+### ✅ Correct Answer: **B**
+**Redundant Array of Independent Disks**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
