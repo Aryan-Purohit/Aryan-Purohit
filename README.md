@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does RAID stand for?**
+**❓ What did the name of the Tor Anonymity Network orignially stand for?**
 
 Choose your answer:
 
-**A.** Range of Applications with Identical Designs
+**A.** The Orange Router
 
-**B.** Redundant Array of Independent Disks
+**B.** The Onion Router
 
-**C.** Rapid Access for Indexed Devices
+**C.** The Ominous Router
 
-**D.** Randomized Abstract Identification Description
+**D.** The Only Router
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **B**
-**Redundant Array of Independent Disks**
+**The Onion Router**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
