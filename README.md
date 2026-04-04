@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What did the name of the Tor Anonymity Network orignially stand for?**
+**❓ Australia, Japan, and Southeast Asia are in which ITU Region?**
 
 Choose your answer:
 
-**A.** The Orange Router
+**A.** Region 4
 
-**B.** The Onion Router
+**B.** Region 1
 
-**C.** The Ominous Router
+**C.** Region 2
 
-**D.** The Only Router
+**D.** Region 3
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**The Onion Router**
+### ✅ Correct Answer: **D**
+**Region 3**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
