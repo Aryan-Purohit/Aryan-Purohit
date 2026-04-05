@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Australia, Japan, and Southeast Asia are in which ITU Region?**
+**❓ How many bytes are in a single Kibibyte?**
 
 Choose your answer:
 
-**A.** Region 4
+**A.** 1000
 
-**B.** Region 1
+**B.** 2400
 
-**C.** Region 2
+**C.** 1024
 
-**D.** Region 3
+**D.** 1240
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Region 3**
+### ✅ Correct Answer: **C**
+**1024**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
