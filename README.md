@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ How many bytes are in a single Kibibyte?**
+**❓ Which operating system was released first?**
 
 Choose your answer:
 
-**A.** 1000
+**A.** OS/2
 
-**B.** 2400
+**B.** Mac OS
 
-**C.** 1024
+**C.** Windows
 
-**D.** 1240
+**D.** Linux
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**1024**
+### ✅ Correct Answer: **B**
+**Mac OS**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
