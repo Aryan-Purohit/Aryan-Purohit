@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which operating system was released first?**
+**❓ In any programming language, what is the most common way to iterate through an array?**
 
 Choose your answer:
 
-**A.** OS/2
+**A.** 'Do-while' loops
 
-**B.** Mac OS
+**B.** 'For' loops
 
-**C.** Windows
+**C.** 'While' loops
 
-**D.** Linux
+**D.** 'If' Statements
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **B**
-**Mac OS**
+**'For' loops**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
