@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In any programming language, what is the most common way to iterate through an array?**
+**❓ Which internet company began life as an online bookstore called 'Cadabra'?**
 
 Choose your answer:
 
-**A.** 'Do-while' loops
+**A.** Amazon
 
-**B.** 'For' loops
+**B.** Overstock
 
-**C.** 'While' loops
+**C.** eBay
 
-**D.** 'If' Statements
+**D.** Shopify
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**'For' loops**
+### ✅ Correct Answer: **A**
+**Amazon**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
