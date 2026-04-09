@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which internet company began life as an online bookstore called 'Cadabra'?**
+**❓ In computing terms, typically what does CLI stand for?**
 
 Choose your answer:
 
-**A.** Amazon
+**A.** Command Line Interface
 
-**B.** Overstock
+**B.** Common Language Input
 
-**C.** eBay
+**C.** Common Language Interface
 
-**D.** Shopify
+**D.** Control Line Interface
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **A**
-**Amazon**
+**Command Line Interface**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
