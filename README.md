@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In computing terms, typically what does CLI stand for?**
+**❓ What is the commonly used keyboard shortcut for the 'Copy' function on Windows OS?**
 
 Choose your answer:
 
-**A.** Command Line Interface
+**A.** Ctrl + C
 
-**B.** Common Language Input
+**B.** Alt + C
 
-**C.** Common Language Interface
+**C.** Alt + X
 
-**D.** Control Line Interface
+**D.** Ctrl + X
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **A**
-**Command Line Interface**
+**Ctrl + C**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
