@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the commonly used keyboard shortcut for the 'Copy' function on Windows OS?**
+**❓ Lenovo acquired IBM's personal computer division, including the ThinkPad line of laptops and tablets, in what year?**
 
 Choose your answer:
 
-**A.** Ctrl + C
+**A.** 2002
 
-**B.** Alt + C
+**B.** 2005
 
-**C.** Alt + X
+**C.** 2008
 
-**D.** Ctrl + X
+**D.** 1999
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Ctrl + C**
+### ✅ Correct Answer: **B**
+**2005**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
