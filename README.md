@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ According to DeMorgan's Theorem, the Boolean expression (AB)' is equivalent to:**
+**❓ Whistler was the codename of this Microsoft Operating System.**
 
 Choose your answer:
 
-**A.** A'B'
+**A.** Windows 95
 
-**B.** AB' + AB
+**B.** Windows 2000
 
-**C.** A' + B'
+**C.** Windows 7
 
-**D.** A'B + B'A
+**D.** Windows XP
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**A' + B'**
+### ✅ Correct Answer: **D**
+**Windows XP**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
