@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Whistler was the codename of this Microsoft Operating System.**
+**❓ Australia, Japan, and Southeast Asia are in which ITU Region?**
 
 Choose your answer:
 
-**A.** Windows 95
+**A.** Region 2
 
-**B.** Windows 2000
+**B.** Region 1
 
-**C.** Windows 7
+**C.** Region 3
 
-**D.** Windows XP
+**D.** Region 4
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Windows XP**
+### ✅ Correct Answer: **C**
+**Region 3**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
