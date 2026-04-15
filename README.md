@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Australia, Japan, and Southeast Asia are in which ITU Region?**
+**❓ What was the name of the image that features as the default background wallpaper for Windows XP?**
 
 Choose your answer:
 
-**A.** Region 2
+**A.** Azul
 
-**B.** Region 1
+**B.** Red moon desert
 
-**C.** Region 3
+**C.** Bliss
 
-**D.** Region 4
+**D.** Tulips
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **C**
-**Region 3**
+**Bliss**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
