@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What was the name of the image that features as the default background wallpaper for Windows XP?**
+**❓ What is the most preferred image format used for logos in the Wikimedia database?**
 
 Choose your answer:
 
-**A.** Azul
+**A.** .jpeg
 
-**B.** Red moon desert
+**B.** .png
 
-**C.** Bliss
+**C.** .gif
 
-**D.** Tulips
+**D.** .svg
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Bliss**
+### ✅ Correct Answer: **D**
+**.svg**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
