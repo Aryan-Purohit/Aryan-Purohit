@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the most preferred image format used for logos in the Wikimedia database?**
+**❓ Which of these is not a key value of Agile software development?**
 
 Choose your answer:
 
-**A.** .jpeg
+**A.** Customer collaboration
 
-**B.** .png
+**B.** Responding to change
 
-**C.** .gif
+**C.** Comprehensive documentation
 
-**D.** .svg
+**D.** Individuals and interactions
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**.svg**
+### ✅ Correct Answer: **C**
+**Comprehensive documentation**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
