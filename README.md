@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which of these is not a key value of Agile software development?**
+**❓ What kind of memory is used on memory cache?**
 
 Choose your answer:
 
-**A.** Customer collaboration
+**A.** DRAM
 
-**B.** Responding to change
+**B.** SRAM
 
-**C.** Comprehensive documentation
+**C.** Flash
 
-**D.** Individuals and interactions
+**D.** ROM
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Comprehensive documentation**
+### ✅ Correct Answer: **B**
+**SRAM**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
