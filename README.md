@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What kind of memory is used on memory cache?**
+**❓ Who is the founder of Palantir?**
 
 Choose your answer:
 
-**A.** DRAM
+**A.** Peter Thiel
 
-**B.** SRAM
+**B.** Mark Zuckerberg
 
-**C.** Flash
+**C.** Marc Benioff
 
-**D.** ROM
+**D.** Jack Dorsey
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**SRAM**
+### ✅ Correct Answer: **A**
+**Peter Thiel**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
