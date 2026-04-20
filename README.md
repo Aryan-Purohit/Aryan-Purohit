@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Who is the founder of Palantir?**
+**❓ Approximately how many Apple I personal computers were created?**
 
 Choose your answer:
 
-**A.** Peter Thiel
+**A.** 100
 
-**B.** Mark Zuckerberg
+**B.** 200
 
-**C.** Marc Benioff
+**C.** 1000
 
-**D.** Jack Dorsey
+**D.** 500
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Peter Thiel**
+### ✅ Correct Answer: **B**
+**200**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
