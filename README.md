@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Approximately how many Apple I personal computers were created?**
+**❓ Which of the following physical typologies are used with Ethernet Networks?**
 
 Choose your answer:
 
-**A.** 100
+**A.** Mesh
 
-**B.** 200
+**B.** Ring
 
-**C.** 1000
+**C.** Star
 
-**D.** 500
+**D.** Hex
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**200**
+### ✅ Correct Answer: **C**
+**Star**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
