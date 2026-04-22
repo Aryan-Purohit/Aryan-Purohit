@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which of the following physical typologies are used with Ethernet Networks?**
+**❓ While Apple was formed in California, in which western state was Microsoft founded?**
 
 Choose your answer:
 
-**A.** Mesh
+**A.** Colorado
 
-**B.** Ring
+**B.** Arizona
 
-**C.** Star
+**C.** New Mexico
 
-**D.** Hex
+**D.** Washington
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **C**
-**Star**
+**New Mexico**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
