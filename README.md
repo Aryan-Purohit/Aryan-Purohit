@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ While Apple was formed in California, in which western state was Microsoft founded?**
+**❓ The programming language 'Swift' was created to replace what other programming language?**
 
 Choose your answer:
 
-**A.** Colorado
+**A.** C++
 
-**B.** Arizona
+**B.** C#
 
-**C.** New Mexico
+**C.** Objective-C
 
-**D.** Washington
+**D.** Ruby
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **C**
-**New Mexico**
+**Objective-C**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
