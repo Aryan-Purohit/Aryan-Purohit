@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ The programming language 'Swift' was created to replace what other programming language?**
+**❓ HTML is what type of language?**
 
 Choose your answer:
 
-**A.** C++
+**A.** Programming Language
 
-**B.** C#
+**B.** Markup Language
 
-**C.** Objective-C
+**C.** Macro Language
 
-**D.** Ruby
+**D.** Scripting Language
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Objective-C**
+### ✅ Correct Answer: **B**
+**Markup Language**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
