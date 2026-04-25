@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ HTML is what type of language?**
+**❓ What does RAID stand for?**
 
 Choose your answer:
 
-**A.** Programming Language
+**A.** Rapid Access for Indexed Devices
 
-**B.** Markup Language
+**B.** Randomized Abstract Identification Description
 
-**C.** Macro Language
+**C.** Redundant Array of Independent Disks
 
-**D.** Scripting Language
+**D.** Range of Applications with Identical Designs
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Markup Language**
+### ✅ Correct Answer: **C**
+**Redundant Array of Independent Disks**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
