@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does RAID stand for?**
+**❓ Which of these is not a layer in the OSI model for data communications?**
 
 Choose your answer:
 
-**A.** Rapid Access for Indexed Devices
+**A.** Application Layer
 
-**B.** Randomized Abstract Identification Description
+**B.** Transport Layer
 
-**C.** Redundant Array of Independent Disks
+**C.** Connection Layer
 
-**D.** Range of Applications with Identical Designs
+**D.** Physical Layer
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **C**
-**Redundant Array of Independent Disks**
+**Connection Layer**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
