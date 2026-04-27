@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which of these is not a layer in the OSI model for data communications?**
+**❓ What is the name of the process that sends one qubit of information using two bits of classical information?**
 
 Choose your answer:
 
-**A.** Application Layer
+**A.** Quantum Teleportation
 
-**B.** Transport Layer
+**B.** Super Dense Coding
 
-**C.** Connection Layer
+**C.** Quantum Entanglement
 
-**D.** Physical Layer
+**D.** Quantum Programming
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Connection Layer**
+### ✅ Correct Answer: **A**
+**Quantum Teleportation**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
