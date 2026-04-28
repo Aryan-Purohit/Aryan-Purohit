@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the name of the process that sends one qubit of information using two bits of classical information?**
+**❓ What is the most preferred image format used for logos in the Wikimedia database?**
 
 Choose your answer:
 
-**A.** Quantum Teleportation
+**A.** .gif
 
-**B.** Super Dense Coding
+**B.** .svg
 
-**C.** Quantum Entanglement
+**C.** .jpeg
 
-**D.** Quantum Programming
+**D.** .png
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Quantum Teleportation**
+### ✅ Correct Answer: **B**
+**.svg**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
