@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the most preferred image format used for logos in the Wikimedia database?**
+**❓ How many values can a single byte represent?**
 
 Choose your answer:
 
-**A.** .gif
+**A.** 1024
 
-**B.** .svg
+**B.** 256
 
-**C.** .jpeg
+**C.** 8
 
-**D.** .png
+**D.** 1
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **B**
-**.svg**
+**256**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
