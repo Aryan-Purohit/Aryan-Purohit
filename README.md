@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ How many values can a single byte represent?**
+**❓ When Gmail first launched, how much storage did it provide for your email?**
 
 Choose your answer:
 
-**A.** 1024
+**A.** 512MB
 
-**B.** 256
+**B.** 5GB
 
-**C.** 8
+**C.** Unlimited
 
-**D.** 1
+**D.** 1GB
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**256**
+### ✅ Correct Answer: **D**
+**1GB**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
