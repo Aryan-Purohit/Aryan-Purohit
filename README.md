@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ When Gmail first launched, how much storage did it provide for your email?**
+**❓ The Harvard architecture for micro-controllers added which additional bus?**
 
 Choose your answer:
 
-**A.** 512MB
+**A.** Instruction
 
-**B.** 5GB
+**B.** Control
 
-**C.** Unlimited
+**C.** Data
 
-**D.** 1GB
+**D.** Address
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**1GB**
+### ✅ Correct Answer: **A**
+**Instruction**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
