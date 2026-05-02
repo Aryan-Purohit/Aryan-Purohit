@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ The Harvard architecture for micro-controllers added which additional bus?**
+**❓ What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?**
 
 Choose your answer:
 
-**A.** Instruction
+**A.** Skylake
 
-**B.** Control
+**B.** Coffee Lake
 
-**C.** Data
+**C.** Sandy Bridge
 
-**D.** Address
+**D.** Broadwell
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Instruction**
+### ✅ Correct Answer: **B**
+**Coffee Lake**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
