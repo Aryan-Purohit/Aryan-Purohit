@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the codename of the eighth generation Intel Core micro-architecture launched in October 2017?**
+**❓ In the server hosting industry IaaS stands for...**
 
 Choose your answer:
 
-**A.** Skylake
+**A.** Internet as a Service
 
-**B.** Coffee Lake
+**B.** Infrastructure as a Server
 
-**C.** Sandy Bridge
+**C.** Internet and a Server
 
-**D.** Broadwell
+**D.** Infrastructure as a Service
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Coffee Lake**
+### ✅ Correct Answer: **D**
+**Infrastructure as a Service**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
