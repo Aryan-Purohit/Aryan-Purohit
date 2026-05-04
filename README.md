@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In the server hosting industry IaaS stands for...**
+**❓ The teapot often seen in many 3D modeling applications is called what?**
 
 Choose your answer:
 
-**A.** Internet as a Service
+**A.** 3D Teapot
 
-**B.** Infrastructure as a Server
+**B.** Utah Teapot
 
-**C.** Internet and a Server
+**C.** Tennessee Teapot
 
-**D.** Infrastructure as a Service
+**D.** Pixar Teapot
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Infrastructure as a Service**
+### ✅ Correct Answer: **B**
+**Utah Teapot**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
