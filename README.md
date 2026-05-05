@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ The teapot often seen in many 3D modeling applications is called what?**
+**❓ What was the name given to Android 4.3?**
 
 Choose your answer:
 
-**A.** 3D Teapot
+**A.** Nutella
 
-**B.** Utah Teapot
+**B.** Lollipop
 
-**C.** Tennessee Teapot
+**C.** Jelly Bean
 
-**D.** Pixar Teapot
+**D.** Froyo
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Utah Teapot**
+### ✅ Correct Answer: **C**
+**Jelly Bean**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
