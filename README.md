@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What was the name given to Android 4.3?**
+**❓ Who is the original author of the realtime physics engine called PhysX?**
 
 Choose your answer:
 
-**A.** Nutella
+**A.** AMD
 
-**B.** Lollipop
+**B.** Ageia
 
-**C.** Jelly Bean
+**C.** NovodeX
 
-**D.** Froyo
+**D.** Nvidia
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **C**
-**Jelly Bean**
+**NovodeX**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
