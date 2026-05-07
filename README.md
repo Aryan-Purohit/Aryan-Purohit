@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Who is the original author of the realtime physics engine called PhysX?**
+**❓ In computing, what does LAN stand for?**
 
 Choose your answer:
 
-**A.** AMD
+**A.** Light Access Node
 
-**B.** Ageia
+**B.** Local Area Network
 
-**C.** NovodeX
+**C.** Long Antenna Node
 
-**D.** Nvidia
+**D.** Land Address Navigation
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**NovodeX**
+### ✅ Correct Answer: **B**
+**Local Area Network**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
