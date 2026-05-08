@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In computing, what does LAN stand for?**
+**❓ Moore's law originally stated that the number of transistors on a microprocessor chip would double every...**
 
 Choose your answer:
 
-**A.** Light Access Node
+**A.** Year
 
-**B.** Local Area Network
+**B.** Eight Years
 
-**C.** Long Antenna Node
+**C.** Two Years
 
-**D.** Land Address Navigation
+**D.** Four Years
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Local Area Network**
+### ✅ Correct Answer: **A**
+**Year**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
