@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Moore's law originally stated that the number of transistors on a microprocessor chip would double every...**
+**❓ The name of technology company HP stands for what?**
 
 Choose your answer:
 
-**A.** Year
+**A.** Hellman-Pohl
 
-**B.** Eight Years
+**B.** Hewlett-Packard
 
-**C.** Two Years
+**C.** Husker-Pollosk
 
-**D.** Four Years
+**D.** Howard Packmann
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Year**
+### ✅ Correct Answer: **B**
+**Hewlett-Packard**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
