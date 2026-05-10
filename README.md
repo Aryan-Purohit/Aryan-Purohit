@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ The name of technology company HP stands for what?**
+**❓ Generally, which component of a computer draws the most power?**
 
 Choose your answer:
 
-**A.** Hellman-Pohl
+**A.** Hard Drive
 
-**B.** Hewlett-Packard
+**B.** Video Card
 
-**C.** Husker-Pollosk
+**C.** Power Supply
 
-**D.** Howard Packmann
+**D.** Processor
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **B**
-**Hewlett-Packard**
+**Video Card**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
