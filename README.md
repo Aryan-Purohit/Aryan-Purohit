@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Generally, which component of a computer draws the most power?**
+**❓ In computing, what does MIDI stand for?**
 
 Choose your answer:
 
-**A.** Hard Drive
+**A.** Musical Interface of Digital Instruments
 
-**B.** Video Card
+**B.** Musical Instrument Data Interface
 
-**C.** Power Supply
+**C.** Modular Interface of Digital Instruments
 
-**D.** Processor
+**D.** Musical Instrument Digital Interface
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Video Card**
+### ✅ Correct Answer: **D**
+**Musical Instrument Digital Interface**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
