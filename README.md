@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In computing, what does MIDI stand for?**
+**❓ Who is the original author of the realtime physics engine called PhysX?**
 
 Choose your answer:
 
-**A.** Musical Interface of Digital Instruments
+**A.** Nvidia
 
-**B.** Musical Instrument Data Interface
+**B.** NovodeX
 
-**C.** Modular Interface of Digital Instruments
+**C.** AMD
 
-**D.** Musical Instrument Digital Interface
+**D.** Ageia
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Musical Instrument Digital Interface**
+### ✅ Correct Answer: **B**
+**NovodeX**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
