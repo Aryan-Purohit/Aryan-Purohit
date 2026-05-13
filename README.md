@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Who is the original author of the realtime physics engine called PhysX?**
+**❓ In CSS, which of these values CANNOT be used with the "position" property?**
 
 Choose your answer:
 
-**A.** Nvidia
+**A.** center
 
-**B.** NovodeX
+**B.** static
 
-**C.** AMD
+**C.** absolute
 
-**D.** Ageia
+**D.** relative
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**NovodeX**
+### ✅ Correct Answer: **A**
+**center**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
