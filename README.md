@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In CSS, which of these values CANNOT be used with the "position" property?**
+**❓ What is the commonly used keyboard shortcut for the 'Copy' function on Windows OS?**
 
 Choose your answer:
 
-**A.** center
+**A.** Ctrl + X
 
-**B.** static
+**B.** Ctrl + C
 
-**C.** absolute
+**C.** Alt + X
 
-**D.** relative
+**D.** Alt + C
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**center**
+### ✅ Correct Answer: **B**
+**Ctrl + C**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
