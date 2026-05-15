@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the commonly used keyboard shortcut for the 'Copy' function on Windows OS?**
+**❓ In networking, what does OSPF stand for?**
 
 Choose your answer:
 
-**A.** Ctrl + X
+**A.** Open Shortest Path First
 
-**B.** Ctrl + C
+**B.** Order State Part First
 
-**C.** Alt + X
+**C.** Order Sense Ping Find
 
-**D.** Alt + C
+**D.** Open Signal Path Finder
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Ctrl + C**
+### ✅ Correct Answer: **A**
+**Open Shortest Path First**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
