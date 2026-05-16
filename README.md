@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In networking, what does OSPF stand for?**
+**❓ If you were to code software in this language you'd only be able to type 0's and 1's.**
 
 Choose your answer:
 
-**A.** Open Shortest Path First
+**A.** Binary
 
-**B.** Order State Part First
+**B.** C++
 
-**C.** Order Sense Ping Find
+**C.** Python
 
-**D.** Open Signal Path Finder
+**D.** JavaScript
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **A**
-**Open Shortest Path First**
+**Binary**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
