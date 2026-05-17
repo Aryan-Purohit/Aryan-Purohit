@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ If you were to code software in this language you'd only be able to type 0's and 1's.**
+**❓ Who is the founder of Palantir?**
 
 Choose your answer:
 
-**A.** Binary
+**A.** Marc Benioff
 
-**B.** C++
+**B.** Mark Zuckerberg
 
-**C.** Python
+**C.** Peter Thiel
 
-**D.** JavaScript
+**D.** Jack Dorsey
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Binary**
+### ✅ Correct Answer: **C**
+**Peter Thiel**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
