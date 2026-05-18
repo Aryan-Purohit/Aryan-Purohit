@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Who is the founder of Palantir?**
+**❓ What does the Prt Sc button do?**
 
 Choose your answer:
 
-**A.** Marc Benioff
+**A.** Saves a .png file of what's on the screen in your screenshots folder in photos
 
-**B.** Mark Zuckerberg
+**B.** Closes all windows
 
-**C.** Peter Thiel
+**C.** Captures what's on the screen and copies it to your clipboard
 
-**D.** Jack Dorsey
+**D.** Nothing
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **C**
-**Peter Thiel**
+**Captures what's on the screen and copies it to your clipboard**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
