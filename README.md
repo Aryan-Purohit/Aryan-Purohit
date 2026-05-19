@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does the Prt Sc button do?**
+**❓ Dutch computer scientist Mark Overmars is known for creating which game development engine?**
 
 Choose your answer:
 
-**A.** Saves a .png file of what's on the screen in your screenshots folder in photos
+**A.** Torque 2D
 
-**B.** Closes all windows
+**B.** Game Maker
 
-**C.** Captures what's on the screen and copies it to your clipboard
+**C.** Stencyl
 
-**D.** Nothing
+**D.** Construct
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Captures what's on the screen and copies it to your clipboard**
+### ✅ Correct Answer: **B**
+**Game Maker**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
