@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Dutch computer scientist Mark Overmars is known for creating which game development engine?**
+**❓ What does the term MIME stand for, in regards to computing?**
 
 Choose your answer:
 
-**A.** Torque 2D
+**A.** Multipurpose Interleave Mail Exchange
 
-**B.** Game Maker
+**B.** Multipurpose Internet Mail Extensions
 
-**C.** Stencyl
+**C.** Mail Interleave Method Exchange
 
-**D.** Construct
+**D.** Mail Internet Mail Exchange
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **B**
-**Game Maker**
+**Multipurpose Internet Mail Extensions**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
