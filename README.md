@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does the term MIME stand for, in regards to computing?**
+**❓ Whistler was the codename of this Microsoft Operating System.**
 
 Choose your answer:
 
-**A.** Multipurpose Interleave Mail Exchange
+**A.** Windows XP
 
-**B.** Multipurpose Internet Mail Extensions
+**B.** Windows 95
 
-**C.** Mail Interleave Method Exchange
+**C.** Windows 7
 
-**D.** Mail Internet Mail Exchange
+**D.** Windows 2000
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Multipurpose Internet Mail Extensions**
+### ✅ Correct Answer: **A**
+**Windows XP**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
