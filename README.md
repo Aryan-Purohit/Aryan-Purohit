@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Whistler was the codename of this Microsoft Operating System.**
+**❓ What is largely considered the precursor to the USB format?**
 
 Choose your answer:
 
-**A.** Windows XP
+**A.** PS/2
 
-**B.** Windows 95
+**B.** SVGA
 
-**C.** Windows 7
+**C.** FireWire
 
-**D.** Windows 2000
+**D.** PCIe
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **A**
-**Windows XP**
+**PS/2**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
