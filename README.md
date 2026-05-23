@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is largely considered the precursor to the USB format?**
+**❓ If you were to code software in this language you'd only be able to type 0's and 1's.**
 
 Choose your answer:
 
-**A.** PS/2
+**A.** Python
 
-**B.** SVGA
+**B.** C++
 
-**C.** FireWire
+**C.** JavaScript
 
-**D.** PCIe
+**D.** Binary
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**PS/2**
+### ✅ Correct Answer: **D**
+**Binary**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
