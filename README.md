@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ If you were to code software in this language you'd only be able to type 0's and 1's.**
+**❓ On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?**
 
 Choose your answer:
 
-**A.** Python
+**A.** Asterisk
 
-**B.** C++
+**B.** Dollar Sign
 
-**C.** JavaScript
+**C.** Percent Sign
 
-**D.** Binary
+**D.** Exclamation Mark
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**Binary**
+**Exclamation Mark**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
