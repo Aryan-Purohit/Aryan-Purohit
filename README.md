@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?**
+**❓ On which computer hardware device is the BIOS chip located?**
 
 Choose your answer:
 
-**A.** Asterisk
+**A.** Hard Disk Drive
 
-**B.** Dollar Sign
+**B.** Central Processing Unit
 
-**C.** Percent Sign
+**C.** Graphics Processing Unit
 
-**D.** Exclamation Mark
+**D.** Motherboard
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**Exclamation Mark**
+**Motherboard**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
