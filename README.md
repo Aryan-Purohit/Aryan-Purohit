@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ On which computer hardware device is the BIOS chip located?**
+**❓ Color model CMYK stands for?**
 
 Choose your answer:
 
-**A.** Hard Disk Drive
+**A.** Cyan, Magenta, Yellow, and Black
 
-**B.** Central Processing Unit
+**B.** Cream, Maroon, Yellow, and Black
 
-**C.** Graphics Processing Unit
+**C.** Cyan, Magenta, Yellow, and Khaki
 
-**D.** Motherboard
+**D.** Cream, Maroon, Yellow, and Khaki
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Motherboard**
+### ✅ Correct Answer: **A**
+**Cyan, Magenta, Yellow, and Black**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
