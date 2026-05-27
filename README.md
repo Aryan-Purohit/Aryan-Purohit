@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Color model CMYK stands for?**
+**❓ Nvidia's headquarters are based in which Silicon Valley city?**
 
 Choose your answer:
 
-**A.** Cyan, Magenta, Yellow, and Black
+**A.** Santa Clara
 
-**B.** Cream, Maroon, Yellow, and Black
+**B.** Mountain View
 
-**C.** Cyan, Magenta, Yellow, and Khaki
+**C.** Palo Alto
 
-**D.** Cream, Maroon, Yellow, and Khaki
+**D.** Cupertino
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **A**
-**Cyan, Magenta, Yellow, and Black**
+**Santa Clara**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
