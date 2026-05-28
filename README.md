@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Nvidia's headquarters are based in which Silicon Valley city?**
+**❓ What kind of memory is used on memory cache?**
 
 Choose your answer:
 
-**A.** Santa Clara
+**A.** ROM
 
-**B.** Mountain View
+**B.** Flash
 
-**C.** Palo Alto
+**C.** DRAM
 
-**D.** Cupertino
+**D.** SRAM
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Santa Clara**
+### ✅ Correct Answer: **D**
+**SRAM**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
