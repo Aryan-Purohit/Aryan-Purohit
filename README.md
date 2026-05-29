@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What kind of memory is used on memory cache?**
+**❓ When was the programming language "C#" released?**
 
 Choose your answer:
 
-**A.** ROM
+**A.** 1999
 
-**B.** Flash
+**B.** 1998
 
-**C.** DRAM
+**C.** 2001
 
-**D.** SRAM
+**D.** 2000
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**SRAM**
+**2000**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
