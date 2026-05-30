@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ When was the programming language "C#" released?**
+**❓ What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?**
 
 Choose your answer:
 
-**A.** 1999
+**A.** Data link
 
-**B.** 1998
+**B.** Network
 
-**C.** 2001
+**C.** Transport
 
-**D.** 2000
+**D.** Session
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**2000**
+### ✅ Correct Answer: **C**
+**Transport**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
