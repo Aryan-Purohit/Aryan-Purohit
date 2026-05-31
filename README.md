@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?**
+**❓ In computing terms, typically what does CLI stand for?**
 
 Choose your answer:
 
-**A.** Data link
+**A.** Command Line Interface
 
-**B.** Network
+**B.** Common Language Interface
 
-**C.** Transport
+**C.** Common Language Input
 
-**D.** Session
+**D.** Control Line Interface
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Transport**
+### ✅ Correct Answer: **A**
+**Command Line Interface**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
