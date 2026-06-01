@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In computing terms, typically what does CLI stand for?**
+**❓ What is the code name for the mobile operating system Android 7.0?**
 
 Choose your answer:
 
-**A.** Command Line Interface
+**A.** Jelly Bean
 
-**B.** Common Language Interface
+**B.** Marshmallow
 
-**C.** Common Language Input
+**C.** Ice Cream Sandwich
 
-**D.** Control Line Interface
+**D.** Nougat
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Command Line Interface**
+### ✅ Correct Answer: **D**
+**Nougat**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
