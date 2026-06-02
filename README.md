@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the code name for the mobile operating system Android 7.0?**
+**❓ In web design, what does CSS stand for?**
 
 Choose your answer:
 
-**A.** Jelly Bean
+**A.** Corrective Style Sheet
 
-**B.** Marshmallow
+**B.** Cascading Style Sheet
 
-**C.** Ice Cream Sandwich
+**C.** Counter Strike: Source
 
-**D.** Nougat
+**D.** Computer Style Sheet
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Nougat**
+### ✅ Correct Answer: **B**
+**Cascading Style Sheet**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
