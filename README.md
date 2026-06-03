@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In web design, what does CSS stand for?**
+**❓ The programming language 'Swift' was created to replace what other programming language?**
 
 Choose your answer:
 
-**A.** Corrective Style Sheet
+**A.** C++
 
-**B.** Cascading Style Sheet
+**B.** Ruby
 
-**C.** Counter Strike: Source
+**C.** C#
 
-**D.** Computer Style Sheet
+**D.** Objective-C
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Cascading Style Sheet**
+### ✅ Correct Answer: **D**
+**Objective-C**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
