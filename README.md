@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ The programming language 'Swift' was created to replace what other programming language?**
+**❓ Which internet company began life as an online bookstore called 'Cadabra'?**
 
 Choose your answer:
 
-**A.** C++
+**A.** Overstock
 
-**B.** Ruby
+**B.** Shopify
 
-**C.** C#
+**C.** Amazon
 
-**D.** Objective-C
+**D.** eBay
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Objective-C**
+### ✅ Correct Answer: **C**
+**Amazon**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
