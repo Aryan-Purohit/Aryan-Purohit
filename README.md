@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which internet company began life as an online bookstore called 'Cadabra'?**
+**❓ Which of the following is the oldest of these computers by release date?**
 
 Choose your answer:
 
-**A.** Overstock
+**A.** TRS-80
 
-**B.** Shopify
+**B.** Commodore 64
 
-**C.** Amazon
+**C.** ZX Spectrum
 
-**D.** eBay
+**D.** Apple 3
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Amazon**
+### ✅ Correct Answer: **A**
+**TRS-80**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
