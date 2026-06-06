@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which of the following is the oldest of these computers by release date?**
+**❓ How many Hz does the video standard PAL support?**
 
 Choose your answer:
 
-**A.** TRS-80
+**A.** 50
 
-**B.** Commodore 64
+**B.** 59
 
-**C.** ZX Spectrum
+**C.** 60
 
-**D.** Apple 3
+**D.** 25
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **A**
-**TRS-80**
+**50**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
