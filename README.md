@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ How many Hz does the video standard PAL support?**
+**❓ What does AD stand for in relation to Windows Operating Systems? **
 
 Choose your answer:
 
-**A.** 50
+**A.** Automated Database
 
-**B.** 59
+**B.** Active Directory
 
-**C.** 60
+**C.** Alternative Drive
 
-**D.** 25
+**D.** Active Department
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**50**
+### ✅ Correct Answer: **B**
+**Active Directory**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
