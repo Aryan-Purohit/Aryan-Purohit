@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does AD stand for in relation to Windows Operating Systems? **
+**❓ What does "LCD" stand for?**
 
 Choose your answer:
 
-**A.** Automated Database
+**A.** Last Common Difference
 
-**B.** Active Directory
+**B.** Liquid Crystal Display
 
-**C.** Alternative Drive
+**C.** Language Control Design
 
-**D.** Active Department
+**D.** Long Continuous Design
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **B**
-**Active Directory**
+**Liquid Crystal Display**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
