@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does "LCD" stand for?**
+**❓ In web design, what does CSS stand for?**
 
 Choose your answer:
 
-**A.** Last Common Difference
+**A.** Counter Strike: Source
 
-**B.** Liquid Crystal Display
+**B.** Cascading Style Sheet
 
-**C.** Language Control Design
+**C.** Computer Style Sheet
 
-**D.** Long Continuous Design
+**D.** Corrective Style Sheet
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **B**
-**Liquid Crystal Display**
+**Cascading Style Sheet**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
