@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In web design, what does CSS stand for?**
+**❓ What does the Prt Sc button do?**
 
 Choose your answer:
 
-**A.** Counter Strike: Source
+**A.** Nothing
 
-**B.** Cascading Style Sheet
+**B.** Saves a .png file of what's on the screen in your screenshots folder in photos
 
-**C.** Computer Style Sheet
+**C.** Captures what's on the screen and copies it to your clipboard
 
-**D.** Corrective Style Sheet
+**D.** Closes all windows
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Cascading Style Sheet**
+### ✅ Correct Answer: **C**
+**Captures what's on the screen and copies it to your clipboard**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
