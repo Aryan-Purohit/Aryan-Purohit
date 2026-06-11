@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does the Prt Sc button do?**
+**❓ Who is the original author of the realtime physics engine called PhysX?**
 
 Choose your answer:
 
-**A.** Nothing
+**A.** AMD
 
-**B.** Saves a .png file of what's on the screen in your screenshots folder in photos
+**B.** Nvidia
 
-**C.** Captures what's on the screen and copies it to your clipboard
+**C.** Ageia
 
-**D.** Closes all windows
+**D.** NovodeX
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Captures what's on the screen and copies it to your clipboard**
+### ✅ Correct Answer: **D**
+**NovodeX**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
