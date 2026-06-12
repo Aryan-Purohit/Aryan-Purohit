@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Who is the original author of the realtime physics engine called PhysX?**
+**❓ This mobile OS held the largest market share in 2012.**
 
 Choose your answer:
 
-**A.** AMD
+**A.** BlackBerry
 
-**B.** Nvidia
+**B.** Android
 
-**C.** Ageia
+**C.** iOS
 
-**D.** NovodeX
+**D.** Symbian
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**NovodeX**
+### ✅ Correct Answer: **C**
+**iOS**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
