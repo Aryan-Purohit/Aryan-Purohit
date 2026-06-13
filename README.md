@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ This mobile OS held the largest market share in 2012.**
+**❓ What is the name of the process that sends one qubit of information using two bits of classical information?**
 
 Choose your answer:
 
-**A.** BlackBerry
+**A.** Quantum Programming
 
-**B.** Android
+**B.** Quantum Entanglement
 
-**C.** iOS
+**C.** Super Dense Coding
 
-**D.** Symbian
+**D.** Quantum Teleportation
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**iOS**
+### ✅ Correct Answer: **D**
+**Quantum Teleportation**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
