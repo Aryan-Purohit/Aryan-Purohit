@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What major programming language does Unreal Engine 4 use?**
+**❓ How many Hz does the video standard PAL support?**
 
 Choose your answer:
 
-**A.** C#
+**A.** 59
 
-**B.** Assembly
+**B.** 25
 
-**C.** C++
+**C.** 50
 
-**D.** ECMAScript
+**D.** 60
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **C**
-**C++**
+**50**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
