@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ How many Hz does the video standard PAL support?**
+**❓ Which operating system was released first?**
 
 Choose your answer:
 
-**A.** 59
+**A.** Mac OS
 
-**B.** 25
+**B.** OS/2
 
-**C.** 50
+**C.** Linux
 
-**D.** 60
+**D.** Windows
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**50**
+### ✅ Correct Answer: **A**
+**Mac OS**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
