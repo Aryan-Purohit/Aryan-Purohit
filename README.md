@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which operating system was released first?**
+**❓ On which day did the World Wide Web go online?**
 
 Choose your answer:
 
-**A.** Mac OS
+**A.** December 17, 1996
 
-**B.** OS/2
+**B.** November 12, 1990
 
-**C.** Linux
+**C.** November 24, 1995
 
-**D.** Windows
+**D.** December 20, 1990
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Mac OS**
+### ✅ Correct Answer: **D**
+**December 20, 1990**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
