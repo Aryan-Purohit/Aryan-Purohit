@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ On which day did the World Wide Web go online?**
+**❓ Which SQL keyword is used to fetch data from a database?**
 
 Choose your answer:
 
-**A.** December 17, 1996
+**A.** SELECT
 
-**B.** November 12, 1990
+**B.** EXEC
 
-**C.** November 24, 1995
+**C.** VALUES
 
-**D.** December 20, 1990
+**D.** INDEX
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**December 20, 1990**
+### ✅ Correct Answer: **A**
+**SELECT**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
