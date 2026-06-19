@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which SQL keyword is used to fetch data from a database?**
+**❓ What is the number of keys on a standard Windows Keyboard?**
 
 Choose your answer:
 
-**A.** SELECT
+**A.** 64
 
-**B.** EXEC
+**B.** 94
 
-**C.** VALUES
+**C.** 76
 
-**D.** INDEX
+**D.** 104
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**SELECT**
+### ✅ Correct Answer: **D**
+**104**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
