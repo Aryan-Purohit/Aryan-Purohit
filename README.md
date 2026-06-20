@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the number of keys on a standard Windows Keyboard?**
+**❓ What does the 'S' in the RSA encryption algorithm stand for?**
 
 Choose your answer:
 
-**A.** 64
+**A.** Stable
 
-**B.** 94
+**B.** Shamir
 
-**C.** 76
+**C.** Schottky
 
-**D.** 104
+**D.** Secure
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**104**
+### ✅ Correct Answer: **B**
+**Shamir**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
