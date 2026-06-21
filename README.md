@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does the 'S' in the RSA encryption algorithm stand for?**
+**❓ Australia, Japan, and Southeast Asia are in which ITU Region?**
 
 Choose your answer:
 
-**A.** Stable
+**A.** Region 3
 
-**B.** Shamir
+**B.** Region 2
 
-**C.** Schottky
+**C.** Region 1
 
-**D.** Secure
+**D.** Region 4
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Shamir**
+### ✅ Correct Answer: **A**
+**Region 3**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
