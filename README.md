@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Australia, Japan, and Southeast Asia are in which ITU Region?**
+**❓ The name of technology company HP stands for what?**
 
 Choose your answer:
 
-**A.** Region 3
+**A.** Hellman-Pohl
 
-**B.** Region 2
+**B.** Husker-Pollosk
 
-**C.** Region 1
+**C.** Hewlett-Packard
 
-**D.** Region 4
+**D.** Howard Packmann
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Region 3**
+### ✅ Correct Answer: **C**
+**Hewlett-Packard**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
