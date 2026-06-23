@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ The name of technology company HP stands for what?**
+**❓ The Windows OS was delevoped by which company?**
 
 Choose your answer:
 
-**A.** Hellman-Pohl
+**A.** Microsoft
 
-**B.** Husker-Pollosk
+**B.** Nokia
 
-**C.** Hewlett-Packard
+**C.** IBM
 
-**D.** Howard Packmann
+**D.** Apple
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Hewlett-Packard**
+### ✅ Correct Answer: **A**
+**Microsoft**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
