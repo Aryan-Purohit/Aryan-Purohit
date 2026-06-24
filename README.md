@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ The Windows OS was delevoped by which company?**
+**❓ Who invented the "Spanning Tree Protocol"?**
 
 Choose your answer:
 
-**A.** Microsoft
+**A.** Michael Roberts
 
-**B.** Nokia
+**B.** Vint Cerf
 
-**C.** IBM
+**C.** Paul Vixie
 
-**D.** Apple
+**D.** Radia Perlman
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Microsoft**
+### ✅ Correct Answer: **D**
+**Radia Perlman**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
