@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Who invented the "Spanning Tree Protocol"?**
+**❓ The programming language 'Swift' was created to replace what other programming language?**
 
 Choose your answer:
 
-**A.** Michael Roberts
+**A.** C++
 
-**B.** Vint Cerf
+**B.** Ruby
 
-**C.** Paul Vixie
+**C.** C#
 
-**D.** Radia Perlman
+**D.** Objective-C
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**Radia Perlman**
+**Objective-C**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
