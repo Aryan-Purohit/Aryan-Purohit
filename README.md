@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ The programming language 'Swift' was created to replace what other programming language?**
+**❓ In computing terms, typically what does CLI stand for?**
 
 Choose your answer:
 
-**A.** C++
+**A.** Common Language Input
 
-**B.** Ruby
+**B.** Control Line Interface
 
-**C.** C#
+**C.** Common Language Interface
 
-**D.** Objective-C
+**D.** Command Line Interface
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**Objective-C**
+**Command Line Interface**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
