@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In computing terms, typically what does CLI stand for?**
+**❓ What language does Node.js use?**
 
 Choose your answer:
 
-**A.** Common Language Input
+**A.** JavaScript
 
-**B.** Control Line Interface
+**B.** Joomla Source Code
 
-**C.** Common Language Interface
+**C.** Java Source
 
-**D.** Command Line Interface
+**D.** Java
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Command Line Interface**
+### ✅ Correct Answer: **A**
+**JavaScript**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
