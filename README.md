@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What language does Node.js use?**
+**❓ What port does HTTP run on?**
 
 Choose your answer:
 
-**A.** JavaScript
+**A.** 443
 
-**B.** Joomla Source Code
+**B.** 53
 
-**C.** Java Source
+**C.** 80
 
-**D.** Java
+**D.** 23
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**JavaScript**
+### ✅ Correct Answer: **C**
+**80**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
