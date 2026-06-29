@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What port does HTTP run on?**
+**❓ Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?**
 
 Choose your answer:
 
-**A.** 443
+**A.** Heartbleed
 
-**B.** 53
+**B.** Shellshock
 
-**C.** 80
+**C.** Corrupted Blood
 
-**D.** 23
+**D.** Shellscript
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**80**
+### ✅ Correct Answer: **A**
+**Heartbleed**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
