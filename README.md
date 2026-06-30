@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?**
+**❓ What was the name of the first Bulgarian personal computer?**
 
 Choose your answer:
 
-**A.** Heartbleed
+**A.** IMKO-1
 
-**B.** Shellshock
+**B.** IZOT 1030
 
-**C.** Corrupted Blood
+**C.** Pravetz 82
 
-**D.** Shellscript
+**D.** Pravetz 8D
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **A**
-**Heartbleed**
+**IMKO-1**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
