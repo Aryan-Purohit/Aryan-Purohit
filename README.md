@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What was the name of the first Bulgarian personal computer?**
+**❓ Generally, which component of a computer draws the most power?**
 
 Choose your answer:
 
-**A.** IMKO-1
+**A.** Video Card
 
-**B.** IZOT 1030
+**B.** Processor
 
-**C.** Pravetz 82
+**C.** Power Supply
 
-**D.** Pravetz 8D
+**D.** Hard Drive
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **A**
-**IMKO-1**
+**Video Card**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
