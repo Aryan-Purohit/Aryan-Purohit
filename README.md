@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Generally, which component of a computer draws the most power?**
+**❓ What does the computer software acronym JVM stand for?**
 
 Choose your answer:
 
-**A.** Video Card
+**A.** Just Virtual Machine
 
-**B.** Processor
+**B.** Java Visual Machine
 
-**C.** Power Supply
+**C.** Java Vendor Machine
 
-**D.** Hard Drive
+**D.** Java Virtual Machine
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Video Card**
+### ✅ Correct Answer: **D**
+**Java Virtual Machine**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
