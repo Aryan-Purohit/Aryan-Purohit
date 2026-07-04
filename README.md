@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ The programming language 'Swift' was created to replace what other programming language?**
+**❓ Which one of these is not an official development name for a Ubuntu release?**
 
 Choose your answer:
 
-**A.** C++
+**A.** Utopic Unicorn
 
-**B.** Ruby
+**B.** Wily Werewolf
 
-**C.** Objective-C
+**C.** Mystic Mansion
 
-**D.** C#
+**D.** Trusty Tahr
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **C**
-**Objective-C**
+**Mystic Mansion**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
