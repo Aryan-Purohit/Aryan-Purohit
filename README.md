@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which one of these is not an official development name for a Ubuntu release?**
+**❓ Which computer language would you associate Django framework with?**
 
 Choose your answer:
 
-**A.** Utopic Unicorn
+**A.** C++
 
-**B.** Wily Werewolf
+**B.** C#
 
-**C.** Mystic Mansion
+**C.** Java
 
-**D.** Trusty Tahr
+**D.** Python
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Mystic Mansion**
+### ✅ Correct Answer: **D**
+**Python**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
