@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which computer language would you associate Django framework with?**
+**❓ Which programming language shares its name with an island in Indonesia?**
 
 Choose your answer:
 
-**A.** C++
+**A.** C
 
-**B.** C#
+**B.** Python
 
-**C.** Java
+**C.** Jakarta
 
-**D.** Python
+**D.** Java
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**Python**
+**Java**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
