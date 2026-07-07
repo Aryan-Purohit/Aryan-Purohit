@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which programming language shares its name with an island in Indonesia?**
+**❓ What internet protocol was documented in RFC 1459?**
 
 Choose your answer:
 
-**A.** C
+**A.** HTTP
 
-**B.** Python
+**B.** HTTPS
 
-**C.** Jakarta
+**C.** IRC
 
-**D.** Java
+**D.** FTP
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Java**
+### ✅ Correct Answer: **C**
+**IRC**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
