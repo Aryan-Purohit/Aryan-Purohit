@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What internet protocol was documented in RFC 1459?**
+**❓ HTML is what type of language?**
 
 Choose your answer:
 
-**A.** HTTP
+**A.** Programming Language
 
-**B.** HTTPS
+**B.** Markup Language
 
-**C.** IRC
+**C.** Scripting Language
 
-**D.** FTP
+**D.** Macro Language
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**IRC**
+### ✅ Correct Answer: **B**
+**Markup Language**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
