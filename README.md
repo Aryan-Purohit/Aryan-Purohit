@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ HTML is what type of language?**
+**❓ What was the first company to use the term "Golden Master"?**
 
 Choose your answer:
 
-**A.** Programming Language
+**A.** Apple
 
-**B.** Markup Language
+**B.** Google
 
-**C.** Scripting Language
+**C.** Microsoft
 
-**D.** Macro Language
+**D.** IBM
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Markup Language**
+### ✅ Correct Answer: **A**
+**Apple**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
