@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What was the first company to use the term "Golden Master"?**
+**❓ What amount of bits commonly equals one byte?**
 
 Choose your answer:
 
-**A.** Apple
+**A.** 1
 
-**B.** Google
+**B.** 2
 
-**C.** Microsoft
+**C.** 64
 
-**D.** IBM
+**D.** 8
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Apple**
+### ✅ Correct Answer: **D**
+**8**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
