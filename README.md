@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does AD stand for in relation to Windows Operating Systems? **
+**❓ What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?**
 
 Choose your answer:
 
-**A.** Active Department
+**A.** Transport
 
-**B.** Automated Database
+**B.** Network
 
-**C.** Alternative Drive
+**C.** Session
 
-**D.** Active Directory
+**D.** Data link
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Active Directory**
+### ✅ Correct Answer: **A**
+**Transport**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
