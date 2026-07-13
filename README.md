@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?**
+**❓ Which data structure does FILO apply to?**
 
 Choose your answer:
 
-**A.** Transport
+**A.** Tree
 
-**B.** Network
+**B.** Queue
 
-**C.** Session
+**C.** Stack
 
-**D.** Data link
+**D.** Heap
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Transport**
+### ✅ Correct Answer: **C**
+**Stack**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
