@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which data structure does FILO apply to?**
+**❓ What does the International System of Quantities refer 1024 bytes as?**
 
 Choose your answer:
 
-**A.** Tree
+**A.** Kibibyte
 
-**B.** Queue
+**B.** Kelobyte
 
-**C.** Stack
+**C.** Kylobyte
 
-**D.** Heap
+**D.** Kilobyte
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Stack**
+### ✅ Correct Answer: **A**
+**Kibibyte**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
