@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does the International System of Quantities refer 1024 bytes as?**
+**❓ How many values can a single byte represent?**
 
 Choose your answer:
 
-**A.** Kibibyte
+**A.** 1024
 
-**B.** Kelobyte
+**B.** 1
 
-**C.** Kylobyte
+**C.** 256
 
-**D.** Kilobyte
+**D.** 8
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Kibibyte**
+### ✅ Correct Answer: **C**
+**256**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
