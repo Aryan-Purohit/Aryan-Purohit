@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ How many values can a single byte represent?**
+**❓ What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?**
 
 Choose your answer:
 
-**A.** 1024
+**A.** CPU Vent
 
-**B.** 1
+**B.** Heat Vent
 
-**C.** 256
+**C.** Heat Sink
 
-**D.** 8
+**D.** Temperature Decipator
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **C**
-**256**
+**Heat Sink**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
