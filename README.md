@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?**
+**❓ Who invented the "Spanning Tree Protocol"?**
 
 Choose your answer:
 
-**A.** CPU Vent
+**A.** Vint Cerf
 
-**B.** Heat Vent
+**B.** Radia Perlman
 
-**C.** Heat Sink
+**C.** Paul Vixie
 
-**D.** Temperature Decipator
+**D.** Michael Roberts
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Heat Sink**
+### ✅ Correct Answer: **B**
+**Radia Perlman**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
