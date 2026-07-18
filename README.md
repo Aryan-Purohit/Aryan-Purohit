@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Who invented the "Spanning Tree Protocol"?**
+**❓ How many cores does the Intel i7-6950X have?**
 
 Choose your answer:
 
-**A.** Vint Cerf
+**A.** 12
 
-**B.** Radia Perlman
+**B.** 4
 
-**C.** Paul Vixie
+**C.** 8
 
-**D.** Michael Roberts
+**D.** 10
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Radia Perlman**
+### ✅ Correct Answer: **D**
+**10**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
