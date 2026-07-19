@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ How many cores does the Intel i7-6950X have?**
+**❓ What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?**
 
 Choose your answer:
 
-**A.** 12
+**A.** Network
 
-**B.** 4
+**B.** Session
 
-**C.** 8
+**C.** Data link
 
-**D.** 10
+**D.** Transport
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**10**
+**Transport**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
