@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the name given to layer 4 of the Open Systems Interconnection (ISO) model?**
+**❓ In web design, what does CSS stand for?**
 
 Choose your answer:
 
-**A.** Network
+**A.** Computer Style Sheet
 
-**B.** Session
+**B.** Cascading Style Sheet
 
-**C.** Data link
+**C.** Counter Strike: Source
 
-**D.** Transport
+**D.** Corrective Style Sheet
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Transport**
+### ✅ Correct Answer: **B**
+**Cascading Style Sheet**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
