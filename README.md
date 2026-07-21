@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In web design, what does CSS stand for?**
+**❓ This mobile OS held the largest market share in 2012.**
 
 Choose your answer:
 
-**A.** Computer Style Sheet
+**A.** BlackBerry
 
-**B.** Cascading Style Sheet
+**B.** iOS
 
-**C.** Counter Strike: Source
+**C.** Android
 
-**D.** Corrective Style Sheet
+**D.** Symbian
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **B**
-**Cascading Style Sheet**
+**iOS**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
