@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ This mobile OS held the largest market share in 2012.**
+**❓ What is the domain name for the country Tuvalu?**
 
 Choose your answer:
 
-**A.** BlackBerry
+**A.** .tl
 
-**B.** iOS
+**B.** .tt
 
-**C.** Android
+**C.** .tu
 
-**D.** Symbian
+**D.** .tv
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**iOS**
+### ✅ Correct Answer: **D**
+**.tv**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
