@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the domain name for the country Tuvalu?**
+**❓ Which of the following physical typologies are used with Ethernet Networks?**
 
 Choose your answer:
 
-**A.** .tl
+**A.** Star
 
-**B.** .tt
+**B.** Hex
 
-**C.** .tu
+**C.** Mesh
 
-**D.** .tv
+**D.** Ring
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**.tv**
+### ✅ Correct Answer: **A**
+**Star**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
