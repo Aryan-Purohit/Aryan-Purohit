@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which of the following physical typologies are used with Ethernet Networks?**
+**❓ Moore's law originally stated that the number of transistors on a microprocessor chip would double every...**
 
 Choose your answer:
 
-**A.** Star
+**A.** Four Years
 
-**B.** Hex
+**B.** Year
 
-**C.** Mesh
+**C.** Eight Years
 
-**D.** Ring
+**D.** Two Years
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Star**
+### ✅ Correct Answer: **B**
+**Year**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
