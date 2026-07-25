@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Moore's law originally stated that the number of transistors on a microprocessor chip would double every...**
+**❓ Which of these is not a layer in the OSI model for data communications?**
 
 Choose your answer:
 
-**A.** Four Years
+**A.** Physical Layer
 
-**B.** Year
+**B.** Transport Layer
 
-**C.** Eight Years
+**C.** Connection Layer
 
-**D.** Two Years
+**D.** Application Layer
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Year**
+### ✅ Correct Answer: **C**
+**Connection Layer**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
