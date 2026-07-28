@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In the programming language Java, which of these keywords would you put on a variable to make sure it doesn't get modified?**
+**❓ What does RAID stand for?**
 
 Choose your answer:
 
-**A.** Public
+**A.** Randomized Abstract Identification Description
 
-**B.** Private
+**B.** Range of Applications with Identical Designs
 
-**C.** Final
+**C.** Redundant Array of Independent Disks
 
-**D.** Static
+**D.** Rapid Access for Indexed Devices
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **C**
-**Final**
+**Redundant Array of Independent Disks**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
