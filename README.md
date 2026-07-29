@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does RAID stand for?**
+**❓ How many bits make up the significand portion of a single precision floating point number?**
 
 Choose your answer:
 
-**A.** Randomized Abstract Identification Description
+**A.** 23
 
-**B.** Range of Applications with Identical Designs
+**B.** 15
 
-**C.** Redundant Array of Independent Disks
+**C.** 8
 
-**D.** Rapid Access for Indexed Devices
+**D.** 53
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Redundant Array of Independent Disks**
+### ✅ Correct Answer: **A**
+**23**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
