@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ How many bits make up the significand portion of a single precision floating point number?**
+**❓ Moore's law originally stated that the number of transistors on a microprocessor chip would double every...**
 
 Choose your answer:
 
-**A.** 23
+**A.** Two Years
 
-**B.** 15
+**B.** Year
 
-**C.** 8
+**C.** Eight Years
 
-**D.** 53
+**D.** Four Years
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**23**
+### ✅ Correct Answer: **B**
+**Year**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
