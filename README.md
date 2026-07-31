@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Moore's law originally stated that the number of transistors on a microprocessor chip would double every...**
+**❓ How many kilobytes in one gigabyte (in decimal)?**
 
 Choose your answer:
 
-**A.** Two Years
+**A.** 1024
 
-**B.** Year
+**B.** 1000
 
-**C.** Eight Years
+**C.** 1000000
 
-**D.** Four Years
+**D.** 1048576
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Year**
+### ✅ Correct Answer: **C**
+**1000000**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
