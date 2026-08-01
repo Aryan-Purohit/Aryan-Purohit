@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ How many kilobytes in one gigabyte (in decimal)?**
+**❓ Color model CMYK stands for?**
 
 Choose your answer:
 
-**A.** 1024
+**A.** Cyan, Magenta, Yellow, and Black
 
-**B.** 1000
+**B.** Cream, Maroon, Yellow, and Khaki
 
-**C.** 1000000
+**C.** Cream, Maroon, Yellow, and Black
 
-**D.** 1048576
+**D.** Cyan, Magenta, Yellow, and Khaki
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**1000000**
+### ✅ Correct Answer: **A**
+**Cyan, Magenta, Yellow, and Black**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
