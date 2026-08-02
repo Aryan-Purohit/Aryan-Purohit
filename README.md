@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Color model CMYK stands for?**
+**❓ How fast is USB 3.1 Gen 2 theoretically?**
 
 Choose your answer:
 
-**A.** Cyan, Magenta, Yellow, and Black
+**A.** 10 Gb/s
 
-**B.** Cream, Maroon, Yellow, and Khaki
+**B.** 8 Gb/s
 
-**C.** Cream, Maroon, Yellow, and Black
+**C.** 1 Gb/s
 
-**D.** Cyan, Magenta, Yellow, and Khaki
+**D.** 5 Gb/s
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **A**
-**Cyan, Magenta, Yellow, and Black**
+**10 Gb/s**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
