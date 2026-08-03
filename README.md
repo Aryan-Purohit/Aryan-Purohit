@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ How fast is USB 3.1 Gen 2 theoretically?**
+**❓ What internet protocol was documented in RFC 1459?**
 
 Choose your answer:
 
-**A.** 10 Gb/s
+**A.** IRC
 
-**B.** 8 Gb/s
+**B.** HTTPS
 
-**C.** 1 Gb/s
+**C.** HTTP
 
-**D.** 5 Gb/s
+**D.** FTP
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **A**
-**10 Gb/s**
+**IRC**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
