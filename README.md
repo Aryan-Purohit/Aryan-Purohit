@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What internet protocol was documented in RFC 1459?**
+**❓ The C programming language was created by this American computer scientist. **
 
 Choose your answer:
 
-**A.** IRC
+**A.** Willis Ware
 
-**B.** HTTPS
+**B.** Dennis Ritchie
 
-**C.** HTTP
+**C.** Tim Berners Lee
 
-**D.** FTP
+**D.** al-Khwārizmī
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**IRC**
+### ✅ Correct Answer: **B**
+**Dennis Ritchie**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
