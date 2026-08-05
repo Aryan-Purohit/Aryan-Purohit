@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ The C programming language was created by this American computer scientist. **
+**❓ What does the term USB stand for?**
 
 Choose your answer:
 
-**A.** Willis Ware
+**A.** Universal Simtex Blot
 
-**B.** Dennis Ritchie
+**B.** Unified Signal Bus
 
-**C.** Tim Berners Lee
+**C.** Universal Serial Bus
 
-**D.** al-Khwārizmī
+**D.** Unityped Semtex Backer
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Dennis Ritchie**
+### ✅ Correct Answer: **C**
+**Universal Serial Bus**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
