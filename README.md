@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does the term USB stand for?**
+**❓ Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?**
 
 Choose your answer:
 
-**A.** Universal Simtex Blot
+**A.** Apple
 
-**B.** Unified Signal Bus
+**B.** Atari
 
-**C.** Universal Serial Bus
+**C.** Microsoft
 
-**D.** Unityped Semtex Backer
+**D.** Commodore
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Universal Serial Bus**
+### ✅ Correct Answer: **A**
+**Apple**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
