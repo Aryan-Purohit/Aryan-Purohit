@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?**
+**❓ HTML is what type of language?**
 
 Choose your answer:
 
-**A.** Apple
+**A.** Scripting Language
 
-**B.** Atari
+**B.** Markup Language
 
-**C.** Microsoft
+**C.** Programming Language
 
-**D.** Commodore
+**D.** Macro Language
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Apple**
+### ✅ Correct Answer: **B**
+**Markup Language**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
