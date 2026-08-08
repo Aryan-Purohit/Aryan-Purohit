@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ HTML is what type of language?**
+**❓ Which computer language would you associate Django framework with?**
 
 Choose your answer:
 
-**A.** Scripting Language
+**A.** C++
 
-**B.** Markup Language
+**B.** Python
 
-**C.** Programming Language
+**C.** Java
 
-**D.** Macro Language
+**D.** C#
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **B**
-**Markup Language**
+**Python**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
