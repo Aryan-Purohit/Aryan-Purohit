@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which computer language would you associate Django framework with?**
+**❓ The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:**
 
 Choose your answer:
 
-**A.** C++
+**A.** HD Graphics 700 
 
-**B.** Python
+**B.** HD Graphics 600
 
-**C.** Java
+**C.** HD Graphics 500
 
-**D.** C#
+**D.** HD Graphics 7000
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Python**
+### ✅ Correct Answer: **C**
+**HD Graphics 500**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
