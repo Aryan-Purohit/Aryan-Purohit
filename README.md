@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:**
+**❓ HTML is what type of language?**
 
 Choose your answer:
 
-**A.** HD Graphics 700 
+**A.** Scripting Language
 
-**B.** HD Graphics 600
+**B.** Macro Language
 
-**C.** HD Graphics 500
+**C.** Programming Language
 
-**D.** HD Graphics 7000
+**D.** Markup Language
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**HD Graphics 500**
+### ✅ Correct Answer: **D**
+**Markup Language**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
