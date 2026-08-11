@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ HTML is what type of language?**
+**❓ The Electron computer was released in Britain during 1983 for the home computing market, by which company? **
 
 Choose your answer:
 
-**A.** Scripting Language
+**A.** Commodore Business Machines
 
-**B.** Macro Language
+**B.** Amstrad PLC
 
-**C.** Programming Language
+**C.** Sinclair Research
 
-**D.** Markup Language
+**D.** Acorn Computers
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**Markup Language**
+**Acorn Computers**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
