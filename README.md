@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ The Electron computer was released in Britain during 1983 for the home computing market, by which company? **
+**❓ In networking, what does OSPF stand for?**
 
 Choose your answer:
 
-**A.** Commodore Business Machines
+**A.** Open Signal Path Finder
 
-**B.** Amstrad PLC
+**B.** Open Shortest Path First
 
-**C.** Sinclair Research
+**C.** Order State Part First
 
-**D.** Acorn Computers
+**D.** Order Sense Ping Find
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Acorn Computers**
+### ✅ Correct Answer: **B**
+**Open Shortest Path First**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
