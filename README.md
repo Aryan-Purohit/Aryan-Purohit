@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In networking, what does OSPF stand for?**
+**❓ In any programming language, what is the most common way to iterate through an array?**
 
 Choose your answer:
 
-**A.** Open Signal Path Finder
+**A.** 'While' loops
 
-**B.** Open Shortest Path First
+**B.** 'Do-while' loops
 
-**C.** Order State Part First
+**C.** 'For' loops
 
-**D.** Order Sense Ping Find
+**D.** 'If' Statements
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Open Shortest Path First**
+### ✅ Correct Answer: **C**
+**'For' loops**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
