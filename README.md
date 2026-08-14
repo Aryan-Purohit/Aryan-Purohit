@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In any programming language, what is the most common way to iterate through an array?**
+**❓ On which day did the World Wide Web go online?**
 
 Choose your answer:
 
-**A.** 'While' loops
+**A.** December 20, 1990
 
-**B.** 'Do-while' loops
+**B.** November 24, 1995
 
-**C.** 'For' loops
+**C.** December 17, 1996
 
-**D.** 'If' Statements
+**D.** November 12, 1990
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**'For' loops**
+### ✅ Correct Answer: **A**
+**December 20, 1990**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
