@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ On which day did the World Wide Web go online?**
+**❓ While Apple was formed in California, in which western state was Microsoft founded?**
 
 Choose your answer:
 
-**A.** December 20, 1990
+**A.** New Mexico
 
-**B.** November 24, 1995
+**B.** Colorado
 
-**C.** December 17, 1996
+**C.** Washington
 
-**D.** November 12, 1990
+**D.** Arizona
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **A**
-**December 20, 1990**
+**New Mexico**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
