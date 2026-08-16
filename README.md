@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ While Apple was formed in California, in which western state was Microsoft founded?**
+**❓ What was the name of the image that features as the default background wallpaper for Windows XP?**
 
 Choose your answer:
 
-**A.** New Mexico
+**A.** Azul
 
-**B.** Colorado
+**B.** Red moon desert
 
-**C.** Washington
+**C.** Tulips
 
-**D.** Arizona
+**D.** Bliss
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**New Mexico**
+### ✅ Correct Answer: **D**
+**Bliss**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
