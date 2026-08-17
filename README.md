@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What was the name of the image that features as the default background wallpaper for Windows XP?**
+**❓ What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?**
 
 Choose your answer:
 
-**A.** Azul
+**A.** Heat Sink
 
-**B.** Red moon desert
+**B.** CPU Vent
 
-**C.** Tulips
+**C.** Temperature Decipator
 
-**D.** Bliss
+**D.** Heat Vent
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Bliss**
+### ✅ Correct Answer: **A**
+**Heat Sink**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
