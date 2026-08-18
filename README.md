@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the correct term for the metal object in between the CPU and the CPU fan within a computer system?**
+**❓ How many bits are commonly in a single byte?**
 
 Choose your answer:
 
-**A.** Heat Sink
+**A.** Eight bits
 
-**B.** CPU Vent
+**B.** Six bits
 
-**C.** Temperature Decipator
+**C.**  Fifteen bits
 
-**D.** Heat Vent
+**D.** Twelve bits
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **A**
-**Heat Sink**
+**Eight bits**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
