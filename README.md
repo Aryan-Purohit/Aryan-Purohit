@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ How many bits are commonly in a single byte?**
+**❓ What was the first commerically available computer processor?**
 
 Choose your answer:
 
-**A.** Eight bits
+**A.** Intel 486SX
 
-**B.** Six bits
+**B.** TMS 1000
 
-**C.**  Fifteen bits
+**C.** AMD AM386
 
-**D.** Twelve bits
+**D.** Intel 4004
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Eight bits**
+### ✅ Correct Answer: **D**
+**Intel 4004**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
