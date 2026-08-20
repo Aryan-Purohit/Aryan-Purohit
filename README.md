@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What was the first commerically available computer processor?**
+**❓ What does LTS stand for in the software market?**
 
 Choose your answer:
 
-**A.** Intel 486SX
+**A.** Long Taco Service
 
-**B.** TMS 1000
+**B.** Long Term Support
 
-**C.** AMD AM386
+**C.** Ludicrous Transfer Speed
 
-**D.** Intel 4004
+**D.** Ludicrous Turbo Speed
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Intel 4004**
+### ✅ Correct Answer: **B**
+**Long Term Support**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
