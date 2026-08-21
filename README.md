@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does LTS stand for in the software market?**
+**❓ Australia, Japan, and Southeast Asia are in which ITU Region?**
 
 Choose your answer:
 
-**A.** Long Taco Service
+**A.** Region 4
 
-**B.** Long Term Support
+**B.** Region 3
 
-**C.** Ludicrous Transfer Speed
+**C.** Region 2
 
-**D.** Ludicrous Turbo Speed
+**D.** Region 1
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **B**
-**Long Term Support**
+**Region 3**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
