@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Australia, Japan, and Southeast Asia are in which ITU Region?**
+**❓ The teapot often seen in many 3D modeling applications is called what?**
 
 Choose your answer:
 
-**A.** Region 4
+**A.** 3D Teapot
 
-**B.** Region 3
+**B.** Utah Teapot
 
-**C.** Region 2
+**C.** Pixar Teapot
 
-**D.** Region 1
+**D.** Tennessee Teapot
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **B**
-**Region 3**
+**Utah Teapot**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
