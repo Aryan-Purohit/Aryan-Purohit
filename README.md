@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ The teapot often seen in many 3D modeling applications is called what?**
+**❓ What vulnerability ranked #1 on the OWASP Top 10 in 2013?**
 
 Choose your answer:
 
-**A.** 3D Teapot
+**A.** Broken Authentication
 
-**B.** Utah Teapot
+**B.** Insecure Direct Object References
 
-**C.** Pixar Teapot
+**C.** Injection 
 
-**D.** Tennessee Teapot
+**D.** Cross-Site Scripting
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Utah Teapot**
+### ✅ Correct Answer: **C**
+**Injection **
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
