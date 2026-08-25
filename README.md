@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Australia, Japan, and Southeast Asia are in which ITU Region?**
+**❓ Which data structure does FILO apply to?**
 
 Choose your answer:
 
-**A.** Region 3
+**A.** Stack
 
-**B.** Region 4
+**B.** Queue
 
-**C.** Region 1
+**C.** Tree
 
-**D.** Region 2
+**D.** Heap
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **A**
-**Region 3**
+**Stack**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
