@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which data structure does FILO apply to?**
+**❓ The Harvard architecture for micro-controllers added which additional bus?**
 
 Choose your answer:
 
-**A.** Stack
+**A.** Data
 
-**B.** Queue
+**B.** Instruction
 
-**C.** Tree
+**C.** Address
 
-**D.** Heap
+**D.** Control
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Stack**
+### ✅ Correct Answer: **B**
+**Instruction**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
