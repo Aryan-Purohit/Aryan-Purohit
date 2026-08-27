@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ The Harvard architecture for micro-controllers added which additional bus?**
+**❓ In the server hosting industry IaaS stands for...**
 
 Choose your answer:
 
-**A.** Data
+**A.** Internet and a Server
 
-**B.** Instruction
+**B.** Internet as a Service
 
-**C.** Address
+**C.** Infrastructure as a Service
 
-**D.** Control
+**D.** Infrastructure as a Server
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Instruction**
+### ✅ Correct Answer: **C**
+**Infrastructure as a Service**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
