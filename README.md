@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In the server hosting industry IaaS stands for...**
+**❓ What was the first company to use the term "Golden Master"?**
 
 Choose your answer:
 
-**A.** Internet and a Server
+**A.** Microsoft
 
-**B.** Internet as a Service
+**B.** Google
 
-**C.** Infrastructure as a Service
+**C.** IBM
 
-**D.** Infrastructure as a Server
+**D.** Apple
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Infrastructure as a Service**
+### ✅ Correct Answer: **D**
+**Apple**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
