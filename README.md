@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What was the first company to use the term "Golden Master"?**
+**❓ .rs is the top-level domain for what country?**
 
 Choose your answer:
 
-**A.** Microsoft
+**A.** Rwanda
 
-**B.** Google
+**B.** Russia
 
-**C.** IBM
+**C.** Serbia
 
-**D.** Apple
+**D.** Romania
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Apple**
+### ✅ Correct Answer: **C**
+**Serbia**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
