@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ .rs is the top-level domain for what country?**
+**❓ What does SSD stand for?**
 
 Choose your answer:
 
-**A.** Rwanda
+**A.** Solid State Disk
 
-**B.** Russia
+**B.** Solution Source Disk
 
-**C.** Serbia
+**C.** Source Solution Drive
 
-**D.** Romania
+**D.** Solid State Drive
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Serbia**
+### ✅ Correct Answer: **D**
+**Solid State Drive**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
