@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does SSD stand for?**
+**❓ Which of these is not a layer in the OSI model for data communications?**
 
 Choose your answer:
 
-**A.** Solid State Disk
+**A.** Connection Layer
 
-**B.** Solution Source Disk
+**B.** Application Layer
 
-**C.** Source Solution Drive
+**C.** Transport Layer
 
-**D.** Solid State Drive
+**D.** Physical Layer
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Solid State Drive**
+### ✅ Correct Answer: **A**
+**Connection Layer**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
