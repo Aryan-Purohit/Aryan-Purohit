@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which of these is not a layer in the OSI model for data communications?**
+**❓ Which of the following physical typologies are used with Ethernet Networks?**
 
 Choose your answer:
 
-**A.** Connection Layer
+**A.** Mesh
 
-**B.** Application Layer
+**B.** Star
 
-**C.** Transport Layer
+**C.** Ring
 
-**D.** Physical Layer
+**D.** Hex
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Connection Layer**
+### ✅ Correct Answer: **B**
+**Star**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
