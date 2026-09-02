@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which of the following physical typologies are used with Ethernet Networks?**
+**❓ What does AD stand for in relation to Windows Operating Systems? **
 
 Choose your answer:
 
-**A.** Mesh
+**A.** Alternative Drive
 
-**B.** Star
+**B.** Automated Database
 
-**C.** Ring
+**C.** Active Department
 
-**D.** Hex
+**D.** Active Directory
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Star**
+### ✅ Correct Answer: **D**
+**Active Directory**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
