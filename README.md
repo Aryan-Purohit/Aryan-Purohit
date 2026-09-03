@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does AD stand for in relation to Windows Operating Systems? **
+**❓ What is the name of the process that sends one qubit of information using two bits of classical information?**
 
 Choose your answer:
 
-**A.** Alternative Drive
+**A.** Quantum Entanglement
 
-**B.** Automated Database
+**B.** Quantum Programming
 
-**C.** Active Department
+**C.** Quantum Teleportation
 
-**D.** Active Directory
+**D.** Super Dense Coding
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Active Directory**
+### ✅ Correct Answer: **C**
+**Quantum Teleportation**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
