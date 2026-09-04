@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the name of the process that sends one qubit of information using two bits of classical information?**
+**❓ In computing, what does LAN stand for?**
 
 Choose your answer:
 
-**A.** Quantum Entanglement
+**A.** Light Access Node
 
-**B.** Quantum Programming
+**B.** Local Area Network
 
-**C.** Quantum Teleportation
+**C.** Long Antenna Node
 
-**D.** Super Dense Coding
+**D.** Land Address Navigation
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Quantum Teleportation**
+### ✅ Correct Answer: **B**
+**Local Area Network**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
