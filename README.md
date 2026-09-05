@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In computing, what does LAN stand for?**
+**❓ What does "LCD" stand for?**
 
 Choose your answer:
 
-**A.** Light Access Node
+**A.** Liquid Crystal Display
 
-**B.** Local Area Network
+**B.** Language Control Design
 
-**C.** Long Antenna Node
+**C.** Long Continuous Design
 
-**D.** Land Address Navigation
+**D.** Last Common Difference
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Local Area Network**
+### ✅ Correct Answer: **A**
+**Liquid Crystal Display**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
