@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does "LCD" stand for?**
+**❓ What was the first commerically available computer processor?**
 
 Choose your answer:
 
-**A.** Liquid Crystal Display
+**A.** TMS 1000
 
-**B.** Language Control Design
+**B.** Intel 4004
 
-**C.** Long Continuous Design
+**C.** AMD AM386
 
-**D.** Last Common Difference
+**D.** Intel 486SX
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Liquid Crystal Display**
+### ✅ Correct Answer: **B**
+**Intel 4004**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
