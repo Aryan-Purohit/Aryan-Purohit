@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What was the first commerically available computer processor?**
+**❓ What is the name of the process that sends one qubit of information using two bits of classical information?**
 
 Choose your answer:
 
-**A.** TMS 1000
+**A.** Quantum Entanglement
 
-**B.** Intel 4004
+**B.** Super Dense Coding
 
-**C.** AMD AM386
+**C.** Quantum Teleportation
 
-**D.** Intel 486SX
+**D.** Quantum Programming
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Intel 4004**
+### ✅ Correct Answer: **C**
+**Quantum Teleportation**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
