@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the name of the process that sends one qubit of information using two bits of classical information?**
+**❓ How many bits are commonly in a single byte?**
 
 Choose your answer:
 
-**A.** Quantum Entanglement
+**A.** Eight bits
 
-**B.** Super Dense Coding
+**B.**  Fifteen bits
 
-**C.** Quantum Teleportation
+**C.** Twelve bits
 
-**D.** Quantum Programming
+**D.** Six bits
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Quantum Teleportation**
+### ✅ Correct Answer: **A**
+**Eight bits**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
