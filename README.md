@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ How many bits are commonly in a single byte?**
+**❓ What does the DOS in Microsoft's first operating system "MS-DOS" stand for?**
 
 Choose your answer:
 
-**A.** Eight bits
+**A.** Dumb Operating System
 
-**B.**  Fifteen bits
+**B.** Driver Oriented System
 
-**C.** Twelve bits
+**C.** Disk Operating System
 
-**D.** Six bits
+**D.** Diskless Operating System
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Eight bits**
+### ✅ Correct Answer: **C**
+**Disk Operating System**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
