@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does the DOS in Microsoft's first operating system "MS-DOS" stand for?**
+**❓ In programming, what do you call functions with the same name but different implementations?**
 
 Choose your answer:
 
-**A.** Dumb Operating System
+**A.** Overriding
 
-**B.** Driver Oriented System
+**B.** Overloading
 
-**C.** Disk Operating System
+**C.** Inheriting
 
-**D.** Diskless Operating System
+**D.** Abstracting
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Disk Operating System**
+### ✅ Correct Answer: **B**
+**Overloading**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
