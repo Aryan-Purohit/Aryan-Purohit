@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In programming, what do you call functions with the same name but different implementations?**
+**❓ Which of the following computer components can be built using only NAND gates?**
 
 Choose your answer:
 
-**A.** Overriding
+**A.** RAM
 
-**B.** Overloading
+**B.** ALU
 
-**C.** Inheriting
+**C.** CPU
 
-**D.** Abstracting
+**D.** Register
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **B**
-**Overloading**
+**ALU**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
