@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which of the following computer components can be built using only NAND gates?**
+**❓ Dutch computer scientist Mark Overmars is known for creating which game development engine?**
 
 Choose your answer:
 
-**A.** RAM
+**A.** Stencyl
 
-**B.** ALU
+**B.** Construct
 
-**C.** CPU
+**C.** Game Maker
 
-**D.** Register
+**D.** Torque 2D
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**ALU**
+### ✅ Correct Answer: **C**
+**Game Maker**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
