@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Dutch computer scientist Mark Overmars is known for creating which game development engine?**
+**❓ Who is the founder of Palantir?**
 
 Choose your answer:
 
-**A.** Stencyl
+**A.** Jack Dorsey
 
-**B.** Construct
+**B.** Mark Zuckerberg
 
-**C.** Game Maker
+**C.** Marc Benioff
 
-**D.** Torque 2D
+**D.** Peter Thiel
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Game Maker**
+### ✅ Correct Answer: **D**
+**Peter Thiel**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
