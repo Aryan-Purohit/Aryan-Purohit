@@ -34,24 +34,4 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Who is the founder of Palantir?**
-
-Choose your answer:
-
-**A.** Jack Dorsey
-
-**B.** Mark Zuckerberg
-
-**C.** Marc Benioff
-
-**D.** Peter Thiel
-
-<details>
-<summary>🎯 Click to reveal the correct answer!</summary>
-
-### ✅ Correct Answer: **D**
-**Peter Thiel**
-
----
-*Challenge yourself daily with programming trivia!* 🚀
-</details>
+Could not fetch a programming trivia right now. Please try again later.
