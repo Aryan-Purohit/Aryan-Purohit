@@ -34,4 +34,24 @@
 
 ## 🧠 Daily Programming Trivia
 
-Could not fetch a programming trivia right now. Please try again later.
+**❓ What is the maximum value of a 32-bit signed binary integer?**
+
+Choose your answer:
+
+**A.** 9,223,372,036,854,775,807
+
+**B.** 255
+
+**C.** 2048
+
+**D.** 2,147,483,647
+
+<details>
+<summary>🎯 Click to reveal the correct answer!</summary>
+
+### ✅ Correct Answer: **D**
+**2,147,483,647**
+
+---
+*Challenge yourself daily with programming trivia!* 🚀
+</details>
