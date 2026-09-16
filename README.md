@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the maximum value of a 32-bit signed binary integer?**
+**❓ Unix Time is defined as the number of seconds that have elapsed since when?**
 
 Choose your answer:
 
-**A.** 9,223,372,036,854,775,807
+**A.** Midnight, July 4, 1980
 
-**B.** 255
+**B.** Midnight, July 4, 1976
 
-**C.** 2048
+**C.** Midnight, January 1, 1970
 
-**D.** 2,147,483,647
+**D.** Midnight on the creator of Unix's birthday
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**2,147,483,647**
+### ✅ Correct Answer: **C**
+**Midnight, January 1, 1970**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
