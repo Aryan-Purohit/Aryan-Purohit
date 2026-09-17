@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Unix Time is defined as the number of seconds that have elapsed since when?**
+**❓ On which computer hardware device is the BIOS chip located?**
 
 Choose your answer:
 
-**A.** Midnight, July 4, 1980
+**A.** Graphics Processing Unit
 
-**B.** Midnight, July 4, 1976
+**B.** Hard Disk Drive
 
-**C.** Midnight, January 1, 1970
+**C.** Central Processing Unit
 
-**D.** Midnight on the creator of Unix's birthday
+**D.** Motherboard
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Midnight, January 1, 1970**
+### ✅ Correct Answer: **D**
+**Motherboard**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
