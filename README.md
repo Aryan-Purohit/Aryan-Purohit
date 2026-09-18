@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ On which computer hardware device is the BIOS chip located?**
+**❓ Which internet company began life as an online bookstore called 'Cadabra'?**
 
 Choose your answer:
 
-**A.** Graphics Processing Unit
+**A.** Overstock
 
-**B.** Hard Disk Drive
+**B.** eBay
 
-**C.** Central Processing Unit
+**C.** Shopify
 
-**D.** Motherboard
+**D.** Amazon
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**Motherboard**
+**Amazon**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
