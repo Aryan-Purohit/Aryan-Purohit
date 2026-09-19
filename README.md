@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which internet company began life as an online bookstore called 'Cadabra'?**
+**❓ What is the most preferred image format used for logos in the Wikimedia database?**
 
 Choose your answer:
 
-**A.** Overstock
+**A.** .gif
 
-**B.** eBay
+**B.** .jpeg
 
-**C.** Shopify
+**C.** .svg
 
-**D.** Amazon
+**D.** .png
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Amazon**
+### ✅ Correct Answer: **C**
+**.svg**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
