@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the most preferred image format used for logos in the Wikimedia database?**
+**❓ Which kind of algorithm is Ron Rivest not famous for creating?**
 
 Choose your answer:
 
-**A.** .gif
+**A.** Asymmetric encryption
 
-**B.** .jpeg
+**B.** Secret sharing scheme
 
-**C.** .svg
+**C.** Stream cipher
 
-**D.** .png
+**D.** Hashing algorithm
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**.svg**
+### ✅ Correct Answer: **B**
+**Secret sharing scheme**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
