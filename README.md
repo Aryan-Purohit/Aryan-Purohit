@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which kind of algorithm is Ron Rivest not famous for creating?**
+**❓ What does "LCD" stand for?**
 
 Choose your answer:
 
-**A.** Asymmetric encryption
+**A.** Last Common Difference
 
-**B.** Secret sharing scheme
+**B.** Language Control Design
 
-**C.** Stream cipher
+**C.** Long Continuous Design
 
-**D.** Hashing algorithm
+**D.** Liquid Crystal Display
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Secret sharing scheme**
+### ✅ Correct Answer: **D**
+**Liquid Crystal Display**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
