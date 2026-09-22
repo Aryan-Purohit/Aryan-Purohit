@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does "LCD" stand for?**
+**❓ What does the International System of Quantities refer 1024 bytes as?**
 
 Choose your answer:
 
-**A.** Last Common Difference
+**A.** Kelobyte
 
-**B.** Language Control Design
+**B.** Kibibyte
 
-**C.** Long Continuous Design
+**C.** Kilobyte
 
-**D.** Liquid Crystal Display
+**D.** Kylobyte
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Liquid Crystal Display**
+### ✅ Correct Answer: **B**
+**Kibibyte**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
