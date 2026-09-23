@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does the International System of Quantities refer 1024 bytes as?**
+**❓ What kind of memory is used on memory cache?**
 
 Choose your answer:
 
-**A.** Kelobyte
+**A.** SRAM
 
-**B.** Kibibyte
+**B.** ROM
 
-**C.** Kilobyte
+**C.** Flash
 
-**D.** Kylobyte
+**D.** DRAM
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Kibibyte**
+### ✅ Correct Answer: **A**
+**SRAM**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
