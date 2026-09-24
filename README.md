@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What kind of memory is used on memory cache?**
+**❓ The numbering system with a radix of 16 is more commonly referred to as **
 
 Choose your answer:
 
-**A.** SRAM
+**A.** Binary
 
-**B.** ROM
+**B.** Hexidecimal
 
-**C.** Flash
+**C.** Duodecimal
 
-**D.** DRAM
+**D.** Octal
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**SRAM**
+### ✅ Correct Answer: **B**
+**Hexidecimal**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
