@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ The numbering system with a radix of 16 is more commonly referred to as **
+**❓ The Electron computer was released in Britain during 1983 for the home computing market, by which company? **
 
 Choose your answer:
 
-**A.** Binary
+**A.** Amstrad PLC
 
-**B.** Hexidecimal
+**B.** Commodore Business Machines
 
-**C.** Duodecimal
+**C.** Sinclair Research
 
-**D.** Octal
+**D.** Acorn Computers
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Hexidecimal**
+### ✅ Correct Answer: **D**
+**Acorn Computers**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
