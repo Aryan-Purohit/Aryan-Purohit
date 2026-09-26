@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ The Electron computer was released in Britain during 1983 for the home computing market, by which company? **
+**❓ What was the name of the first Bulgarian personal computer?**
 
 Choose your answer:
 
-**A.** Amstrad PLC
+**A.** Pravetz 82
 
-**B.** Commodore Business Machines
+**B.** IZOT 1030
 
-**C.** Sinclair Research
+**C.** Pravetz 8D
 
-**D.** Acorn Computers
+**D.** IMKO-1
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**Acorn Computers**
+**IMKO-1**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
