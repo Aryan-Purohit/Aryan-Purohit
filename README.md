@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What was the name of the first Bulgarian personal computer?**
+**❓ CMOS is tech used for constructing integrated circuits. What does CMOS stand for?**
 
 Choose your answer:
 
-**A.** Pravetz 82
+**A.** Complementary magnetic-ohms-semiconductor
 
-**B.** IZOT 1030
+**B.** Computer-made oscillating static
 
-**C.** Pravetz 8D
+**C.** Computer-made operating system
 
-**D.** IMKO-1
+**D.** Complementary metal–oxide–semiconductor
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**IMKO-1**
+**Complementary metal–oxide–semiconductor**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
