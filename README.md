@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ HTML is what type of language?**
+**❓ What amount of bits commonly equals one byte?**
 
 Choose your answer:
 
-**A.** Macro Language
+**A.** 2
 
-**B.** Scripting Language
+**B.** 1
 
-**C.** Markup Language
+**C.** 64
 
-**D.** Programming Language
+**D.** 8
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Markup Language**
+### ✅ Correct Answer: **D**
+**8**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
