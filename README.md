@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What amount of bits commonly equals one byte?**
+**❓ In web design, what does CSS stand for?**
 
 Choose your answer:
 
-**A.** 2
+**A.** Cascading Style Sheet
 
-**B.** 1
+**B.** Counter Strike: Source
 
-**C.** 64
+**C.** Corrective Style Sheet
 
-**D.** 8
+**D.** Computer Style Sheet
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**8**
+### ✅ Correct Answer: **A**
+**Cascading Style Sheet**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
