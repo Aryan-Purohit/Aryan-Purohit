@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In web design, what does CSS stand for?**
+**❓ The teapot often seen in many 3D modeling applications is called what?**
 
 Choose your answer:
 
-**A.** Cascading Style Sheet
+**A.** Utah Teapot
 
-**B.** Counter Strike: Source
+**B.** Tennessee Teapot
 
-**C.** Corrective Style Sheet
+**C.** 3D Teapot
 
-**D.** Computer Style Sheet
+**D.** Pixar Teapot
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **A**
-**Cascading Style Sheet**
+**Utah Teapot**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
