@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ The teapot often seen in many 3D modeling applications is called what?**
+**❓ What does GHz stand for?**
 
 Choose your answer:
 
-**A.** Utah Teapot
+**A.** Gigahetz
 
-**B.** Tennessee Teapot
+**B.** Gigahotz
 
-**C.** 3D Teapot
+**C.** Gigahatz
 
-**D.** Pixar Teapot
+**D.** Gigahertz
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Utah Teapot**
+### ✅ Correct Answer: **D**
+**Gigahertz**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
