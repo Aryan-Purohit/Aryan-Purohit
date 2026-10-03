@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does GHz stand for?**
+**❓ What is the name of the process that sends one qubit of information using two bits of classical information?**
 
 Choose your answer:
 
-**A.** Gigahetz
+**A.** Super Dense Coding
 
-**B.** Gigahotz
+**B.** Quantum Programming
 
-**C.** Gigahatz
+**C.** Quantum Entanglement
 
-**D.** Gigahertz
+**D.** Quantum Teleportation
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**Gigahertz**
+**Quantum Teleportation**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
