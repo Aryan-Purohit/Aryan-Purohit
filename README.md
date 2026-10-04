@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the name of the process that sends one qubit of information using two bits of classical information?**
+**❓ In any programming language, what is the most common way to iterate through an array?**
 
 Choose your answer:
 
-**A.** Super Dense Coding
+**A.** 'For' loops
 
-**B.** Quantum Programming
+**B.** 'If' Statements
 
-**C.** Quantum Entanglement
+**C.** 'While' loops
 
-**D.** Quantum Teleportation
+**D.** 'Do-while' loops
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Quantum Teleportation**
+### ✅ Correct Answer: **A**
+**'For' loops**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
