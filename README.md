@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In any programming language, what is the most common way to iterate through an array?**
+**❓ What does the term MIME stand for, in regards to computing?**
 
 Choose your answer:
 
-**A.** 'For' loops
+**A.** Mail Interleave Method Exchange
 
-**B.** 'If' Statements
+**B.** Multipurpose Internet Mail Extensions
 
-**C.** 'While' loops
+**C.** Mail Internet Mail Exchange
 
-**D.** 'Do-while' loops
+**D.** Multipurpose Interleave Mail Exchange
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**'For' loops**
+### ✅ Correct Answer: **B**
+**Multipurpose Internet Mail Extensions**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
