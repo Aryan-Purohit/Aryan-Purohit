@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does the term MIME stand for, in regards to computing?**
+**❓ What does RAID stand for?**
 
 Choose your answer:
 
-**A.** Mail Interleave Method Exchange
+**A.** Range of Applications with Identical Designs
 
-**B.** Multipurpose Internet Mail Extensions
+**B.** Rapid Access for Indexed Devices
 
-**C.** Mail Internet Mail Exchange
+**C.** Randomized Abstract Identification Description
 
-**D.** Multipurpose Interleave Mail Exchange
+**D.** Redundant Array of Independent Disks
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Multipurpose Internet Mail Extensions**
+### ✅ Correct Answer: **D**
+**Redundant Array of Independent Disks**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
