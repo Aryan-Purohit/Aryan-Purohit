@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does RAID stand for?**
+**❓ What is the code name for the mobile operating system Android 7.0?**
 
 Choose your answer:
 
-**A.** Range of Applications with Identical Designs
+**A.** Ice Cream Sandwich
 
-**B.** Rapid Access for Indexed Devices
+**B.** Jelly Bean
 
-**C.** Randomized Abstract Identification Description
+**C.** Marshmallow
 
-**D.** Redundant Array of Independent Disks
+**D.** Nougat
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**Redundant Array of Independent Disks**
+**Nougat**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
