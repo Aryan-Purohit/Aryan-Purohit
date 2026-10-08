@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the code name for the mobile operating system Android 7.0?**
+**❓ In programming, the ternary operator is mostly defined with what symbol(s)?**
 
 Choose your answer:
 
-**A.** Ice Cream Sandwich
+**A.** ??
 
-**B.** Jelly Bean
+**B.** ?:
 
-**C.** Marshmallow
+**C.** ?
 
-**D.** Nougat
+**D.** if then
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Nougat**
+### ✅ Correct Answer: **B**
+**?:**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
