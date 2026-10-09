@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In programming, the ternary operator is mostly defined with what symbol(s)?**
+**❓ Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?**
 
 Choose your answer:
 
-**A.** ??
+**A.** Enigma Machine
 
-**B.** ?:
+**B.** Skipjack
 
-**C.** ?
+**C.** Clipper Chip
 
-**D.** if then
+**D.** Nautilus
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**?:**
+### ✅ Correct Answer: **C**
+**Clipper Chip**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
