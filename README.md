@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which of these is the name for the failed key escrow device introduced by the National Security Agency in 1993?**
+**❓ Released in 2001, the first edition of Apple's Mac OS X operating system (version 10.0) was given what animal code name?**
 
 Choose your answer:
 
-**A.** Enigma Machine
+**A.** Tiger
 
-**B.** Skipjack
+**B.** Leopard
 
-**C.** Clipper Chip
+**C.** Puma
 
-**D.** Nautilus
+**D.** Cheetah
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Clipper Chip**
+### ✅ Correct Answer: **D**
+**Cheetah**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
