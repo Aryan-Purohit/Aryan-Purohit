@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Released in 2001, the first edition of Apple's Mac OS X operating system (version 10.0) was given what animal code name?**
+**❓ What is the name of the process that sends one qubit of information using two bits of classical information?**
 
 Choose your answer:
 
-**A.** Tiger
+**A.** Quantum Entanglement
 
-**B.** Leopard
+**B.** Quantum Teleportation
 
-**C.** Puma
+**C.** Super Dense Coding
 
-**D.** Cheetah
+**D.** Quantum Programming
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Cheetah**
+### ✅ Correct Answer: **B**
+**Quantum Teleportation**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
