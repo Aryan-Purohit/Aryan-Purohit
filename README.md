@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the name of the process that sends one qubit of information using two bits of classical information?**
+**❓ Lenovo acquired IBM's personal computer division, including the ThinkPad line of laptops and tablets, in what year?**
 
 Choose your answer:
 
-**A.** Quantum Entanglement
+**A.** 1999
 
-**B.** Quantum Teleportation
+**B.** 2005
 
-**C.** Super Dense Coding
+**C.** 2002
 
-**D.** Quantum Programming
+**D.** 2008
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **B**
-**Quantum Teleportation**
+**2005**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
