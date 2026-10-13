@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Lenovo acquired IBM's personal computer division, including the ThinkPad line of laptops and tablets, in what year?**
+**❓ In networking, what does OSPF stand for?**
 
 Choose your answer:
 
-**A.** 1999
+**A.** Open Signal Path Finder
 
-**B.** 2005
+**B.** Order State Part First
 
-**C.** 2002
+**C.** Open Shortest Path First
 
-**D.** 2008
+**D.** Order Sense Ping Find
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**2005**
+### ✅ Correct Answer: **C**
+**Open Shortest Path First**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
