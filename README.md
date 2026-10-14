@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In networking, what does OSPF stand for?**
+**❓ What was the name given to Android 4.3?**
 
 Choose your answer:
 
-**A.** Open Signal Path Finder
+**A.** Froyo
 
-**B.** Order State Part First
+**B.** Jelly Bean
 
-**C.** Open Shortest Path First
+**C.** Lollipop
 
-**D.** Order Sense Ping Find
+**D.** Nutella
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Open Shortest Path First**
+### ✅ Correct Answer: **B**
+**Jelly Bean**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
