@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What was the name given to Android 4.3?**
+**❓ Generally, which component of a computer draws the most power?**
 
 Choose your answer:
 
-**A.** Froyo
+**A.** Processor
 
-**B.** Jelly Bean
+**B.** Power Supply
 
-**C.** Lollipop
+**C.** Hard Drive
 
-**D.** Nutella
+**D.** Video Card
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Jelly Bean**
+### ✅ Correct Answer: **D**
+**Video Card**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
