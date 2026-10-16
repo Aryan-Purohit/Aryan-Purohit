@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Generally, which component of a computer draws the most power?**
+**❓ In computing terms, typically what does CLI stand for?**
 
 Choose your answer:
 
-**A.** Processor
+**A.** Common Language Interface
 
-**B.** Power Supply
+**B.** Command Line Interface
 
-**C.** Hard Drive
+**C.** Common Language Input
 
-**D.** Video Card
+**D.** Control Line Interface
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Video Card**
+### ✅ Correct Answer: **B**
+**Command Line Interface**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
