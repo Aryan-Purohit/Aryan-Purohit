@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In computing terms, typically what does CLI stand for?**
+**❓ .rs is the top-level domain for what country?**
 
 Choose your answer:
 
-**A.** Common Language Interface
+**A.** Serbia
 
-**B.** Command Line Interface
+**B.** Rwanda
 
-**C.** Common Language Input
+**C.** Romania
 
-**D.** Control Line Interface
+**D.** Russia
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Command Line Interface**
+### ✅ Correct Answer: **A**
+**Serbia**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
