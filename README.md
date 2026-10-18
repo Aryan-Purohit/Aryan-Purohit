@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ .rs is the top-level domain for what country?**
+**❓ What does GHz stand for?**
 
 Choose your answer:
 
-**A.** Serbia
+**A.** Gigahetz
 
-**B.** Rwanda
+**B.** Gigahatz
 
-**C.** Romania
+**C.** Gigahertz
 
-**D.** Russia
+**D.** Gigahotz
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Serbia**
+### ✅ Correct Answer: **C**
+**Gigahertz**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
