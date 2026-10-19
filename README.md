@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does GHz stand for?**
+**❓ What does SSD stand for?**
 
 Choose your answer:
 
-**A.** Gigahetz
+**A.** Solid State Drive
 
-**B.** Gigahatz
+**B.** Source Solution Drive
 
-**C.** Gigahertz
+**C.** Solution Source Disk
 
-**D.** Gigahotz
+**D.** Solid State Disk
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Gigahertz**
+### ✅ Correct Answer: **A**
+**Solid State Drive**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
