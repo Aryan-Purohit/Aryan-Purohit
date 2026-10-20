@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does SSD stand for?**
+**❓ If you were to code software in this language you'd only be able to type 0's and 1's.**
 
 Choose your answer:
 
-**A.** Solid State Drive
+**A.** Binary
 
-**B.** Source Solution Drive
+**B.** C++
 
-**C.** Solution Source Disk
+**C.** JavaScript
 
-**D.** Solid State Disk
+**D.** Python
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **A**
-**Solid State Drive**
+**Binary**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
