@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ If you were to code software in this language you'd only be able to type 0's and 1's.**
+**❓ Which computer hardware device provides an interface for all other connected devices to communicate?**
 
 Choose your answer:
 
-**A.** Binary
+**A.** Motherboard
 
-**B.** C++
+**B.** Random Access Memory
 
-**C.** JavaScript
+**C.** Hard Disk Drive
 
-**D.** Python
+**D.** Central Processing Unit
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **A**
-**Binary**
+**Motherboard**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
