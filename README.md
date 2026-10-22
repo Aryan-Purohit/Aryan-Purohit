@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which computer hardware device provides an interface for all other connected devices to communicate?**
+**❓ HTML is what type of language?**
 
 Choose your answer:
 
-**A.** Motherboard
+**A.** Macro Language
 
-**B.** Random Access Memory
+**B.** Scripting Language
 
-**C.** Hard Disk Drive
+**C.** Markup Language
 
-**D.** Central Processing Unit
+**D.** Programming Language
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Motherboard**
+### ✅ Correct Answer: **C**
+**Markup Language**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
