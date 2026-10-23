@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ HTML is what type of language?**
+**❓ Which programming language was developed by Sun Microsystems in 1995?**
 
 Choose your answer:
 
-**A.** Macro Language
+**A.** Python
 
-**B.** Scripting Language
+**B.** Solaris OS
 
-**C.** Markup Language
+**C.** C++
 
-**D.** Programming Language
+**D.** Java
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**Markup Language**
+### ✅ Correct Answer: **D**
+**Java**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
