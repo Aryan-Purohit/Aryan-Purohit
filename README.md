@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which programming language was developed by Sun Microsystems in 1995?**
+**❓ Which one of these is not an official development name for a Ubuntu release?**
 
 Choose your answer:
 
-**A.** Python
+**A.** Trusty Tahr
 
-**B.** Solaris OS
+**B.** Utopic Unicorn
 
-**C.** C++
+**C.** Mystic Mansion
 
-**D.** Java
+**D.** Wily Werewolf
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Java**
+### ✅ Correct Answer: **C**
+**Mystic Mansion**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
