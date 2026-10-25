@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which one of these is not an official development name for a Ubuntu release?**
+**❓ Which of the following computer components can be built using only NAND gates?**
 
 Choose your answer:
 
-**A.** Trusty Tahr
+**A.** CPU
 
-**B.** Utopic Unicorn
+**B.** RAM
 
-**C.** Mystic Mansion
+**C.** ALU
 
-**D.** Wily Werewolf
+**D.** Register
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **C**
-**Mystic Mansion**
+**ALU**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
