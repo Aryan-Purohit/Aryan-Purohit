@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which of the following computer components can be built using only NAND gates?**
+**❓ What does the term USB stand for?**
 
 Choose your answer:
 
-**A.** CPU
+**A.** Unityped Semtex Backer
 
-**B.** RAM
+**B.** Universal Serial Bus
 
-**C.** ALU
+**C.** Universal Simtex Blot
 
-**D.** Register
+**D.** Unified Signal Bus
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**ALU**
+### ✅ Correct Answer: **B**
+**Universal Serial Bus**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
