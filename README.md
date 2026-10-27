@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does the term USB stand for?**
+**❓ The computer OEM manufacturer Clevo, known for its Sager notebook line, is based in which country?**
 
 Choose your answer:
 
-**A.** Unityped Semtex Backer
+**A.** Germany
 
-**B.** Universal Serial Bus
+**B.** Taiwan
 
-**C.** Universal Simtex Blot
+**C.** China (People's Republic of)
 
-**D.** Unified Signal Bus
+**D.** United States
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **B**
-**Universal Serial Bus**
+**Taiwan**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
