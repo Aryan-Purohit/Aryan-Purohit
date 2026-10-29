@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What type of sound chip does the Super Nintendo Entertainment System (SNES) have?**
+**❓ In programming, what do you call functions with the same name but different implementations?**
 
 Choose your answer:
 
-**A.** FM Synthesizer
+**A.** Overloading
 
-**B.** ADPCM Sampler
+**B.** Inheriting
 
-**C.** Programmable Sound Generator (PSG)
+**C.** Overriding
 
-**D.** PCM Sampler
+**D.** Abstracting
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**ADPCM Sampler**
+### ✅ Correct Answer: **A**
+**Overloading**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
