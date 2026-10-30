@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In programming, what do you call functions with the same name but different implementations?**
+**❓ Which computer language would you associate Django framework with?**
 
 Choose your answer:
 
-**A.** Overloading
+**A.** C#
 
-**B.** Inheriting
+**B.** Java
 
-**C.** Overriding
+**C.** C++
 
-**D.** Abstracting
+**D.** Python
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Overloading**
+### ✅ Correct Answer: **D**
+**Python**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
