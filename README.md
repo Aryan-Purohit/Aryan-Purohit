@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which computer language would you associate Django framework with?**
+**❓ How many cores does the Intel i7-6950X have?**
 
 Choose your answer:
 
-**A.** C#
+**A.** 10
 
-**B.** Java
+**B.** 12
 
-**C.** C++
+**C.** 4
 
-**D.** Python
+**D.** 8
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Python**
+### ✅ Correct Answer: **A**
+**10**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
