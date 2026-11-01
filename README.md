@@ -34,24 +34,4 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ How many cores does the Intel i7-6950X have?**
-
-Choose your answer:
-
-**A.** 10
-
-**B.** 12
-
-**C.** 4
-
-**D.** 8
-
-<details>
-<summary>🎯 Click to reveal the correct answer!</summary>
-
-### ✅ Correct Answer: **A**
-**10**
-
----
-*Challenge yourself daily with programming trivia!* 🚀
-</details>
+Could not fetch a programming trivia right now. Please try again later.
