@@ -34,4 +34,24 @@
 
 ## 🧠 Daily Programming Trivia
 
-Could not fetch a programming trivia right now. Please try again later.
+**❓ Which computer hardware device provides an interface for all other connected devices to communicate?**
+
+Choose your answer:
+
+**A.** Hard Disk Drive
+
+**B.** Random Access Memory
+
+**C.** Central Processing Unit
+
+**D.** Motherboard
+
+<details>
+<summary>🎯 Click to reveal the correct answer!</summary>
+
+### ✅ Correct Answer: **D**
+**Motherboard**
+
+---
+*Challenge yourself daily with programming trivia!* 🚀
+</details>
