@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which computer hardware device provides an interface for all other connected devices to communicate?**
+**❓ Which of the following is the oldest of these computers by release date?**
 
 Choose your answer:
 
-**A.** Hard Disk Drive
+**A.** Commodore 64
 
-**B.** Random Access Memory
+**B.** Apple 3
 
-**C.** Central Processing Unit
+**C.** TRS-80
 
-**D.** Motherboard
+**D.** ZX Spectrum
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Motherboard**
+### ✅ Correct Answer: **C**
+**TRS-80**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
