@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which of the following is the oldest of these computers by release date?**
+**❓ In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?**
 
 Choose your answer:
 
-**A.** Commodore 64
+**A.** <slide></slide>
 
-**B.** Apple 3
+**B.** <scroll></scroll>
 
-**C.** TRS-80
+**C.** <marquee></marquee>
 
-**D.** ZX Spectrum
+**D.** <move></move>
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **C**
-**TRS-80**
+**<marquee></marquee>**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
