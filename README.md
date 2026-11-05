@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?**
+**❓ Who is the original author of the realtime physics engine called PhysX?**
 
 Choose your answer:
 
-**A.** <slide></slide>
+**A.** NovodeX
 
-**B.** <scroll></scroll>
+**B.** AMD
 
-**C.** <marquee></marquee>
+**C.** Ageia
 
-**D.** <move></move>
+**D.** Nvidia
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**<marquee></marquee>**
+### ✅ Correct Answer: **A**
+**NovodeX**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
