@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Who is the original author of the realtime physics engine called PhysX?**
+**❓ On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?**
 
 Choose your answer:
 
-**A.** NovodeX
+**A.** Percent Sign
 
-**B.** AMD
+**B.** Dollar Sign
 
-**C.** Ageia
+**C.** Asterisk
 
-**D.** Nvidia
+**D.** Exclamation Mark
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**NovodeX**
+### ✅ Correct Answer: **D**
+**Exclamation Mark**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
