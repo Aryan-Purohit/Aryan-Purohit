@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ On a standard American QWERTY keyboard, what symbol will you enter if you hold the shift key and press 1?**
+**❓ What is the name of the default theme that is installed with Windows XP?**
 
 Choose your answer:
 
-**A.** Percent Sign
+**A.** Whistler
 
-**B.** Dollar Sign
+**B.** Luna
 
-**C.** Asterisk
+**C.** Neptune
 
-**D.** Exclamation Mark
+**D.** Bliss
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Exclamation Mark**
+### ✅ Correct Answer: **B**
+**Luna**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
