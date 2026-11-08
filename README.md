@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What is the name of the default theme that is installed with Windows XP?**
+**❓ What does RAID stand for?**
 
 Choose your answer:
 
-**A.** Whistler
+**A.** Rapid Access for Indexed Devices
 
-**B.** Luna
+**B.** Randomized Abstract Identification Description
 
-**C.** Neptune
+**C.** Range of Applications with Identical Designs
 
-**D.** Bliss
+**D.** Redundant Array of Independent Disks
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Luna**
+### ✅ Correct Answer: **D**
+**Redundant Array of Independent Disks**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
