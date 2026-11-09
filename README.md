@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does RAID stand for?**
+**❓ Which of these is not a key value of Agile software development?**
 
 Choose your answer:
 
-**A.** Rapid Access for Indexed Devices
+**A.** Customer collaboration
 
-**B.** Randomized Abstract Identification Description
+**B.** Individuals and interactions
 
-**C.** Range of Applications with Identical Designs
+**C.** Responding to change
 
-**D.** Redundant Array of Independent Disks
+**D.** Comprehensive documentation
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **D**
-**Redundant Array of Independent Disks**
+**Comprehensive documentation**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
