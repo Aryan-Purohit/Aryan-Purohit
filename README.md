@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which of these is not a key value of Agile software development?**
+**❓ Which coding language was the #1 programming language in terms of usage on GitHub in 2015?**
 
 Choose your answer:
 
-**A.** Customer collaboration
+**A.** Python
 
-**B.** Individuals and interactions
+**B.** JavaScript
 
-**C.** Responding to change
+**C.** PHP
 
-**D.** Comprehensive documentation
+**D.** C#
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Comprehensive documentation**
+### ✅ Correct Answer: **B**
+**JavaScript**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
