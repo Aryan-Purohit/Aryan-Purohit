@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which coding language was the #1 programming language in terms of usage on GitHub in 2015?**
+**❓ CMOS is tech used for constructing integrated circuits. What does CMOS stand for?**
 
 Choose your answer:
 
-**A.** Python
+**A.** Computer-made operating system
 
-**B.** JavaScript
+**B.** Complementary metal–oxide–semiconductor
 
-**C.** PHP
+**C.** Computer-made oscillating static
 
-**D.** C#
+**D.** Complementary magnetic-ohms-semiconductor
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **B**
-**JavaScript**
+**Complementary metal–oxide–semiconductor**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
