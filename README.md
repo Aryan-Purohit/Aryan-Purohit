@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ CMOS is tech used for constructing integrated circuits. What does CMOS stand for?**
+**❓ This mobile OS held the largest market share in 2012.**
 
 Choose your answer:
 
-**A.** Computer-made operating system
+**A.** Android
 
-**B.** Complementary metal–oxide–semiconductor
+**B.** BlackBerry
 
-**C.** Computer-made oscillating static
+**C.** iOS
 
-**D.** Complementary magnetic-ohms-semiconductor
+**D.** Symbian
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**Complementary metal–oxide–semiconductor**
+### ✅ Correct Answer: **C**
+**iOS**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
