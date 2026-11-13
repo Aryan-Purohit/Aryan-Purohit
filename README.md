@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ This mobile OS held the largest market share in 2012.**
+**❓ In programming, the ternary operator is mostly defined with what symbol(s)?**
 
 Choose your answer:
 
-**A.** Android
+**A.** ?
 
-**B.** BlackBerry
+**B.** if then
 
-**C.** iOS
+**C.** ??
 
-**D.** Symbian
+**D.** ?:
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**iOS**
+### ✅ Correct Answer: **D**
+**?:**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
