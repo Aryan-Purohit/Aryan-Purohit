@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ In programming, the ternary operator is mostly defined with what symbol(s)?**
+**❓ Approximately how many Apple I personal computers were created?**
 
 Choose your answer:
 
-**A.** ?
+**A.** 200
 
-**B.** if then
+**B.** 500
 
-**C.** ??
+**C.** 1000
 
-**D.** ?:
+**D.** 100
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**?:**
+### ✅ Correct Answer: **A**
+**200**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
