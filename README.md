@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Approximately how many Apple I personal computers were created?**
+**❓ How many bits are commonly in a single byte?**
 
 Choose your answer:
 
-**A.** 200
+**A.**  Fifteen bits
 
-**B.** 500
+**B.** Eight bits
 
-**C.** 1000
+**C.** Twelve bits
 
-**D.** 100
+**D.** Six bits
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**200**
+### ✅ Correct Answer: **B**
+**Eight bits**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
