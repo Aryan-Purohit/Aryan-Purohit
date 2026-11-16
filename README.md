@@ -34,24 +34,4 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ How many bits are commonly in a single byte?**
-
-Choose your answer:
-
-**A.**  Fifteen bits
-
-**B.** Eight bits
-
-**C.** Twelve bits
-
-**D.** Six bits
-
-<details>
-<summary>🎯 Click to reveal the correct answer!</summary>
-
-### ✅ Correct Answer: **B**
-**Eight bits**
-
----
-*Challenge yourself daily with programming trivia!* 🚀
-</details>
+Could not fetch a programming trivia right now. Please try again later.
