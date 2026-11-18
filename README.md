@@ -34,24 +34,4 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ According to the International System of Units, how many bytes are in a kilobyte of RAM?**
-
-Choose your answer:
-
-**A.** 1000
-
-**B.** 1024
-
-**C.** 500
-
-**D.** 512
-
-<details>
-<summary>🎯 Click to reveal the correct answer!</summary>
-
-### ✅ Correct Answer: **A**
-**1000**
-
----
-*Challenge yourself daily with programming trivia!* 🚀
-</details>
+Could not fetch a programming trivia right now. Please try again later.
