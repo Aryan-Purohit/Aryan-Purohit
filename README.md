@@ -34,4 +34,24 @@
 
 ## 🧠 Daily Programming Trivia
 
-Could not fetch a programming trivia right now. Please try again later.
+**❓ Which operating system was released first?**
+
+Choose your answer:
+
+**A.** Linux
+
+**B.** Mac OS
+
+**C.** Windows
+
+**D.** OS/2
+
+<details>
+<summary>🎯 Click to reveal the correct answer!</summary>
+
+### ✅ Correct Answer: **B**
+**Mac OS**
+
+---
+*Challenge yourself daily with programming trivia!* 🚀
+</details>
