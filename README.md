@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Which operating system was released first?**
+**❓ Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?**
 
 Choose your answer:
 
-**A.** Linux
+**A.** 1.5 MHz
 
-**B.** Mac OS
+**B.** 44.1 kHz
 
-**C.** Windows
+**C.** 20.5 kHz
 
-**D.** OS/2
+**D.** 32.0 kHz
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **B**
-**Mac OS**
+**44.1 kHz**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
