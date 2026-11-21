@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Originally used in PCM adapters, what frequency is the standard for sampling audio in the Compact Disc Digital Audio format?**
+**❓ In programming, the ternary operator is mostly defined with what symbol(s)?**
 
 Choose your answer:
 
-**A.** 1.5 MHz
+**A.** ?:
 
-**B.** 44.1 kHz
+**B.** ?
 
-**C.** 20.5 kHz
+**C.** if then
 
-**D.** 32.0 kHz
+**D.** ??
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **B**
-**44.1 kHz**
+### ✅ Correct Answer: **A**
+**?:**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
