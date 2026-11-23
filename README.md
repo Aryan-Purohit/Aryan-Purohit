@@ -34,24 +34,4 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Unix Time is defined as the number of seconds that have elapsed since when?**
-
-Choose your answer:
-
-**A.** Midnight on the creator of Unix's birthday
-
-**B.** Midnight, January 1, 1970
-
-**C.** Midnight, July 4, 1976
-
-**D.** Midnight, July 4, 1980
-
-<details>
-<summary>🎯 Click to reveal the correct answer!</summary>
-
-### ✅ Correct Answer: **B**
-**Midnight, January 1, 1970**
-
----
-*Challenge yourself daily with programming trivia!* 🚀
-</details>
+Could not fetch a programming trivia right now. Please try again later.
