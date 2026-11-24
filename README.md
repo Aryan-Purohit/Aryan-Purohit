@@ -34,4 +34,24 @@
 
 ## 🧠 Daily Programming Trivia
 
-Could not fetch a programming trivia right now. Please try again later.
+**❓ What does the 'S' in the RSA encryption algorithm stand for?**
+
+Choose your answer:
+
+**A.** Schottky
+
+**B.** Secure
+
+**C.** Stable
+
+**D.** Shamir
+
+<details>
+<summary>🎯 Click to reveal the correct answer!</summary>
+
+### ✅ Correct Answer: **D**
+**Shamir**
+
+---
+*Challenge yourself daily with programming trivia!* 🚀
+</details>
