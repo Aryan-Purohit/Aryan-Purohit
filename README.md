@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does the 'S' in the RSA encryption algorithm stand for?**
+**❓ Nvidia's headquarters are based in which Silicon Valley city?**
 
 Choose your answer:
 
-**A.** Schottky
+**A.** Palo Alto
 
-**B.** Secure
+**B.** Mountain View
 
-**C.** Stable
+**C.** Santa Clara
 
-**D.** Shamir
+**D.** Cupertino
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **D**
-**Shamir**
+### ✅ Correct Answer: **C**
+**Santa Clara**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
