@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Nvidia's headquarters are based in which Silicon Valley city?**
+**❓ Approximately how many Apple I personal computers were created?**
 
 Choose your answer:
 
-**A.** Palo Alto
+**A.** 1000
 
-**B.** Mountain View
+**B.** 100
 
-**C.** Santa Clara
+**C.** 200
 
-**D.** Cupertino
+**D.** 500
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
 ### ✅ Correct Answer: **C**
-**Santa Clara**
+**200**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
