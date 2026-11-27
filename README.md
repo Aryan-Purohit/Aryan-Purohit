@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ Approximately how many Apple I personal computers were created?**
+**❓ What does GHz stand for?**
 
 Choose your answer:
 
-**A.** 1000
+**A.** Gigahertz
 
-**B.** 100
+**B.** Gigahetz
 
-**C.** 200
+**C.** Gigahotz
 
-**D.** 500
+**D.** Gigahatz
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **C**
-**200**
+### ✅ Correct Answer: **A**
+**Gigahertz**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
