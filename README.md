@@ -34,23 +34,23 @@
 
 ## 🧠 Daily Programming Trivia
 
-**❓ What does GHz stand for?**
+**❓ In computing terms, typically what does CLI stand for?**
 
 Choose your answer:
 
-**A.** Gigahertz
+**A.** Common Language Input
 
-**B.** Gigahetz
+**B.** Control Line Interface
 
-**C.** Gigahotz
+**C.** Command Line Interface
 
-**D.** Gigahatz
+**D.** Common Language Interface
 
 <details>
 <summary>🎯 Click to reveal the correct answer!</summary>
 
-### ✅ Correct Answer: **A**
-**Gigahertz**
+### ✅ Correct Answer: **C**
+**Command Line Interface**
 
 ---
 *Challenge yourself daily with programming trivia!* 🚀
